@@ -3,9 +3,5 @@
 requires = [
     "setuptools>=42",
     "wheel",
-    "cssutils",
-    "gpxpy",
-    "geohash2",
-    "geopy",
 ]
 build-backend = "setuptools.build_meta"
