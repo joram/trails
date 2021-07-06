@@ -1,0 +1,5 @@
+/data/
+/http_cache.sqlite
+/scrapers/cache.sqlite
+.idea
+*__pycache__*
