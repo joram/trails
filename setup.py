@@ -17,7 +17,6 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "trails"},
     packages=["trails"],
     package_data={  # Optional
         'data': ['trails/data/*'],
