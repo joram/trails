@@ -115,7 +115,7 @@ def trailpeak_trails():
         photos_div = soup.find("div", {"id": "photoBox"})
         photos_attr = json.loads(photos_div.find("photo-box")[":photos"])
         if photos_attr:
-            photos = [f"https://trailpeak.com{img['src']}" for img in photos_attr]
+            photos = [f"https://trailpeak.com{img['trails']}" for img in photos_attr]
 
         stats = {}
         stats_div = soup.find("v-tab", {"title": "Stats"})
@@ -226,10 +226,10 @@ if __name__ == "__main__":
             del trail["gpx_data"]
 
             dir_path = os.path.dirname(os.path.realpath(__file__))
-            with open(f"{dir_path}/../src/data/{trail['trail_id']}.json", "w") as f:
+            with open(f"{dir_path}/../trails/data/{trail['trail_id']}.json", "w") as f:
                 f.write(json.dumps(trail, indent=4, sort_keys=True))
 
-            with open(f"{dir_path}/../src/data/{trail['trail_id']}.gpx", "wb") as f:
+            with open(f"{dir_path}/../trails/data/{trail['trail_id']}.gpx", "wb") as f:
                 f.write(gpx)
 
         i += 1
