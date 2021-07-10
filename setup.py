@@ -19,5 +19,8 @@ setuptools.setup(
     ],
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
+    package_data={  # Optional
+        'data': ['src/data/*'],
+    },
     python_requires=">=3.6",
 )

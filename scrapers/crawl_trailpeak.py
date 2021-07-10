@@ -6,7 +6,11 @@ import random
 import re
 import string
 import urllib.parse
+from io import StringIO
 from typing import List
+import gpxpy
+import gpxpy.gpx
+import pygeohash
 
 import bs4
 import requests
@@ -127,16 +131,47 @@ def trailpeak_trails():
         show_gps = soup.find("show-gps")
         if show_gps:
             trail_id = show_gps.attrs.get(":tid")
+        gpx_data = get_gpx(spider, response, soup)
         yield {
             "trail_id": trail_id,
-            "gpx_data": get_gpx(spider, response, soup),
+            "gpx_data": gpx_data,
             "source_url": response.request.url,
             "title": soup.find("h1", {"class": "title"}).text.strip("\t\n "),
             "description": description_div.text.strip("\n "),
             "directions": directions_div.text.strip("\n "),
+            "geohash": get_geohash(gpx_data),
             "photos": photos,
             "stats": stats,
         }
+
+
+def get_geohash(gpx_data) -> str:
+
+    def _same_prefix(a: str, b: str) -> str:
+        prefix = ""
+        max_len = min([len(a), len(b)])
+        for i in range(0, max_len):
+            if a[i] != b[i]:
+                break
+            prefix = f"{prefix}{a[i]}"
+        return prefix
+
+    if gpx_data is None:
+        logger.info("failed to parse gpx file: no gpx content")
+        return None
+    try:
+        data = gpx_data.decode('utf-8')
+        gpx = gpxpy.parse(data)
+    except:
+        logger.info("failed to parse gpx file")
+        return None
+    gpx.refresh_bounds()
+    if gpx.bounds is None:
+        logger.info("failed to parse gpx file: no gpx bounds")
+        return None
+    ne = pygeohash.encode(gpx.bounds.max_latitude, gpx.bounds.max_longitude)
+    sw = pygeohash.encode(gpx.bounds.min_latitude, gpx.bounds.min_longitude)
+    return _same_prefix(ne, sw)
 
 
 def get_gpx(spider, response, soup):

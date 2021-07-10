@@ -1,24 +1,39 @@
 import json
 import os
 
+import gpxpy
+
 
 class Trail:
-    def __init__(self, title, description, directions, photos, source_url, stats, gps_filepath):
+    def __init__(self, title, description, directions, photos, source_url, stats, gpx_filepath):
         self.title = title
         self.description = description
         self.directions = directions
         self.photos = photos
         self.source_url = source_url
         self.stats = stats
-        self.gps_filepath = gps_filepath
-        self._gps_content = None
+        self.gpx_filepath = gpx_filepath
+        self._gpx_content = None
 
     @property
-    def gps_data(self):
-        if self._gps_content is None:
-            with open(self.gps_filepath) as f:
-                self._gps_content = f.read()
-        return self._gps_content
+    def gpx_data(self):
+        if self._gpx_content is None:
+            with open(self.gpx_filepath) as f:
+                self._gpx_content = f.read()
+        return self._gpx_content
+
+    @property
+    def waypoints(self):
+        data = self.gpx_data.decode('ascii')
+        gpx = gpxpy.parse(data)
+        for track in gpx.tracks:
+            for segment in track.segments:
+                for point in segment.points:
+                    yield {
+                        "lat": point.latitude,
+                        "lng": point.longitude,
+                        "alt": point.elevation,
+                    }
 
     def load_all(self):
         dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -37,6 +52,6 @@ class Trail:
                 photos=data["photos"],
                 source_url=data["source_url"],
                 stats=data["stats"],
-                gps_filepath=gpx_filepath,
+                gpx_filepath=gpx_filepath,
             )
             yield trail
