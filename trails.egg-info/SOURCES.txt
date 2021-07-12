@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+scrapers/__init__.py
+scrapers/crawl_trailpeak.py
+trails/__init__.py
+trails/trail.py
+trails.egg-info/PKG-INFO
+trails.egg-info/SOURCES.txt
+trails.egg-info/dependency_links.txt
+trails.egg-info/requires.txt
+trails.egg-info/top_level.txt
