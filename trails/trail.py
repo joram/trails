@@ -44,12 +44,14 @@ class Trail:
             return
         for track in gpx.tracks:
             for segment in track.segments:
+                leg = []
                 for point in segment.points:
-                    yield {
+                    leg.append({
                         "lat": point.latitude,
                         "lng": point.longitude,
                         "alt": point.elevation,
-                    }
+                    })
+                yield leg
 
     @classmethod
     def load_all(cls) -> List["Trail"]:
