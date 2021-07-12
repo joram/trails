@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="trails",
-    version="0.0.3",
+    version="0.0.4",
     author="John Oram",
     author_email="john@oram.ca",
     description="A small package of hiking and mountaineering trails",
@@ -17,12 +17,12 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=setuptools.find_packages(exclude=["test", "tests"]),
+    packages=["trails"],
     package_dir={
         "trails": "trails",
     },
     package_data={
-        'trails': ['trails/data/*'],
+        'trails': ['data/*'],
     },
     python_requires=">=3.6",
     install_requires=[
