@@ -17,10 +17,10 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=["trails"],
-    package_data={  # Optional
-        'data': ['trails/data/*'],
-    },
+    packages=setuptools.find_packages(exclude=["test", "tests"]),
+    # package_data={  # Optional
+    #     'data': ['trails/data/*'],
+    # },
     python_requires=">=3.6",
     install_requires=[
         "gpxpy",

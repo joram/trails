@@ -1,1 +1,1 @@
-from trail import Trail
+from .trail import Trail
