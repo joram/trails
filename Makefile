@@ -1,5 +1,6 @@
 crawl_trails:
-	./scrapers/crawl_trailpeak.py
+	./scripts/crawl_peakbagger.py
+	#./scripts/crawl_trailpeak.py
 
 crawl_peaks:
-	./scrapers/crawl_peaks.py
+	./scripts/crawl_peaks.py
