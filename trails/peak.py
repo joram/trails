@@ -57,7 +57,7 @@ class Peak:
     def all_peaks(cls):
         global _peaks_by_geohash
         cls._load_peaks()
-        for peak in _peaks_by_geohash.keys():
+        for peak in _peaks_by_geohash.values():
             yield peak
 
     @classmethod
