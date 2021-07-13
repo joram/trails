@@ -27,6 +27,9 @@ class Trail:
         self._gpx_content = None
         self.peak = Peak.get_peak(self.nearest_peak_geohash)
 
+    def __str__(self):
+        return self.title
+
     def save(self):
         with open(self.filepath, "w") as f:
             f.write(json.dumps(self.json, indent=4, sort_keys=True))
