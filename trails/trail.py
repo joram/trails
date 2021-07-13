@@ -84,6 +84,16 @@ class Trail:
             }]
 
     @classmethod
+    def count(cls) -> int:
+        c = 0
+        dir_path = os.path.dirname(os.path.realpath(__file__))
+        data_dir = f"{dir_path}/data"
+        for filename in os.listdir(data_dir):
+            if filename.endswith(".json"):
+                c += 1
+        return c
+
+    @classmethod
     def load_all(cls) -> List["Trail"]:
         dir_path = os.path.dirname(os.path.realpath(__file__))
         data_dir = f"{dir_path}/data"
