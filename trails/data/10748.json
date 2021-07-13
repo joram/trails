@@ -1,4 +1,5 @@
 {
+    "center_geohash": "c3jk5tcfnrzr",
     "center_lat": 51.36009693145752,
     "center_lng": -116.21069749351591,
     "description": "Use two cars...park one car at Moraine Lake...the other at Paradise Valley.  Start at Moraine Lake and hike up to Larch Valley...then onto Sentinel Pass.  Hike down Sentinel Pass to Paradise Valley with a great detour to Giant Steps!",
@@ -22,6 +23,6 @@
         "Town": "Banff, AB",
         "Type": "out-and-back"
     },
-    "title": "Larch/Sentinel/Giant Steps/Paradise Valley",
+    "title": "Larch-Sentinel-Giant Steps-Paradise Valley",
     "trail_id": "10748"
 }

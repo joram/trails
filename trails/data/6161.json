@@ -1,4 +1,5 @@
 {
+    "center_geohash": "f2x7wsxcm0m8",
     "center_lat": 48.452669650000004,
     "center_lng": -68.25817789999999,
     "description": "Le sentier p\u00e9destre Chute Neigette / Mont-Comi est une section du sentier National de 15 km. Ce tron\u00e7on d\u00e9bute \u00e0 la chute Neigette (municipalit\u00e9 de Saint-Anaclet) et rejoint le Mont-Comi (municipalit\u00e9 de Saint-Donat)). Ult\u00e9rieurement, le sentier continuera vers Saint-Gabriel, la Montagne Saint-Pierre (La R\u00e9demption) pour finalement atteindre Amqui, dans la Matap\u00e9dia, et se connecter au SIA (Sentier International des Appalaches).Le trajet donatien d\u00e9bute au Parc du Mont-Comi (dans la piste Panoramique), rejoint le rang des \u00c9corchis puis se dirige vers la chute Neigette o\u00f9 les randonneurs peuvent profiter d?une vue exceptionnelle sur le fleuve en sillonnant les cr\u00eates (faille Neigette). Il se poursuit dans la MRC Rimouski-Neigette en enjambant la rivi\u00e8re Neigette au niveau de la magnifique chute Neigette. r\u00e9f\u00e9rences: http://www.saintdonat.ca/index.php?option=com_content&task=view&id=43&Itemid=30",
@@ -23,6 +24,6 @@
         "Town": "Saint-Donat, PQ",
         "Type": "out-and-back"
     },
-    "title": "Sentier National portion Chute Neigette / Mont-Comi",
+    "title": "Sentier National portion Chute Neigette - Mont-Comi",
     "trail_id": "6161"
 }

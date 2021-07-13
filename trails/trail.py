@@ -3,12 +3,15 @@ import os
 from typing import List
 
 import gpxpy
+import pygeohash
 
 from trails.peak import Peak
 
 
 class Trail:
-    def __init__(self, title, description, directions, photos, source_url, stats, geohash, gpx_filepath, center_lat, center_lng, nearest_peak_geohash):
+    def __init__(self, filepath, trail_id, title, description, directions, photos, source_url, stats, geohash, gpx_filepath, center_lat, center_lng, nearest_peak_geohash):
+        self.filepath = filepath
+        self.trail_id = trail_id
         self.title = title.replace("/", "-")
         self.description = description
         self.directions = directions
@@ -19,21 +22,31 @@ class Trail:
         self.geohash = geohash
         self.center_lat = center_lat
         self.center_lng = center_lng
+        self.center_geohash = pygeohash.encode(center_lat, center_lng)
         self.nearest_peak_geohash = nearest_peak_geohash
         self._gpx_content = None
+        self.peak = Peak.get_peak(self.nearest_peak_geohash)
+
+    def save(self):
+        with open(self.filepath, "w") as f:
+            f.write(json.dumps(self.json, indent=4, sort_keys=True))
 
     @property
     def json(self):
         return {
             "title": self.title,
+            "trail_id": self.trail_id,
             "description": self.description,
             "directions": self.directions,
             "photos": self.photos,
             "source_url": self.source_url,
             "stats": self.stats,
-            "waypoints": list(self.waypoints),
+            # "waypoints": list(self.waypoints),
             "geohash": self.geohash,
-            "peak": Peak.get_peak(self.nearest_peak_geohash)
+            "center_lat": self.center_lat,
+            "center_lng": self.center_lng,
+            "center_geohash": self.center_geohash,
+            "nearest_peak_geohash": self.nearest_peak_geohash,
         }
 
     @property
@@ -76,9 +89,11 @@ class Trail:
             filepath = os.path.join(data_dir, filename)
             gpx_filepath = filepath.replace(".json", ".gpx")
             f = open(filepath)
-            data = json.loads(f.read())
             try:
+                data = json.loads(f.read())
                 trail = Trail(
+                    filepath=filepath,
+                    trail_id=data["trail_id"],
                     title=data["title"],
                     description=data["description"],
                     directions=data["directions"],

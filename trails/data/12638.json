@@ -1,4 +1,5 @@
 {
+    "center_geohash": "cbbfyeqgwext",
     "center_lat": 49.72062177490443,
     "center_lng": -99.90010891109705,
     "description": "In addition to the 3 main ski trails, there are many hiking and snowshoe trails at the Brandon Hills. This trail will take you on an 8 km loop that completely bypasses the ski trails. This is important, because if cross country skiers encounter snowshoers on the ski trails they may be inclined to poke them with a ski pole.",
@@ -20,6 +21,6 @@
         "Town": "Brandon, MB",
         "Type": "out-and-back"
     },
-    "title": "Brandon Hills Hike/Snowshoe",
+    "title": "Brandon Hills Hike-Snowshoe",
     "trail_id": "12638"
 }

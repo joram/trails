@@ -1,6 +1,6 @@
 /data/
 /http_cache.sqlite
-/scrapers/cache.sqlite
+/scripts/cache.sqlite
 .idea
 *__pycache__*
 /enwiki-*-pages-articles-multistream.xml.bz2*

@@ -134,7 +134,7 @@ def trailpeak_trails():
         if show_gps:
             trail_id = show_gps.attrs.get(":tid")
         gpx_data = get_gpx(spider, response, soup)
-        geohash, avg_lat, avg_lng = get_geohash(gpx_data)
+        geohash, center_geohash, avg_lat, avg_lng = get_geohash(gpx_data)
         peak = Peak.closest_peak(avg_lat, avg_lng)
         yield {
             "trail_id": trail_id,
@@ -146,6 +146,7 @@ def trailpeak_trails():
             "geohash": geohash,
             "center_lat": avg_lat,
             "center_lng": avg_lng,
+            "center_geohash": center_geohash,
             "photos": photos,
             "stats": stats,
             "nearest_peak_geohash": peak.geohash if peak else None,
@@ -165,19 +166,19 @@ def get_geohash(gpx_data) -> (str, float, float):
 
     if gpx_data is None:
         logger.info("failed to parse gpx file: no gpx content")
-        return None, None, None
+        return None, None, None, None
     try:
         data = gpx_data.decode('utf-8')
         gpx = gpxpy.parse(data)
     except:
         logger.info("failed to parse gpx file")
-        return None, None, None
+        return None, None, None, None
 
     gpx.refresh_bounds()
     if gpx.bounds is None:
         if len(gpx.waypoints) == 0:
             logger.info("failed to parse gpx file: no gpx bounds")
-            return None, None, None
+            return None, None, None, None
         max_latitude = gpx.waypoints[0].latitude
         max_longitude = gpx.waypoints[0].longitude
         min_latitude = gpx.waypoints[0].latitude
@@ -198,8 +199,8 @@ def get_geohash(gpx_data) -> (str, float, float):
     sw = pygeohash.encode(min_latitude, min_longitude)
     avg_latitude = min_latitude + (max_latitude - min_latitude)/2
     avg_longitude = min_longitude + (max_longitude - min_longitude)/2
-
-    return _same_prefix(ne, sw), avg_latitude, avg_longitude
+    avg_geohash = pygeohash.encode(avg_latitude, avg_longitude)
+    return _same_prefix(ne, sw), avg_geohash, avg_latitude, avg_longitude
 
 
 def get_gpx(spider, response, soup):
