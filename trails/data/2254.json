@@ -1,6 +1,10 @@
 {
+    "center_lat": 52.13388150092214,
+    "center_lng": -115.44800276868045,
     "description": "NTS Map: 083B03\nBaseline Mountain is a hike of about 525m up and 4km long up to a lookout.  It can also be ridden and this mountain has been home to some serious MTBing (just goooogle \"Baseline Mountain\").",
     "directions": "From Hiway 11 in Rocky MH, go 52.5 km SW down Hiway 752, look for the trailhead on your left (south).  \nIf you get to the Forestry Trunk Road, you've gone about 10.6km too far.",
+    "geohash": "c3mb",
+    "nearest_peak_geohash": "c3mbt6e49mxn",
     "photos": [
         "https://trailpeak.com/storage//content/trails/Canada/AB/2254/reg_map.jpg"
     ],

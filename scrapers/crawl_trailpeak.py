@@ -6,7 +6,6 @@ import random
 import re
 import string
 import urllib.parse
-from io import StringIO
 from typing import List
 import gpxpy
 import gpxpy.gpx
@@ -18,9 +17,12 @@ import requests_cache
 from requests_cache import CachedSession
 from requests_toolbelt import MultipartEncoder
 
+from trails.peak import Peak
+
 logger = logging.getLogger(__name__)
 
 logging.basicConfig(level=logging.INFO)
+dir_path = os.path.dirname(os.path.realpath(__file__))
 
 
 class Spider:
@@ -115,7 +117,7 @@ def trailpeak_trails():
         photos_div = soup.find("div", {"id": "photoBox"})
         photos_attr = json.loads(photos_div.find("photo-box")[":photos"])
         if photos_attr:
-            photos = [f"https://trailpeak.com{img['trails']}" for img in photos_attr]
+            photos = [f"https://trailpeak.com{img['src']}" for img in photos_attr]
 
         stats = {}
         stats_div = soup.find("v-tab", {"title": "Stats"})
@@ -132,6 +134,8 @@ def trailpeak_trails():
         if show_gps:
             trail_id = show_gps.attrs.get(":tid")
         gpx_data = get_gpx(spider, response, soup)
+        geohash, avg_lat, avg_lng = get_geohash(gpx_data)
+        peak = Peak.closest_peak(avg_lat, avg_lng)
         yield {
             "trail_id": trail_id,
             "gpx_data": gpx_data,
@@ -139,13 +143,16 @@ def trailpeak_trails():
             "title": soup.find("h1", {"class": "title"}).text.strip("\t\n "),
             "description": description_div.text.strip("\n "),
             "directions": directions_div.text.strip("\n "),
-            "geohash": get_geohash(gpx_data),
+            "geohash": geohash,
+            "center_lat": avg_lat,
+            "center_lng": avg_lng,
             "photos": photos,
             "stats": stats,
+            "nearest_peak_geohash": peak.geohash if peak else None,
         }
 
 
-def get_geohash(gpx_data) -> str:
+def get_geohash(gpx_data) -> (str, float, float):
 
     def _same_prefix(a: str, b: str) -> str:
         prefix = ""
@@ -158,20 +165,41 @@ def get_geohash(gpx_data) -> str:
 
     if gpx_data is None:
         logger.info("failed to parse gpx file: no gpx content")
-        return None
+        return None, None, None
     try:
         data = gpx_data.decode('utf-8')
         gpx = gpxpy.parse(data)
     except:
         logger.info("failed to parse gpx file")
-        return None
+        return None, None, None
+
     gpx.refresh_bounds()
     if gpx.bounds is None:
-        logger.info("failed to parse gpx file: no gpx bounds")
-        return None
-    ne = pygeohash.encode(gpx.bounds.max_latitude, gpx.bounds.max_longitude)
-    sw = pygeohash.encode(gpx.bounds.min_latitude, gpx.bounds.min_longitude)
-    return _same_prefix(ne, sw)
+        if len(gpx.waypoints) == 0:
+            logger.info("failed to parse gpx file: no gpx bounds")
+            return None, None, None
+        max_latitude = gpx.waypoints[0].latitude
+        max_longitude = gpx.waypoints[0].longitude
+        min_latitude = gpx.waypoints[0].latitude
+        min_longitude = gpx.waypoints[0].longitude
+        for wp in gpx.waypoints:
+            max_latitude = max(max_latitude, wp.latitude)
+            max_longitude = max(max_longitude, wp.longitude)
+            min_latitude = min(min_latitude, wp.latitude)
+            min_longitude = min(min_longitude, wp.longitude)
+
+    else:
+        max_latitude = gpx.bounds.max_latitude
+        max_longitude = gpx.bounds.max_longitude
+        min_latitude = gpx.bounds.min_latitude
+        min_longitude = gpx.bounds.min_longitude
+
+    ne = pygeohash.encode(max_latitude, max_longitude)
+    sw = pygeohash.encode(min_latitude, min_longitude)
+    avg_latitude = min_latitude + (max_latitude - min_latitude)/2
+    avg_longitude = min_longitude + (max_longitude - min_longitude)/2
+
+    return _same_prefix(ne, sw), avg_latitude, avg_longitude
 
 
 def get_gpx(spider, response, soup):
@@ -183,7 +211,13 @@ def get_gpx(spider, response, soup):
 
     show_gps = soup.find("show-gps")
     if show_gps is None:
+        trail_id = response.request.url.split("-")[-1]
+        filepath = f"{dir_path}/../trails/data/{trail_id}.gpx"
+        if os.path.exists(filepath):
+            with open(filepath, "rb") as f:
+                return f.read()
         return None
+
     fields = {
         'tid': show_gps.attrs.get(":tid"),
         'cntry': show_gps.attrs.get("cntry"),
@@ -220,16 +254,18 @@ def get_gpx(spider, response, soup):
 if __name__ == "__main__":
     i = 0
     for trail in trailpeak_trails():
-        print(f"{i} {trail['title']}")
+        i += 1
+        if trail["trail_id"] is None:
+            continue
+        print(f"{i} {trail['title']} {trail['trail_id']}")
         gpx = trail.get('gpx_data')
         if gpx is not None:
             del trail["gpx_data"]
 
-            dir_path = os.path.dirname(os.path.realpath(__file__))
+
             with open(f"{dir_path}/../trails/data/{trail['trail_id']}.json", "w") as f:
                 f.write(json.dumps(trail, indent=4, sort_keys=True))
 
             with open(f"{dir_path}/../trails/data/{trail['trail_id']}.gpx", "wb") as f:
                 f.write(gpx)
 
-        i += 1

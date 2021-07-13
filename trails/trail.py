@@ -4,9 +4,11 @@ from typing import List
 
 import gpxpy
 
+from trails.peak import Peak
+
 
 class Trail:
-    def __init__(self, title, description, directions, photos, source_url, stats, geohash, gpx_filepath):
+    def __init__(self, title, description, directions, photos, source_url, stats, geohash, gpx_filepath, center_lat, center_lng, nearest_peak_geohash):
         self.title = title.replace("/", "-")
         self.description = description
         self.directions = directions
@@ -15,14 +17,23 @@ class Trail:
         self.stats = stats
         self.gpx_filepath = gpx_filepath
         self.geohash = geohash
+        self.center_lat = center_lat
+        self.center_lng = center_lng
+        self.nearest_peak_geohash = nearest_peak_geohash
         self._gpx_content = None
 
     @property
     def json(self):
         return {
             "title": self.title,
+            "description": self.description,
+            "directions": self.directions,
+            "photos": self.photos,
+            "source_url": self.source_url,
+            "stats": self.stats,
             "waypoints": list(self.waypoints),
             "geohash": self.geohash,
+            "peak": Peak.get_peak(self.nearest_peak_geohash)
         }
 
     @property
@@ -52,6 +63,8 @@ class Trail:
                         "alt": point.elevation,
                     })
                 yield leg
+        for waypoint in gpx.waypoints:
+            yield [waypoint]
 
     @classmethod
     def load_all(cls) -> List["Trail"]:
@@ -74,6 +87,9 @@ class Trail:
                     stats=data["stats"],
                     geohash=data["geohash"],
                     gpx_filepath=gpx_filepath,
+                    center_lat=data["center_lat"],
+                    center_lng=data["center_lng"],
+                    nearest_peak_geohash=data["nearest_peak_geohash"],
                 )
                 yield trail
             except:

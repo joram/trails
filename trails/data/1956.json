@@ -1,7 +1,10 @@
 {
+    "center_lat": 59.6643664395,
+    "center_lng": -135.1629041795,
     "description": "The Chilkoot Trail was originally used by Tlingit First Nations, but is known for its use by Klondike Gold Rush stampeders at the end of the last century. The hike takes you from rainforest on the Alaskan side, to Alpine over the Chilkoot Pass and boreal forest on the Canadian side. Beautiful viewscapes and artifacts from the Gold Rush are some of the highlights from the trail.",
     "directions": "The majority of hikers begin their hike at the southern trailhead in Dyea, Alaska. Leaving from Whitehorse, drive south on Alaska highway (approximately 25 km) and turn right on Klondike highway in the direction of Skagway, Alaska. Drive through Carcross and the US customs all the way to Skagway (approximately 100 km) From Skagway, follow directions to Dyea and park at the Chilkoot trailhead. Plan a 2-hour drive from Whitehorse.",
-    "geohash": null,
+    "geohash": "",
+    "nearest_peak_geohash": "bfxezm0ugz23",
     "photos": [
         "https://trailpeak.com/storage//content/trails/Canada/YT/1956/reg_Bareloonlake_best1_.jpg",
         "https://trailpeak.com/storage//content/trails/Canada/YT/1956/reg_ChilkootPassjpg.jpg",

@@ -1,6 +1,10 @@
 {
+    "center_lat": 47.270765499999996,
+    "center_lng": -70.6244885,
     "description": "Sentier de ski principalement sur piste, avec section ski nordique.",
     "directions": "Suivre les indications pour le centre de ski alpin \"Le Massif\" de Charlevoix.  L'accueil saisonier (hiver) du Sentier des Caps se trouve \u00e0 gauche sur cette route.",
+    "geohash": "f2mu",
+    "nearest_peak_geohash": "f2mv11cfuyz9",
     "photos": [
         "https://trailpeak.com/storage//content/trails/Canada/QC/6632/reg_100-1916-27496.jpg"
     ],

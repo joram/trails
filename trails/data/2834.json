@@ -1,6 +1,10 @@
 {
+    "center_lat": 48.4675858825,
+    "center_lng": -123.47033713249999,
     "description": "NTS Map: 092B06\r\nAn easy day hike around Lower Thetis Lake and up onto the ridge overlooking the lake.",
     "directions": "Start at the main beach accessible from the parking lot.\r\n\r\nParking lot is East of Langford, just West of Esquimalt, on the North side of Hiway #1 at Six-Mile road.",
+    "geohash": "c285",
+    "nearest_peak_geohash": "c285wx0wpc4q",
     "photos": [
         "https://trailpeak.com/storage//content/trails/Canada/BC/2834/topo_2.jpg"
     ],

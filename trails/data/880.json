@@ -1,6 +1,10 @@
 {
+    "center_lat": 49.480383474,
+    "center_lng": -123.6472582655,
     "description": "This is a X-Country area but you need to ski in. There are some good classic XC trails and some tele/alpine turns. There are three parking lots; we made it to the second one due to snow.  The road was in good shape. There is GPS data attached to this trail (see \"download GPS\"), which if loaded into your GPS can help you find route points.",
     "directions": "Take the BC Ferry from Horseshoe Bay to Gibsons via the Langdale ferry. Follow the Sunshine Coast Hwy (101) to Wilson Creek (First GPS W/P). Take a right on Feld Road and follow the signs to Dakota Ridge. (8 km from Wilson Creek there is a turn to Dakota Bowl; more info to come at the Bowl.)",
+    "geohash": "c2b1",
+    "nearest_peak_geohash": "c2b1mh2rhvfq",
     "photos": [
         "https://trailpeak.com/storage//content/trails/Canada/BC/880/reg_0207061557-11571.jpg",
         "https://trailpeak.com/storage//content/trails/Canada/BC/880/reg_0207061606-11571.jpg",

@@ -1,7 +1,10 @@
 {
+    "center_lat": 48.6700205,
+    "center_lng": -124.77376899999999,
     "description": "This is a Pacific Coast hiking trail.  Please see the links below for more information and the attached photos and the complete GPX track.http://en.wikipedia.org/wiki/West_Coast_Trailhttp://www.westcoasttrailbc.com/trail_guidebook_map.htmhttp://www.pc.gc.ca/eng/pn-np/bc/pacificrim/index.aspxhttp://www.westcoasttrail.com/",
     "directions": "Take Hiway 14 from Sooke.",
     "geohash": "c0x",
+    "nearest_peak_geohash": "c0xkbmbjd1ep",
     "photos": [
         "https://trailpeak.com/storage//content/trails/Canada/BC/11126/reg_10-Another-Boardwalk-44950.jpg",
         "https://trailpeak.com/storage//content/trails/Canada/BC/11126/reg_2-One-of-the-First-Hills-44950.jpg",

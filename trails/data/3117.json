@@ -1,6 +1,10 @@
 {
+    "center_lat": 46.340128215,
+    "center_lng": -62.644976363,
     "description": "A Cycle tour, when timing means everything.\r\n\r\nGPS data contains the shelter locations on route and the return trip, part road, part trail.\r\nJust when four days of cycle touring and a morning of",
     "directions": "From Charlottetown, follow the Rails to Trails route that runs behind the University of PEI, and head South-East toward Souris. At Baltic, take route 302 (Baltic Road) to the right to get to Red Point Provincial Park. Maybe you'll see a whale like I did!",
+    "geohash": "f8",
+    "nearest_peak_geohash": "f85rwzd3bce6",
     "photos": [
         "https://trailpeak.com/storage//content/trails/Canada/PE/3117/reg_Me_Rob_Wayne.jpg",
         "https://trailpeak.com/storage//content/trails/Canada/PE/3117/reg_balticroad.jpg",

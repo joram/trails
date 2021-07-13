@@ -3,3 +3,16 @@
 /scrapers/cache.sqlite
 .idea
 *__pycache__*
+/enwiki-*-pages-articles-multistream.xml.bz2*
+/cgn_ab_csv_eng.csv
+/cgn_bc_csv_eng.csv
+/cgn_nb_csv_eng.csv
+/cgn_nl_csv_eng.csv
+/cgn_ns_csv_eng.csv
+/cgn_nt_csv_eng.csv
+/cgn_nu_csv_eng.csv
+/cgn_on_csv_eng.csv
+/cgn_pe_csv_eng.csv
+/cgn_qc_csv_eng.csv
+/cgn_sk_csv_eng.csv
+/cgn_yt_csv_eng.csv

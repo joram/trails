@@ -1,6 +1,10 @@
 {
+    "center_lat": 49.7727795,
+    "center_lng": -123.12371350000001,
     "description": "Cross country loop around Alice Lake in Squamish.",
     "directions": "Drive north on Hwy 99 from Vancouver. Take entrance to Alice Lake park just north of Squamish. Park in lot.",
+    "geohash": "c2b7",
+    "nearest_peak_geohash": "c2b7rdnjrejz",
     "photos": [],
     "source_url": "https://trailpeak.com/trails/alice-lake-loop-near-squamish-bc-7135",
     "stats": {
