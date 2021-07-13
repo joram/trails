@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "Cypress Mtn - Family Guy",
-    "trail_id": "2979"
+    "trail_id": "2979",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.352449897,
+                "lng": -123.20051629
+            }
+        ]
+    ]
 }

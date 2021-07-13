@@ -41,7 +41,7 @@ class Trail:
             "photos": self.photos,
             "source_url": self.source_url,
             "stats": self.stats,
-            # "waypoints": list(self.waypoints),
+            "waypoints": list(self.waypoints),
             "geohash": self.geohash,
             "center_lat": self.center_lat,
             "center_lng": self.center_lng,
@@ -76,8 +76,12 @@ class Trail:
                         "alt": point.elevation,
                     })
                 yield leg
-        for waypoint in gpx.waypoints:
-            yield [waypoint]
+        for point in gpx.waypoints:
+            yield [{
+                "lat": point.latitude,
+                "lng": point.longitude,
+                "alt": point.elevation,
+            }]
 
     @classmethod
     def load_all(cls) -> List["Trail"]:

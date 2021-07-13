@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "University of Guelph Arboretum",
-    "trail_id": "1751"
+    "trail_id": "1751",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 43.535936646,
+                "lng": -80.219916657
+            }
+        ]
+    ]
 }

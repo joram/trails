@@ -24,5 +24,14 @@
         "Type": "out-and-back"
     },
     "title": "Jack's trail",
-    "trail_id": "473"
+    "trail_id": "473",
+    "waypoints": [
+        [
+            {
+                "alt": 91.440002,
+                "lat": 49.758365586,
+                "lng": -123.127121432
+            }
+        ]
+    ]
 }

@@ -24,5 +24,42 @@
         "Type": "out-and-back"
     },
     "title": "Technogrind (loop)",
-    "trail_id": "5802"
+    "trail_id": "5802",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.08995,
+                "lng": -117.78965
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.0895667,
+                "lng": -117.78965
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.0924167,
+                "lng": -117.7993667
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.0959667,
+                "lng": -117.796
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.0910167,
+                "lng": -117.7939833
+            }
+        ]
+    ]
 }

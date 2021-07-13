@@ -23,5 +23,14 @@
         "Type": "out-and-back"
     },
     "title": "Eagles Nest",
-    "trail_id": "1540"
+    "trail_id": "1540",
+    "waypoints": [
+        [
+            {
+                "alt": 90.248779,
+                "lat": 44.721475603,
+                "lng": -63.649368077
+            }
+        ]
+    ]
 }

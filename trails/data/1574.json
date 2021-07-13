@@ -26,5 +26,21 @@
         "Type": "out-and-back"
     },
     "title": "Miles Coulee Ridge (Whaleback Area)",
-    "trail_id": "1574"
+    "trail_id": "1574",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.890242367982864,
+                "lng": -114.255944006145
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.914236068725586,
+                "lng": -114.31111335754395
+            }
+        ]
+    ]
 }

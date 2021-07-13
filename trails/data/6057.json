@@ -28,5 +28,14 @@
         "Type": "out-and-back"
     },
     "title": "Lion's Head",
-    "trail_id": "6057"
+    "trail_id": "6057",
+    "waypoints": [
+        [
+            {
+                "alt": 0.0,
+                "lat": 49.108823121,
+                "lng": -113.826338567
+            }
+        ]
+    ]
 }

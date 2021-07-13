@@ -22,5 +22,35 @@
         "Type": "out-and-back"
     },
     "title": "Mt. Mercer trail",
-    "trail_id": "2098"
+    "trail_id": "2098",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.1148,
+                "lng": -121.73415
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.11507,
+                "lng": -121.72456
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.1155,
+                "lng": -121.72106
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.11546,
+                "lng": -121.72089
+            }
+        ]
+    ]
 }

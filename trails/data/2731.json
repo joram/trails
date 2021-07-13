@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "Logan Green Park",
-    "trail_id": "2731"
+    "trail_id": "2731",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 51.196155974,
+                "lng": -102.50816687
+            }
+        ]
+    ]
 }

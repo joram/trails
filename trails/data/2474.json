@@ -25,5 +25,14 @@
         "Type": "out-and-back"
     },
     "title": "Iron Horse Trail - OVERVIEW",
-    "trail_id": "2474"
+    "trail_id": "2474",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 54.114545387,
+                "lng": -111.498473263
+            }
+        ]
+    ]
 }

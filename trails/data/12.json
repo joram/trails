@@ -23,5 +23,21 @@
         "Type": "out-and-back"
     },
     "title": "Nickel Plate XC",
-    "trail_id": "12"
+    "trail_id": "12",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.385767959,
+                "lng": -119.955060616
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

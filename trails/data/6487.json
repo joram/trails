@@ -21,5 +21,35 @@
         "Type": "out-and-back"
     },
     "title": "Blue Rocks",
-    "trail_id": "6487"
+    "trail_id": "6487",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 44.3975974,
+                "lng": -64.2088543
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 44.354337,
+                "lng": -64.2346771
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 44.3838771,
+                "lng": -64.2117026
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 44.3537331,
+                "lng": -64.2348704
+            }
+        ]
+    ]
 }

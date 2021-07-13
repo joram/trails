@@ -33,5 +33,64 @@
         "Type": "out-and-back"
     },
     "title": "Riverlot 56 Natural Area - Stanski",
-    "trail_id": "6016"
+    "trail_id": "6016",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 53.65597,
+                "lng": -113.59612
+            },
+            {
+                "alt": null,
+                "lat": 53.66018,
+                "lng": -113.59113
+            },
+            {
+                "alt": null,
+                "lat": 53.66332,
+                "lng": -113.5911
+            },
+            {
+                "alt": null,
+                "lat": 53.65843,
+                "lng": -113.59616
+            },
+            {
+                "alt": null,
+                "lat": 53.65727,
+                "lng": -113.59249
+            },
+            {
+                "alt": null,
+                "lat": 53.6607,
+                "lng": -113.58949
+            },
+            {
+                "alt": null,
+                "lat": 53.66144,
+                "lng": -113.58224
+            },
+            {
+                "alt": null,
+                "lat": 53.65902,
+                "lng": -113.57813
+            },
+            {
+                "alt": null,
+                "lat": 53.65512,
+                "lng": -113.57974
+            },
+            {
+                "alt": null,
+                "lat": 53.65536,
+                "lng": -113.57957
+            },
+            {
+                "alt": null,
+                "lat": 53.65737,
+                "lng": -113.59663
+            }
+        ]
+    ]
 }

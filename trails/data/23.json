@@ -21,5 +21,21 @@
         "Type": "out-and-back"
     },
     "title": "Gabriola Island",
-    "trail_id": "23"
+    "trail_id": "23",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.170257984,
+                "lng": -123.846822249
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

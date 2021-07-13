@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "Belair forest on the North Star Trail",
-    "trail_id": "2732"
+    "trail_id": "2732",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 50.561570684,
+                "lng": -96.56724949
+            }
+        ]
+    ]
 }

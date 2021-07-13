@@ -22,5 +22,35 @@
         "Type": "out-and-back"
     },
     "title": "Battery - Signal Hill (part of The Grand Concourse)",
-    "trail_id": "597"
+    "trail_id": "597",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 47.567949749,
+                "lng": -52.687983668
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 47.568033578,
+                "lng": -52.683566926
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 47.569166442,
+                "lng": -52.67736617
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 47.570000104,
+                "lng": -52.681882866
+            }
+        ]
+    ]
 }

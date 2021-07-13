@@ -25,5 +25,21 @@
         "Type": "out-and-back"
     },
     "title": "Mt. Seymour - A Mountain Biking Overview",
-    "trail_id": "8"
+    "trail_id": "8",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.324866459,
+                "lng": -122.973618894
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

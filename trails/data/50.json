@@ -26,5 +26,28 @@
         "Type": "out-and-back"
     },
     "title": "Johnstone Strait",
-    "trail_id": "50"
+    "trail_id": "50",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 50.589293794,
+                "lng": -126.936892974
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 50.545349159,
+                "lng": -126.833940422
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 50.624013326,
+                "lng": -126.544647327
+            }
+        ]
+    ]
 }

@@ -23,5 +23,21 @@
         "Type": "out-and-back"
     },
     "title": "Deep Cove to Squamish",
-    "trail_id": "28"
+    "trail_id": "28",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.333299658,
+                "lng": -122.949999471
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

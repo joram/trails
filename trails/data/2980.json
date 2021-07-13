@@ -31,5 +31,21 @@
         "Type": "out-and-back"
     },
     "title": "Piegan Mountain (Glacier Park, Montana)",
-    "trail_id": "2980"
+    "trail_id": "2980",
+    "waypoints": [
+        [
+            {
+                "alt": 2803.855225,
+                "lat": 48.710569791,
+                "lng": -113.689130203
+            }
+        ],
+        [
+            {
+                "alt": 2657.855957,
+                "lat": 48.710610083,
+                "lng": -113.694449468
+            }
+        ]
+    ]
 }

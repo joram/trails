@@ -22,5 +22,21 @@
         "Type": "out-and-back"
     },
     "title": "Brandywine Falls",
-    "trail_id": "2709"
+    "trail_id": "2709",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 50.035716625,
+                "lng": -123.118683567
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 50.038216322,
+                "lng": -123.121900164
+            }
+        ]
+    ]
 }

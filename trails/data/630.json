@@ -21,5 +21,28 @@
         "Type": "out-and-back"
     },
     "title": "Nicola Valley Trail",
-    "trail_id": "630"
+    "trail_id": "630",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.381249272,
+                "lng": -121.391901666
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.36566508,
+                "lng": -121.373177649
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.380369172,
+                "lng": -121.358284535
+            }
+        ]
+    ]
 }

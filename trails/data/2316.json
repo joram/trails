@@ -24,5 +24,14 @@
         "Type": "out-and-back"
     },
     "title": "Ravenshoe",
-    "trail_id": "2316"
+    "trail_id": "2316",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 44.205933541,
+                "lng": -79.363472294
+            }
+        ]
+    ]
 }

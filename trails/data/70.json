@@ -23,5 +23,14 @@
         "Type": "out-and-back"
     },
     "title": "BlackJack XC",
-    "trail_id": "70"
+    "trail_id": "70",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.104075738,
+                "lng": -117.81077236
+            }
+        ]
+    ]
 }

@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "Gander Nordic Center (Airport Nordic Ski Club)",
-    "trail_id": "7041"
+    "trail_id": "7041",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 48.9594769,
+                "lng": -54.6661448
+            }
+        ]
+    ]
 }

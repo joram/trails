@@ -21,5 +21,49 @@
         "Type": "out-and-back"
     },
     "title": "Brittania Shipyard walkway at Steveston",
-    "trail_id": "835"
+    "trail_id": "835",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.12167028,
+                "lng": -123.172150219
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.122279561,
+                "lng": -123.174949626
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.123169588,
+                "lng": -123.179970441
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.12387966,
+                "lng": -123.184320544
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.124829644,
+                "lng": -123.186519804
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.121050437,
+                "lng": -123.17037051
+            }
+        ]
+    ]
 }

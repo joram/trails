@@ -22,5 +22,14 @@
         "Type": "out-and-back"
     },
     "title": "Squamish River Dykes",
-    "trail_id": "49"
+    "trail_id": "49",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.725164115,
+                "lng": -123.165092423
+            }
+        ]
+    ]
 }

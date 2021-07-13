@@ -31,5 +31,21 @@
         "Type": "out-and-back"
     },
     "title": "Broken Group",
-    "trail_id": "24"
+    "trail_id": "24",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 48.991404987,
+                "lng": -125.385779433
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

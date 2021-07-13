@@ -19,5 +19,28 @@
         "Type": "out-and-back"
     },
     "title": "Tinker Point Path (part of the East Coast Trail)",
-    "trail_id": "600"
+    "trail_id": "600",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 47.240283709,
+                "lng": -52.832799482
+            }
+        ],
+        [
+            {
+                "alt": 7.62,
+                "lat": 47.225299844,
+                "lng": -52.826267124
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 47.214483345,
+                "lng": -52.845466958
+            }
+        ]
+    ]
 }

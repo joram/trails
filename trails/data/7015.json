@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "Salmonier Nature Center",
-    "trail_id": "7015"
+    "trail_id": "7015",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 47.2648223,
+                "lng": -53.2837223
+            }
+        ]
+    ]
 }

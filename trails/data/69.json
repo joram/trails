@@ -22,5 +22,14 @@
         "Type": "out-and-back"
     },
     "title": "Otway XC",
-    "trail_id": "69"
+    "trail_id": "69",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 53.972118345,
+                "lng": -122.87308159
+            }
+        ]
+    ]
 }

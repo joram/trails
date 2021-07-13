@@ -33,5 +33,21 @@
         "Type": "out-and-back"
     },
     "title": "Nicomen Mountain",
-    "trail_id": "13453"
+    "trail_id": "13453",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.093136111111114,
+                "lng": -122.29725277777777
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.175121,
+                "lng": -122.152489
+            }
+        ]
+    ]
 }

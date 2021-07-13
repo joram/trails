@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "Yorkton Ravine Ecological Preserve",
-    "trail_id": "2730"
+    "trail_id": "2730",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 51.211270816,
+                "lng": -102.496226082
+            }
+        ]
+    ]
 }

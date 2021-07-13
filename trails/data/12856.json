@@ -25,5 +25,14 @@
         "Type": "out-and-back"
     },
     "title": "Lake Carnarvon Trail",
-    "trail_id": "12856"
+    "trail_id": "12856",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 50.372401,
+                "lng": -114.814854
+            }
+        ]
+    ]
 }

@@ -22,5 +22,14 @@
         "Type": "out-and-back"
     },
     "title": "Kettle Valley Railway - Mile 0 in Midway",
-    "trail_id": "2455"
+    "trail_id": "2455",
+    "waypoints": [
+        [
+            {
+                "alt": 580.643982,
+                "lat": 49.005162852,
+                "lng": -118.784797733
+            }
+        ]
+    ]
 }

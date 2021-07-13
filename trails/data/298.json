@@ -22,5 +22,21 @@
         "Type": "out-and-back"
     },
     "title": "The Monster",
-    "trail_id": "298"
+    "trail_id": "298",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.907919868,
+                "lng": -116.959010561
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.937850279,
+                "lng": -116.946929615
+            }
+        ]
+    ]
 }

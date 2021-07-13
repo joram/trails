@@ -25,5 +25,21 @@
         "Type": "out-and-back"
     },
     "title": "Delta Watershed",
-    "trail_id": "6"
+    "trail_id": "6",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.111633272,
+                "lng": -122.894517479
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

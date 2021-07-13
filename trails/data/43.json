@@ -22,5 +22,14 @@
         "Type": "out-and-back"
     },
     "title": "Matsqui Trail Walk",
-    "trail_id": "43"
+    "trail_id": "43",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.139071249,
+                "lng": -122.252286571
+            }
+        ]
+    ]
 }

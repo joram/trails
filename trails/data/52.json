@@ -28,5 +28,14 @@
         "Type": "out-and-back"
     },
     "title": "Lost Lake Trails",
-    "trail_id": "52"
+    "trail_id": "52",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 50.12444455,
+                "lng": -122.938110216
+            }
+        ]
+    ]
 }

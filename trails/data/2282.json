@@ -21,5 +21,14 @@
         "Type": "out-and-back"
     },
     "title": "Piper Down",
-    "trail_id": "2282"
+    "trail_id": "2282",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 54.769102013,
+                "lng": -127.275082147
+            }
+        ]
+    ]
 }

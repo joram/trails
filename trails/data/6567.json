@@ -25,5 +25,14 @@
         "Type": "out-and-back"
     },
     "title": "Hampton Ice climb",
-    "trail_id": "6567"
+    "trail_id": "6567",
+    "waypoints": [
+        [
+            {
+                "alt": 44.83,
+                "lat": 45.50135,
+                "lng": -65.91946
+            }
+        ]
+    ]
 }

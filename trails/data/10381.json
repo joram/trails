@@ -21,5 +21,14 @@
         "Type": "out-and-back"
     },
     "title": "Parc Gatineau - Boucle P5",
-    "trail_id": "10381"
+    "trail_id": "10381",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 45.5221857,
+                "lng": -75.8472919
+            }
+        ]
+    ]
 }

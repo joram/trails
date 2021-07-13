@@ -26,5 +26,14 @@
         "Type": "out-and-back"
     },
     "title": "Zugg Fossil Beds and Hike",
-    "trail_id": "716"
+    "trail_id": "716",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 50.793299898,
+                "lng": -121.14039009
+            }
+        ]
+    ]
 }

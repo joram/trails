@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "Gambier Lake",
-    "trail_id": "6059"
+    "trail_id": "6059",
+    "waypoints": [
+        [
+            {
+                "alt": 0.0,
+                "lat": 49.508666,
+                "lng": -123.395833
+            }
+        ]
+    ]
 }

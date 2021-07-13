@@ -23,5 +23,14 @@
         "Type": "out-and-back"
     },
     "title": "Amherst Community trail, Madeleine islands",
-    "trail_id": "1992"
+    "trail_id": "1992",
+    "waypoints": [
+        [
+            {
+                "alt": 29.445923,
+                "lat": 47.232843224,
+                "lng": -61.91477584
+            }
+        ]
+    ]
 }

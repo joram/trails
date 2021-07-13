@@ -26,5 +26,14 @@
         "Type": "out-and-back"
     },
     "title": "Smithers XC",
-    "trail_id": "68"
+    "trail_id": "68",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 54.727256736,
+                "lng": -127.200151422
+            }
+        ]
+    ]
 }

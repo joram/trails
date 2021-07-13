@@ -25,5 +25,21 @@
         "Type": "out-and-back"
     },
     "title": "Eagle Mtn - An Overview",
-    "trail_id": "9"
+    "trail_id": "9",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.311224219,
+                "lng": -122.82962261
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

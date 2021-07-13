@@ -23,5 +23,14 @@
         "Type": "out-and-back"
     },
     "title": "Lions",
-    "trail_id": "56"
+    "trail_id": "56",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.395005815,
+                "lng": -123.202873801
+            }
+        ]
+    ]
 }

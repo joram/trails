@@ -38,5 +38,14 @@
         "Type": "out-and-back"
     },
     "title": "Midway Hiking Trails",
-    "trail_id": "2454"
+    "trail_id": "2454",
+    "waypoints": [
+        [
+            {
+                "alt": 580.643982,
+                "lat": 49.005162852,
+                "lng": -118.784797733
+            }
+        ]
+    ]
 }

@@ -23,5 +23,21 @@
         "Type": "out-and-back"
     },
     "title": "Crippen Park - Bowen Island",
-    "trail_id": "14"
+    "trail_id": "14",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.384362437,
+                "lng": -123.35338541
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

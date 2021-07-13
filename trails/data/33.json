@@ -33,5 +33,21 @@
         "Type": "out-and-back"
     },
     "title": "Indian Arm",
-    "trail_id": "33"
+    "trail_id": "33",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.329571934,
+                "lng": -122.94964128
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

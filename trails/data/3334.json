@@ -19,5 +19,21 @@
         "Type": "out-and-back"
     },
     "title": "Gold Brook",
-    "trail_id": "3334"
+    "trail_id": "3334",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 46.240849823,
+                "lng": -60.919928513
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 46.245330485,
+                "lng": -60.894294428
+            }
+        ]
+    ]
 }

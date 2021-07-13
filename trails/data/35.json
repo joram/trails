@@ -23,5 +23,14 @@
         "Type": "out-and-back"
     },
     "title": "Belcarra Regional Park",
-    "trail_id": "35"
+    "trail_id": "35",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.31856762,
+                "lng": -122.926673455
+            }
+        ]
+    ]
 }

@@ -26,5 +26,14 @@
         "Type": "out-and-back"
     },
     "title": "Waipiti Valley Ski Resort",
-    "trail_id": "2224"
+    "trail_id": "2224",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 53.235424529,
+                "lng": -104.461293262
+            }
+        ]
+    ]
 }

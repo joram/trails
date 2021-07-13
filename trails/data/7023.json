@@ -19,5 +19,14 @@
         "Type": "out-and-back"
     },
     "title": "Pasadena Ski and Nature Park",
-    "trail_id": "7023"
+    "trail_id": "7023",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.0148163,
+                "lng": -57.6040649
+            }
+        ]
+    ]
 }

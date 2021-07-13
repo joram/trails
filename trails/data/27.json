@@ -25,5 +25,21 @@
         "Type": "out-and-back"
     },
     "title": "Vancouver Shoreline",
-    "trail_id": "27"
+    "trail_id": "27",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.272391145,
+                "lng": -123.19909871
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.377581573,
+                "lng": -123.191257459
+            }
+        ]
+    ]
 }

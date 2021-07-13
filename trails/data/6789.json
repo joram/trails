@@ -22,5 +22,14 @@
         "Type": "out-and-back"
     },
     "title": "Clam Harbour Beach kayak surfing",
-    "trail_id": "6789"
+    "trail_id": "6789",
+    "waypoints": [
+        [
+            {
+                "alt": 0.76,
+                "lat": 44.72333,
+                "lng": -62.88802
+            }
+        ]
+    ]
 }

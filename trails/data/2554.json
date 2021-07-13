@@ -24,5 +24,14 @@
         "Type": "out-and-back"
     },
     "title": "Knob Hill rock climbing, Crowsnest Pass",
-    "trail_id": "2554"
+    "trail_id": "2554",
+    "waypoints": [
+        [
+            {
+                "alt": 922.934387,
+                "lat": 49.622050262,
+                "lng": -114.658089916
+            }
+        ]
+    ]
 }

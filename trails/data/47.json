@@ -25,5 +25,14 @@
         "Type": "out-and-back"
     },
     "title": "UBC Pacific Spirit Park",
-    "trail_id": "47"
+    "trail_id": "47",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.263852915,
+                "lng": -123.215145654
+            }
+        ]
+    ]
 }

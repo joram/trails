@@ -22,5 +22,14 @@
         "Type": "out-and-back"
     },
     "title": "CohoWalk",
-    "trail_id": "41"
+    "trail_id": "41",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.358956878,
+                "lng": -123.106354765
+            }
+        ]
+    ]
 }

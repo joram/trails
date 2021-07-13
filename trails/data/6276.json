@@ -25,5 +25,14 @@
         "Type": "out-and-back"
     },
     "title": "Bathurst Lakes, Mount Carleton PP",
-    "trail_id": "6276"
+    "trail_id": "6276",
+    "waypoints": [
+        [
+            {
+                "alt": 0.0,
+                "lat": 47.390483247,
+                "lng": -66.800558771
+            }
+        ]
+    ]
 }

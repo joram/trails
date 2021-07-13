@@ -25,5 +25,21 @@
         "Type": "out-and-back"
     },
     "title": "Mill River Provincial Park",
-    "trail_id": "2857"
+    "trail_id": "2857",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 46.743536596,
+                "lng": -64.159713174
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 46.743536596,
+                "lng": -64.159713174
+            }
+        ]
+    ]
 }

@@ -22,5 +22,14 @@
         "Type": "out-and-back"
     },
     "title": "Campbell Valley Walk",
-    "trail_id": "42"
+    "trail_id": "42",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.031155821,
+                "lng": -122.65973902
+            }
+        ]
+    ]
 }

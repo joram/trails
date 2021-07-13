@@ -24,5 +24,35 @@
         "Type": "out-and-back"
     },
     "title": "Deer Park (A**hole) Summit",
-    "trail_id": "5798"
+    "trail_id": "5798",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.0669666,
+                "lng": -117.8201667
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.0739333,
+                "lng": -117.8246834
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.0645,
+                "lng": -117.8245834
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.0674,
+                "lng": -117.8219333
+            }
+        ]
+    ]
 }

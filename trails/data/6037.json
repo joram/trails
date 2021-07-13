@@ -19,5 +19,21 @@
         "Type": "out-and-back"
     },
     "title": "Telemark XC Ski Area",
-    "trail_id": "6037"
+    "trail_id": "6037",
+    "waypoints": [
+        [
+            {
+                "alt": 0.0,
+                "lat": 49.863061,
+                "lng": -119.7149083
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 49.8650104,
+                "lng": -119.7160598
+            }
+        ]
+    ]
 }

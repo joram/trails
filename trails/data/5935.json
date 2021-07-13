@@ -21,5 +21,14 @@
         "Type": "out-and-back"
     },
     "title": "The Beach",
-    "trail_id": "5935"
+    "trail_id": "5935",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 50.765,
+                "lng": -120.7225
+            }
+        ]
+    ]
 }
