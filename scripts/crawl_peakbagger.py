@@ -99,7 +99,10 @@ def get_trails():
                 gpx_response = spider.session.get(url)
 
             if peak_response and gpx_response:
-                trail = make_trail(response, peak_response, gpx_response)
+                try:
+                    trail = make_trail(response, peak_response, gpx_response)
+                except:
+                    continue
                 if trail is not None:
                     yield trail
 
