@@ -1,0 +1,144 @@
+{
+    "center_geohash": "drt7fr09dru7",
+    "center_lat": 42.8854315,
+    "center_lng": -71.2675215,
+    "description": "",
+    "directions": "",
+    "geohash": "drt7f",
+    "nearest_peak_geohash": "drt7fr17705z",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=409366",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Monday, April 28, 2014",
+        "Distance": "0.1 mi / 0.2 km",
+        "Elevation": "600 ft / 182 m",
+        "End Trailhead": "Entrance to Service Rd.\u00a0\u00a0540 ft / 164 m",
+        "Gain Breakdown": "Net: 60 ft / 18 m; Extra: 30 ft / 9m",
+        "Gain on way in": "90 ft / 27 m",
+        "Location": "USA-New Hampshire",
+        "Loss on way in": "30 ft / 9 m",
+        "Loss on way out": "60 ft / 18 m",
+        "Other People": "Solo Ascent",
+        "Peak": "Warner Hill",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.2 mi / 0.3 km",
+        "Route": "Service Road",
+        "Start Trailhead": "Entrance to Service Rd.\u00a0\u00a0540 ft / 164 m",
+        "Time": "3 Minutes",
+        "Total Elevation Gain": "90 ft / 27 m",
+        "Total Elevation Loss": "90 ft / 27 m",
+        "Weather": "Overcast"
+    },
+    "title": "Service Road",
+    "trail_id": "pb_409366",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 42.885201,
+                "lng": -71.26868
+            },
+            {
+                "alt": null,
+                "lat": 42.885221,
+                "lng": -71.268396
+            },
+            {
+                "alt": null,
+                "lat": 42.885264,
+                "lng": -71.268047
+            },
+            {
+                "alt": null,
+                "lat": 42.885303,
+                "lng": -71.267747
+            },
+            {
+                "alt": null,
+                "lat": 42.885339,
+                "lng": -71.267436
+            },
+            {
+                "alt": null,
+                "lat": 42.885374,
+                "lng": -71.267092
+            },
+            {
+                "alt": null,
+                "lat": 42.885402,
+                "lng": -71.266754
+            },
+            {
+                "alt": null,
+                "lat": 42.885449,
+                "lng": -71.266406
+            },
+            {
+                "alt": null,
+                "lat": 42.885586,
+                "lng": -71.26639
+            },
+            {
+                "alt": null,
+                "lat": 42.885673,
+                "lng": -71.266406
+            },
+            {
+                "alt": null,
+                "lat": 42.885693,
+                "lng": -71.266518
+            },
+            {
+                "alt": null,
+                "lat": 42.885626,
+                "lng": -71.266449
+            },
+            {
+                "alt": null,
+                "lat": 42.885634,
+                "lng": -71.266379
+            },
+            {
+                "alt": null,
+                "lat": 42.885512,
+                "lng": -71.266363
+            },
+            {
+                "alt": null,
+                "lat": 42.885425,
+                "lng": -71.266497
+            },
+            {
+                "alt": null,
+                "lat": 42.885417,
+                "lng": -71.266931
+            },
+            {
+                "alt": null,
+                "lat": 42.885374,
+                "lng": -71.267296
+            },
+            {
+                "alt": null,
+                "lat": 42.885331,
+                "lng": -71.267623
+            },
+            {
+                "alt": null,
+                "lat": 42.885299,
+                "lng": -71.267929
+            },
+            {
+                "alt": null,
+                "lat": 42.885248,
+                "lng": -71.26823
+            },
+            {
+                "alt": null,
+                "lat": 42.88517,
+                "lng": -71.268616
+            }
+        ]
+    ]
+}

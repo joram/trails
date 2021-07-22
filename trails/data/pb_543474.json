@@ -1,0 +1,222 @@
+{
+    "center_geohash": "spumjs1qbzpk",
+    "center_lat": 44.495826,
+    "center_lng": 6.2200205,
+    "description": "",
+    "directions": "",
+    "geohash": "spumjs",
+    "nearest_peak_geohash": "spumjs0xj07n",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=543474",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Sunday, July 5, 2015",
+        "Elevation": "5686 ft / 1733 m",
+        "Location": "France",
+        "Motorized Transport to Summit": "Car",
+        "Other People": "Solo Ascent",
+        "Peak": "Mont Colombis",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.4 mi / 0.6 km",
+        "Route": "road",
+        "Time": "5 Minutes",
+        "Total Elevation Gain": "43 ft / 13 m",
+        "Trailhead": "Summit car park\u00a0\u00a05643 ft / 1719 m"
+    },
+    "title": "road",
+    "trail_id": "pb_543474",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 44.496065,
+                "lng": 6.221239
+            },
+            {
+                "alt": null,
+                "lat": 44.496052,
+                "lng": 6.221216
+            },
+            {
+                "alt": null,
+                "lat": 44.496052,
+                "lng": 6.220986
+            },
+            {
+                "alt": null,
+                "lat": 44.496052,
+                "lng": 6.220633
+            },
+            {
+                "alt": null,
+                "lat": 44.495964,
+                "lng": 6.220291
+            },
+            {
+                "alt": null,
+                "lat": 44.495876,
+                "lng": 6.220061
+            },
+            {
+                "alt": null,
+                "lat": 44.495773,
+                "lng": 6.219639
+            },
+            {
+                "alt": null,
+                "lat": 44.495698,
+                "lng": 6.219153
+            },
+            {
+                "alt": null,
+                "lat": 44.49564,
+                "lng": 6.218929
+            },
+            {
+                "alt": null,
+                "lat": 44.495607,
+                "lng": 6.218916
+            },
+            {
+                "alt": null,
+                "lat": 44.495618,
+                "lng": 6.218877
+            },
+            {
+                "alt": null,
+                "lat": 44.4956,
+                "lng": 6.21861
+            },
+            {
+                "alt": null,
+                "lat": 44.495569,
+                "lng": 6.218382
+            },
+            {
+                "alt": null,
+                "lat": 44.495562,
+                "lng": 6.218367
+            },
+            {
+                "alt": null,
+                "lat": 44.495544,
+                "lng": 6.218359
+            },
+            {
+                "alt": null,
+                "lat": 44.495568,
+                "lng": 6.218361
+            },
+            {
+                "alt": null,
+                "lat": 44.495591,
+                "lng": 6.218514
+            },
+            {
+                "alt": null,
+                "lat": 44.495585,
+                "lng": 6.218575
+            },
+            {
+                "alt": null,
+                "lat": 44.495666,
+                "lng": 6.218901
+            },
+            {
+                "alt": null,
+                "lat": 44.495726,
+                "lng": 6.219231
+            },
+            {
+                "alt": null,
+                "lat": 44.495766,
+                "lng": 6.219546
+            },
+            {
+                "alt": null,
+                "lat": 44.495817,
+                "lng": 6.219887
+            },
+            {
+                "alt": null,
+                "lat": 44.495839,
+                "lng": 6.220136
+            },
+            {
+                "alt": null,
+                "lat": 44.495884,
+                "lng": 6.220331
+            },
+            {
+                "alt": null,
+                "lat": 44.495916,
+                "lng": 6.220585
+            },
+            {
+                "alt": null,
+                "lat": 44.495918,
+                "lng": 6.220826
+            },
+            {
+                "alt": null,
+                "lat": 44.495928,
+                "lng": 6.221101
+            },
+            {
+                "alt": null,
+                "lat": 44.495969,
+                "lng": 6.22125
+            },
+            {
+                "alt": null,
+                "lat": 44.496,
+                "lng": 6.221339
+            },
+            {
+                "alt": null,
+                "lat": 44.496037,
+                "lng": 6.221427
+            },
+            {
+                "alt": null,
+                "lat": 44.496068,
+                "lng": 6.221475
+            },
+            {
+                "alt": null,
+                "lat": 44.4961,
+                "lng": 6.221571
+            },
+            {
+                "alt": null,
+                "lat": 44.496108,
+                "lng": 6.221681
+            },
+            {
+                "alt": null,
+                "lat": 44.496108,
+                "lng": 6.221682
+            },
+            {
+                "alt": null,
+                "lat": 44.49606,
+                "lng": 6.22144
+            },
+            {
+                "alt": null,
+                "lat": 44.496,
+                "lng": 6.221301
+            },
+            {
+                "alt": null,
+                "lat": 44.495996,
+                "lng": 6.221272
+            },
+            {
+                "alt": null,
+                "lat": 44.49605,
+                "lng": 6.221225
+            }
+        ]
+    ]
+}

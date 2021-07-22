@@ -1,0 +1,98 @@
+{
+    "center_geohash": "9qez6c12efv3",
+    "center_lat": 37.842507999999995,
+    "center_lng": -118.353828,
+    "description": "",
+    "directions": "",
+    "geohash": "9qez6",
+    "nearest_peak_geohash": "9qez68r04f4m",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=343554",
+    "stats": {
+        "": "",
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Saturday, August 10, 2013",
+        "Elevation": "13441 ft / 4096 m",
+        "Location": "USA-California",
+        "Others in Party": "Mark ButskiGreg Gerlach\u00a0--\u00a0Trip Report or GPS TrackBrian Richardsson\u00a0--\u00a0Trip Report or GPS Trackand others for a total of 16----Only Party on Mountain",
+        "Peak": "Montgomery Peak",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "8 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "9 mi / 14.5 km",
+        "Route": "DPS Route C",
+        "Total Elevation Gain": "4500 ft / 1371 m",
+        "Trailhead": "8941 ft / 2725 m",
+        "Weather": "Cool, Calm, Clear"
+    },
+    "title": "DPS Route C",
+    "trail_id": "pb_343554",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 37.846101,
+                "lng": -118.351284
+            },
+            {
+                "alt": null,
+                "lat": 37.845571,
+                "lng": -118.351576
+            },
+            {
+                "alt": null,
+                "lat": 37.84514,
+                "lng": -118.352035
+            },
+            {
+                "alt": null,
+                "lat": 37.844453,
+                "lng": -118.35233
+            },
+            {
+                "alt": null,
+                "lat": 37.843834,
+                "lng": -118.352667
+            },
+            {
+                "alt": null,
+                "lat": 37.843264,
+                "lng": -118.353231
+            },
+            {
+                "alt": null,
+                "lat": 37.842666,
+                "lng": -118.353701
+            },
+            {
+                "alt": null,
+                "lat": 37.841988,
+                "lng": -118.354187
+            },
+            {
+                "alt": null,
+                "lat": 37.841282,
+                "lng": -118.354707
+            },
+            {
+                "alt": null,
+                "lat": 37.840686,
+                "lng": -118.35511
+            },
+            {
+                "alt": null,
+                "lat": 37.839862,
+                "lng": -118.355275
+            },
+            {
+                "alt": null,
+                "lat": 37.839194,
+                "lng": -118.355727
+            },
+            {
+                "alt": null,
+                "lat": 37.838915,
+                "lng": -118.356372
+            }
+        ]
+    ]
+}

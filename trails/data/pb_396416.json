@@ -1,0 +1,225 @@
+{
+    "center_geohash": "9tc0wcnu9wev",
+    "center_lat": 32.437942,
+    "center_lng": -110.78778,
+    "description": "",
+    "directions": "",
+    "geohash": "9tc0",
+    "nearest_peak_geohash": "9tc0wbtden8h",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=396416",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Thursday, March 13, 2014",
+        "Distance": "0.7 mi / 1 km",
+        "Elevation": "8800 ft / 2682 m",
+        "End Trailhead": "9150 ft / 2788 m",
+        "Gain on way out": "700 ft / 213 m",
+        "Location": "USA-Arizona",
+        "Loss on way out": "350 ft / 106 m",
+        "Other People": "Solo Ascent",
+        "Peak": "Lemmon Rock Lookout",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "1.3 mi / 2.1 km",
+        "Route": "Lookout Trail",
+        "Start Trailhead": "8800 ft / 2682 m",
+        "Total Elevation Gain": "700 ft / 213 m",
+        "Total Elevation Loss": "350 ft / 106 m"
+    },
+    "title": "Lookout Trail",
+    "trail_id": "pb_396416",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 32.440733,
+                "lng": -110.78587
+            },
+            {
+                "alt": null,
+                "lat": 32.440226,
+                "lng": -110.786018
+            },
+            {
+                "alt": null,
+                "lat": 32.440106,
+                "lng": -110.786642
+            },
+            {
+                "alt": null,
+                "lat": 32.439971,
+                "lng": -110.787197
+            },
+            {
+                "alt": null,
+                "lat": 32.439812,
+                "lng": -110.787619
+            },
+            {
+                "alt": null,
+                "lat": 32.439528,
+                "lng": -110.787932
+            },
+            {
+                "alt": null,
+                "lat": 32.439234,
+                "lng": -110.788331
+            },
+            {
+                "alt": null,
+                "lat": 32.438706,
+                "lng": -110.788153
+            },
+            {
+                "alt": null,
+                "lat": 32.438207,
+                "lng": -110.788053
+            },
+            {
+                "alt": null,
+                "lat": 32.437798,
+                "lng": -110.788177
+            },
+            {
+                "alt": null,
+                "lat": 32.437424,
+                "lng": -110.788557
+            },
+            {
+                "alt": null,
+                "lat": 32.437056,
+                "lng": -110.788811
+            },
+            {
+                "alt": null,
+                "lat": 32.43672,
+                "lng": -110.789169
+            },
+            {
+                "alt": null,
+                "lat": 32.436327,
+                "lng": -110.789464
+            },
+            {
+                "alt": null,
+                "lat": 32.435892,
+                "lng": -110.789609
+            },
+            {
+                "alt": null,
+                "lat": 32.435467,
+                "lng": -110.789646
+            },
+            {
+                "alt": null,
+                "lat": 32.435119,
+                "lng": -110.789499
+            },
+            {
+                "alt": null,
+                "lat": 32.434945,
+                "lng": -110.789361
+            },
+            {
+                "alt": null,
+                "lat": 32.435333,
+                "lng": -110.78969
+            },
+            {
+                "alt": null,
+                "lat": 32.435685,
+                "lng": -110.789665
+            },
+            {
+                "alt": null,
+                "lat": 32.436222,
+                "lng": -110.789604
+            },
+            {
+                "alt": null,
+                "lat": 32.436698,
+                "lng": -110.789271
+            },
+            {
+                "alt": null,
+                "lat": 32.437013,
+                "lng": -110.788881
+            },
+            {
+                "alt": null,
+                "lat": 32.437454,
+                "lng": -110.788641
+            },
+            {
+                "alt": null,
+                "lat": 32.4378,
+                "lng": -110.788265
+            },
+            {
+                "alt": null,
+                "lat": 32.438397,
+                "lng": -110.78806
+            },
+            {
+                "alt": null,
+                "lat": 32.438893,
+                "lng": -110.788254
+            },
+            {
+                "alt": null,
+                "lat": 32.439413,
+                "lng": -110.788281
+            },
+            {
+                "alt": null,
+                "lat": 32.439631,
+                "lng": -110.787891
+            },
+            {
+                "alt": null,
+                "lat": 32.43998,
+                "lng": -110.787562
+            },
+            {
+                "alt": null,
+                "lat": 32.44042,
+                "lng": -110.78737
+            },
+            {
+                "alt": null,
+                "lat": 32.440841,
+                "lng": -110.787587
+            },
+            {
+                "alt": null,
+                "lat": 32.440939,
+                "lng": -110.788174
+            },
+            {
+                "alt": null,
+                "lat": 32.440934,
+                "lng": -110.787941
+            },
+            {
+                "alt": null,
+                "lat": 32.440745,
+                "lng": -110.787437
+            },
+            {
+                "alt": null,
+                "lat": 32.44048,
+                "lng": -110.787041
+            },
+            {
+                "alt": null,
+                "lat": 32.440379,
+                "lng": -110.78642
+            },
+            {
+                "alt": null,
+                "lat": 32.440645,
+                "lng": -110.785876
+            }
+        ]
+    ]
+}

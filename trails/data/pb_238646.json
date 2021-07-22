@@ -1,0 +1,206 @@
+{
+    "center_geohash": "u2y0p0f31r7e",
+    "center_lat": 49.223081,
+    "center_lng": 19.998265500000002,
+    "description": "",
+    "directions": "",
+    "geohash": "u2y0p0f3",
+    "nearest_peak_geohash": "u2y0p0dp1svz",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=238646",
+    "stats": {
+        "": "",
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Saturday, April 28, 2012",
+        "Elevation": "6877 ft / 2096 m",
+        "Gain on way in": "1956 ft / 596 m",
+        "Location": "Poland/Slovakia",
+        "Peak": "Skrajna Turnia",
+        "Peakbagger.com": "\n\n\n",
+        "Route": "WHP3 & WHP8 (Liliowe)",
+        "Start Trailhead": "Murowaniec\u00a0\u00a04921 ft / 1499 m",
+        "Total Elevation Gain": "1956 ft / 596 m",
+        "Weather": "Pleasant, Calm, Clear"
+    },
+    "title": "WHP3 & WHP8 (Liliowe)",
+    "trail_id": "pb_238646",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.223101,
+                "lng": 19.998246
+            },
+            {
+                "alt": null,
+                "lat": 49.2231,
+                "lng": 19.998246
+            },
+            {
+                "alt": null,
+                "lat": 49.223096,
+                "lng": 19.998246
+            },
+            {
+                "alt": null,
+                "lat": 49.223081,
+                "lng": 19.998246
+            },
+            {
+                "alt": null,
+                "lat": 49.223071,
+                "lng": 19.998246
+            },
+            {
+                "alt": null,
+                "lat": 49.223071,
+                "lng": 19.99825
+            },
+            {
+                "alt": null,
+                "lat": 49.223071,
+                "lng": 19.998261
+            },
+            {
+                "alt": null,
+                "lat": 49.22307,
+                "lng": 19.998261
+            },
+            {
+                "alt": null,
+                "lat": 49.22307,
+                "lng": 19.998256
+            },
+            {
+                "alt": null,
+                "lat": 49.223066,
+                "lng": 19.998261
+            },
+            {
+                "alt": null,
+                "lat": 49.223066,
+                "lng": 19.99827
+            },
+            {
+                "alt": null,
+                "lat": 49.223066,
+                "lng": 19.998271
+            },
+            {
+                "alt": null,
+                "lat": 49.223061,
+                "lng": 19.998285
+            },
+            {
+                "alt": null,
+                "lat": 49.223061,
+                "lng": 19.998281
+            },
+            {
+                "alt": null,
+                "lat": 49.223065,
+                "lng": 19.998281
+            },
+            {
+                "alt": null,
+                "lat": 49.223065,
+                "lng": 19.998281
+            },
+            {
+                "alt": null,
+                "lat": 49.223066,
+                "lng": 19.998281
+            },
+            {
+                "alt": null,
+                "lat": 49.223066,
+                "lng": 19.99828
+            },
+            {
+                "alt": null,
+                "lat": 49.22307,
+                "lng": 19.99828
+            },
+            {
+                "alt": null,
+                "lat": 49.22307,
+                "lng": 19.998276
+            },
+            {
+                "alt": null,
+                "lat": 49.223071,
+                "lng": 19.998276
+            },
+            {
+                "alt": null,
+                "lat": 49.223066,
+                "lng": 19.99827
+            },
+            {
+                "alt": null,
+                "lat": 49.223071,
+                "lng": 19.998271
+            },
+            {
+                "alt": null,
+                "lat": 49.223075,
+                "lng": 19.99827
+            },
+            {
+                "alt": null,
+                "lat": 49.223076,
+                "lng": 19.998266
+            },
+            {
+                "alt": null,
+                "lat": 49.223076,
+                "lng": 19.998266
+            },
+            {
+                "alt": null,
+                "lat": 49.223076,
+                "lng": 19.998265
+            },
+            {
+                "alt": null,
+                "lat": 49.22308,
+                "lng": 19.998265
+            },
+            {
+                "alt": null,
+                "lat": 49.22308,
+                "lng": 19.998266
+            },
+            {
+                "alt": null,
+                "lat": 49.223076,
+                "lng": 19.998265
+            },
+            {
+                "alt": null,
+                "lat": 49.223081,
+                "lng": 19.998266
+            },
+            {
+                "alt": null,
+                "lat": 49.223081,
+                "lng": 19.998266
+            },
+            {
+                "alt": null,
+                "lat": 49.223086,
+                "lng": 19.998266
+            },
+            {
+                "alt": null,
+                "lat": 49.223091,
+                "lng": 19.998266
+            },
+            {
+                "alt": null,
+                "lat": 49.223091,
+                "lng": 19.998266
+            }
+        ]
+    ]
+}

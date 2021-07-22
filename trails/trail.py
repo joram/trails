@@ -1,11 +1,12 @@
 import json
 import os
-from typing import List
+from typing import List, Optional
 
 import gpxpy
 import pygeohash
 
 from trails.peak import Peak
+from geojson import FeatureCollection, Feature, MultiLineString
 
 
 class Trail:
@@ -34,9 +35,8 @@ class Trail:
         with open(self.filepath, "w") as f:
             f.write(json.dumps(self.json, indent=4, sort_keys=True))
 
-    @property
-    def json(self):
-        return {
+    def json(self, skinny=True):
+        data = {
             "title": self.title,
             "trail_id": self.trail_id,
             "description": self.description,
@@ -44,13 +44,36 @@ class Trail:
             "photos": self.photos,
             "source_url": self.source_url,
             "stats": self.stats,
-            "waypoints": list(self.waypoints),
             "geohash": self.geohash,
             "center_lat": self.center_lat,
             "center_lng": self.center_lng,
             "center_geohash": self.center_geohash,
             "nearest_peak_geohash": self.nearest_peak_geohash,
         }
+
+        if not skinny:
+            data["waypoints"] = list(self.waypoints)
+
+        return data
+
+    def geojson(self) -> Optional[FeatureCollection]:
+        if len(list(self.waypoints)) == 0:
+            return None
+
+        coordinates = []
+        for leg in self.waypoints:
+            points = []
+            for coord in leg:
+                points.append([coord["lng"], coord["lat"]])
+            coordinates.append(points)
+
+        return FeatureCollection([
+            Feature(
+                geometry=MultiLineString(
+                    coordinates=coordinates
+                )
+            )], id=self.geohash)
+
 
     @property
     def gpx_data(self) -> str:

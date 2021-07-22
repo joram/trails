@@ -1,0 +1,150 @@
+{
+    "center_geohash": "9qg0jp4zbgfm",
+    "center_lat": 38.0085535,
+    "center_lng": -119.3077115,
+    "description": "",
+    "directions": "",
+    "geohash": "9qg0",
+    "nearest_peak_geohash": "9qg0hyx0zn04",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=1448746",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Monday, August 3, 2020",
+        "Distance": "1.3 mi / 2 km",
+        "Elevation": "12040 ft / 3669 m",
+        "Gain on way in": "747 ft / 227 m",
+        "Grade/Class": "Class 2",
+        "Location": "USA-California",
+        "Loss on way in": "893 ft / 272 m",
+        "Other People": "Solo Ascent",
+        "Peak": "Shepherd Crest",
+        "Peakbagger.com": "\n\n\n",
+        "Route": "South face to Upper McCabe Lake",
+        "Start Trailhead": "12186 ft / 3714 m",
+        "Time": "1 Hours\u00a0",
+        "Total Elevation Gain": "747 ft / 227 m",
+        "Total Elevation Loss": "893 ft / 272 m"
+    },
+    "title": "South face to Upper McCabe Lake",
+    "trail_id": "pb_1448746",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 38.013298,
+                "lng": -119.307821
+            },
+            {
+                "alt": null,
+                "lat": 38.01176,
+                "lng": -119.30294
+            },
+            {
+                "alt": null,
+                "lat": 38.011151,
+                "lng": -119.302629
+            },
+            {
+                "alt": null,
+                "lat": 38.008624,
+                "lng": -119.309324
+            },
+            {
+                "alt": null,
+                "lat": 38.007787,
+                "lng": -119.309549
+            },
+            {
+                "alt": null,
+                "lat": 38.007077,
+                "lng": -119.309506
+            },
+            {
+                "alt": null,
+                "lat": 38.006028,
+                "lng": -119.309206
+            },
+            {
+                "alt": null,
+                "lat": 38.005555,
+                "lng": -119.309238
+            },
+            {
+                "alt": null,
+                "lat": 38.005183,
+                "lng": -119.30971
+            },
+            {
+                "alt": null,
+                "lat": 38.004811,
+                "lng": -119.309608
+            },
+            {
+                "alt": null,
+                "lat": 38.004511,
+                "lng": -119.309533
+            },
+            {
+                "alt": null,
+                "lat": 38.004477,
+                "lng": -119.309495
+            },
+            {
+                "alt": null,
+                "lat": 38.00427,
+                "lng": -119.309543
+            },
+            {
+                "alt": null,
+                "lat": 38.004088,
+                "lng": -119.309839
+            },
+            {
+                "alt": null,
+                "lat": 38.003966,
+                "lng": -119.310659
+            },
+            {
+                "alt": null,
+                "lat": 38.003809,
+                "lng": -119.310842
+            },
+            {
+                "alt": null,
+                "lat": 38.004084,
+                "lng": -119.311394
+            },
+            {
+                "alt": null,
+                "lat": 38.00408,
+                "lng": -119.311931
+            },
+            {
+                "alt": null,
+                "lat": 38.004181,
+                "lng": -119.312172
+            },
+            {
+                "alt": null,
+                "lat": 38.004384,
+                "lng": -119.312317
+            },
+            {
+                "alt": null,
+                "lat": 38.004562,
+                "lng": -119.312424
+            },
+            {
+                "alt": null,
+                "lat": 38.00468,
+                "lng": -119.31259
+            },
+            {
+                "alt": null,
+                "lat": 38.004718,
+                "lng": -119.312794
+            }
+        ]
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "center_geohash": "9qe6pnn08gm9",
+    "center_lat": 36.947125,
+    "center_lng": -118.86379099999999,
+    "description": "",
+    "directions": "",
+    "geohash": "9qe",
+    "nearest_peak_geohash": "9qed10f7rq9v",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=258639",
+    "stats": {
+        "": "",
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Monday, August 31, 1998",
+        "Distance": "15 mi / 24.1 km",
+        "Elevation": "7708 ft / 2349 m",
+        "End Trailhead": "6700 ft / 2042 m",
+        "Gain Breakdown": "Net: 1008 ft / 307 m; Extra: 1750 ft / 533m",
+        "Gain on way in": "2758 ft / 840 m",
+        "Gain on way out": "1750 ft / 533 m",
+        "Grade/Class": "5",
+        "Location": "USA-California",
+        "Loss Breakdown": "Net: 1008 ft / 307 m; Extra: 1750 ft / 533m",
+        "Loss on way in": "1750 ft / 533 m",
+        "Loss on way out": "2758 ft / 840 m",
+        "Motorized Transport to Trailhead": "Car",
+        "Nights Spent": "2 nights away from roads",
+        "Others in Party": "my wife Marcia went up to the dome and belayed me but didn't climb it due to a rainstorm starting up----Only Party on Mountain",
+        "Peak": "Tehipite Dome",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "30 mi / 48.3 km",
+        "Route": "used Secor's approach but different route up dome",
+        "Start Trailhead": "Rancheria Creek Trailhead\u00a0\u00a06700 ft / 2042 m",
+        "Total Elevation Gain": "4508 ft / 1373 m",
+        "Total Elevation Loss": "4508 ft / 1373 m"
+    },
+    "title": "used Secor's approach but different route up dome",
+    "trail_id": "pb_258639",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 36.975791,
+                "lng": -118.956694
+            },
+            {
+                "alt": null,
+                "lat": 36.973333,
+                "lng": -118.937986
+            },
+            {
+                "alt": null,
+                "lat": 36.970876,
+                "lng": -118.931279
+            },
+            {
+                "alt": null,
+                "lat": 36.965093,
+                "lng": -118.928279
+            },
+            {
+                "alt": null,
+                "lat": 36.964514,
+                "lng": -118.918043
+            },
+            {
+                "alt": null,
+                "lat": 36.959165,
+                "lng": -118.892452
+            },
+            {
+                "alt": null,
+                "lat": 36.94919,
+                "lng": -118.882922
+            },
+            {
+                "alt": null,
+                "lat": 36.948612,
+                "lng": -118.87498
+            },
+            {
+                "alt": null,
+                "lat": 36.944564,
+                "lng": -118.868803
+            },
+            {
+                "alt": null,
+                "lat": 36.948178,
+                "lng": -118.847448
+            },
+            {
+                "alt": null,
+                "lat": 36.94572,
+                "lng": -118.839683
+            },
+            {
+                "alt": null,
+                "lat": 36.941672,
+                "lng": -118.813916
+            },
+            {
+                "alt": null,
+                "lat": 36.941094,
+                "lng": -118.810033
+            },
+            {
+                "alt": null,
+                "lat": 36.936179,
+                "lng": -118.80262
+            },
+            {
+                "alt": null,
+                "lat": 36.935803,
+                "lng": -118.794467
+            },
+            {
+                "alt": null,
+                "lat": 36.933634,
+                "lng": -118.783525
+            },
+            {
+                "alt": null,
+                "lat": 36.940502,
+                "lng": -118.774524
+            },
+            {
+                "alt": null,
+                "lat": 36.936887,
+                "lng": -118.7747
+            },
+            {
+                "alt": null,
+                "lat": 36.935673,
+                "lng": -118.770888
+            },
+            {
+                "alt": null,
+                "lat": 36.934126,
+                "lng": -118.771488
+            },
+            {
+                "alt": null,
+                "lat": 36.931466,
+                "lng": -118.772088
+            },
+            {
+                "alt": null,
+                "lat": 36.929008,
+                "lng": -118.771876
+            },
+            {
+                "alt": null,
+                "lat": 36.927909,
+                "lng": -118.773076
+            },
+            {
+                "alt": null,
+                "lat": 36.926753,
+                "lng": -118.775053
+            },
+            {
+                "alt": null,
+                "lat": 36.924266,
+                "lng": -118.777347
+            },
+            {
+                "alt": null,
+                "lat": 36.922763,
+                "lng": -118.779183
+            },
+            {
+                "alt": null,
+                "lat": 36.920548,
+                "lng": -118.780242
+            },
+            {
+                "alt": null,
+                "lat": 36.919655,
+                "lng": -118.780414
+            },
+            {
+                "alt": null,
+                "lat": 36.919441,
+                "lng": -118.780353
+            },
+            {
+                "alt": null,
+                "lat": 36.918459,
+                "lng": -118.780945
+            }
+        ]
+    ]
+}

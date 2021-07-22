@@ -1,0 +1,180 @@
+{
+    "center_geohash": "drq4zgkxfw8y",
+    "center_lat": 41.2838675,
+    "center_lng": -69.96563549999999,
+    "description": "",
+    "directions": "",
+    "geohash": "drq4zg",
+    "nearest_peak_geohash": "drq4zgm82g82",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=870164",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Thursday, September 14, 2017",
+        "Elevation": "111 ft / 33 m",
+        "Location": "USA-Massachusetts",
+        "Motorized Transport to Trailhead": "Bicycle",
+        "Peak": "Sankaty Head",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.3 mi / 0.4 km",
+        "Route": "Open area",
+        "Total Elevation Gain": "6 ft / 1 m",
+        "Trailhead": "Parking lot\u00a0\u00a0105 ft / 32 m"
+    },
+    "title": "Open area",
+    "trail_id": "pb_870164",
+    "waypoints": [
+        [
+            {
+                "alt": 24.0,
+                "lat": 41.283292,
+                "lng": -69.965071
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283459,
+                "lng": -69.965122
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283512,
+                "lng": -69.965002
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283536,
+                "lng": -69.964969
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283571,
+                "lng": -69.964987
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283703,
+                "lng": -69.965071
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283873,
+                "lng": -69.965169
+            },
+            {
+                "alt": 23.0,
+                "lat": 41.284046,
+                "lng": -69.965237
+            },
+            {
+                "alt": 23.0,
+                "lat": 41.284172,
+                "lng": -69.965329
+            },
+            {
+                "alt": 23.0,
+                "lat": 41.284121,
+                "lng": -69.965451
+            },
+            {
+                "alt": 22.0,
+                "lat": 41.284108,
+                "lng": -69.965697
+            },
+            {
+                "alt": 22.0,
+                "lat": 41.284146,
+                "lng": -69.965841
+            },
+            {
+                "alt": 21.0,
+                "lat": 41.284277,
+                "lng": -69.966008
+            },
+            {
+                "alt": 21.0,
+                "lat": 41.284411,
+                "lng": -69.966187
+            },
+            {
+                "alt": 21.0,
+                "lat": 41.284479,
+                "lng": -69.966254
+            },
+            {
+                "alt": 21.0,
+                "lat": 41.284468,
+                "lng": -69.966302
+            },
+            {
+                "alt": 21.0,
+                "lat": 41.284354,
+                "lng": -69.966167
+            },
+            {
+                "alt": 22.0,
+                "lat": 41.284236,
+                "lng": -69.96597
+            },
+            {
+                "alt": 22.0,
+                "lat": 41.284116,
+                "lng": -69.965792
+            },
+            {
+                "alt": 22.0,
+                "lat": 41.283949,
+                "lng": -69.965675
+            },
+            {
+                "alt": 23.0,
+                "lat": 41.283811,
+                "lng": -69.965521
+            },
+            {
+                "alt": 23.0,
+                "lat": 41.283778,
+                "lng": -69.965487
+            },
+            {
+                "alt": 23.0,
+                "lat": 41.283662,
+                "lng": -69.965356
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283634,
+                "lng": -69.965286
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283615,
+                "lng": -69.965241
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283611,
+                "lng": -69.965213
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283487,
+                "lng": -69.965118
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283311,
+                "lng": -69.96505
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283272,
+                "lng": -69.965051
+            },
+            {
+                "alt": 24.0,
+                "lat": 41.283256,
+                "lng": -69.965078
+            }
+        ]
+    ]
+}

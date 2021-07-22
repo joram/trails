@@ -1,0 +1,200 @@
+{
+    "center_geohash": "u2wrc0gfqn9r",
+    "center_lat": 49.179347,
+    "center_lng": 20.088417,
+    "description": "",
+    "directions": "",
+    "geohash": "u2wrc0gf",
+    "nearest_peak_geohash": "u2wrc0ezp7nb",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=275455",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Saturday, October 6, 2012",
+        "Elevation": "8212 ft / 2503 m",
+        "Gain on way in": "3307 ft / 1007 m",
+        "Location": "Slovakia",
+        "Others in Party": "Tomasz TrawczynskiMonika Swierczek",
+        "Peak": "Rysy",
+        "Peakbagger.com": "\n\n\n",
+        "Route": "NykaSK 158",
+        "Start Trailhead": "Popradske Pleso\u00a0\u00a04905 ft / 1495 m",
+        "Total Elevation Gain": "3307 ft / 1007 m"
+    },
+    "title": "NykaSK 158",
+    "trail_id": "pb_275455",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 49.179361,
+                "lng": 20.088338
+            },
+            {
+                "alt": null,
+                "lat": 49.179361,
+                "lng": 20.088338
+            },
+            {
+                "alt": null,
+                "lat": 49.179351,
+                "lng": 20.088345
+            },
+            {
+                "alt": null,
+                "lat": 49.179338,
+                "lng": 20.088373
+            },
+            {
+                "alt": null,
+                "lat": 49.179328,
+                "lng": 20.088385
+            },
+            {
+                "alt": null,
+                "lat": 49.179323,
+                "lng": 20.088398
+            },
+            {
+                "alt": null,
+                "lat": 49.179318,
+                "lng": 20.088421
+            },
+            {
+                "alt": null,
+                "lat": 49.179328,
+                "lng": 20.088446
+            },
+            {
+                "alt": null,
+                "lat": 49.179336,
+                "lng": 20.08845
+            },
+            {
+                "alt": null,
+                "lat": 49.179346,
+                "lng": 20.088456
+            },
+            {
+                "alt": null,
+                "lat": 49.179355,
+                "lng": 20.088465
+            },
+            {
+                "alt": null,
+                "lat": 49.179363,
+                "lng": 20.088476
+            },
+            {
+                "alt": null,
+                "lat": 49.179363,
+                "lng": 20.08848
+            },
+            {
+                "alt": null,
+                "lat": 49.179361,
+                "lng": 20.088493
+            },
+            {
+                "alt": null,
+                "lat": 49.179351,
+                "lng": 20.088481
+            },
+            {
+                "alt": null,
+                "lat": 49.179345,
+                "lng": 20.088476
+            },
+            {
+                "alt": null,
+                "lat": 49.179345,
+                "lng": 20.088476
+            },
+            {
+                "alt": null,
+                "lat": 49.17935,
+                "lng": 20.088486
+            },
+            {
+                "alt": null,
+                "lat": 49.179356,
+                "lng": 20.088491
+            },
+            {
+                "alt": null,
+                "lat": 49.179361,
+                "lng": 20.088493
+            },
+            {
+                "alt": null,
+                "lat": 49.179365,
+                "lng": 20.088491
+            },
+            {
+                "alt": null,
+                "lat": 49.179373,
+                "lng": 20.088496
+            },
+            {
+                "alt": null,
+                "lat": 49.179375,
+                "lng": 20.088481
+            },
+            {
+                "alt": null,
+                "lat": 49.179376,
+                "lng": 20.088475
+            },
+            {
+                "alt": null,
+                "lat": 49.179365,
+                "lng": 20.088451
+            },
+            {
+                "alt": null,
+                "lat": 49.179363,
+                "lng": 20.088441
+            },
+            {
+                "alt": null,
+                "lat": 49.17936,
+                "lng": 20.088435
+            },
+            {
+                "alt": null,
+                "lat": 49.179356,
+                "lng": 20.088428
+            },
+            {
+                "alt": null,
+                "lat": 49.179345,
+                "lng": 20.088393
+            },
+            {
+                "alt": null,
+                "lat": 49.179355,
+                "lng": 20.088416
+            },
+            {
+                "alt": null,
+                "lat": 49.17936,
+                "lng": 20.088431
+            },
+            {
+                "alt": null,
+                "lat": 49.179363,
+                "lng": 20.088438
+            },
+            {
+                "alt": null,
+                "lat": 49.179365,
+                "lng": 20.08844
+            },
+            {
+                "alt": null,
+                "lat": 49.179365,
+                "lng": 20.08844
+            }
+        ]
+    ]
+}

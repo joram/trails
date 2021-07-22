@@ -1,0 +1,148 @@
+{
+    "center_geohash": "9rbe9901hexy",
+    "center_lat": 44.214669,
+    "center_lng": -122.98075349999999,
+    "description": "",
+    "directions": "",
+    "geohash": "9rbe9",
+    "nearest_peak_geohash": "9rbe92svn0sq",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=197178",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Thursday, September 15, 2011",
+        "Elevation": "3166 ft / 964 m",
+        "Location": "USA-Oregon",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Mount Tom",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "2 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1.2 mi / 1.9 km",
+        "Route": "Mt. Tom Road",
+        "Total Elevation Gain": "150 ft / 45 m",
+        "Trailhead": "Gate\u00a0\u00a03016 ft / 919 m",
+        "Weather": "Cool, Breezy, Overcast"
+    },
+    "title": "Mt. Tom Road",
+    "trail_id": "pb_197178",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 44.216752,
+                "lng": -122.976388
+            },
+            {
+                "alt": null,
+                "lat": 44.21658,
+                "lng": -122.976708
+            },
+            {
+                "alt": null,
+                "lat": 44.216365,
+                "lng": -122.977416
+            },
+            {
+                "alt": null,
+                "lat": 44.216279,
+                "lng": -122.977566
+            },
+            {
+                "alt": null,
+                "lat": 44.216043,
+                "lng": -122.977802
+            },
+            {
+                "alt": null,
+                "lat": 44.215872,
+                "lng": -122.97791
+            },
+            {
+                "alt": null,
+                "lat": 44.215764,
+                "lng": -122.97806
+            },
+            {
+                "alt": null,
+                "lat": 44.215679,
+                "lng": -122.978253
+            },
+            {
+                "alt": null,
+                "lat": 44.215357,
+                "lng": -122.978596
+            },
+            {
+                "alt": null,
+                "lat": 44.215271,
+                "lng": -122.978789
+            },
+            {
+                "alt": null,
+                "lat": 44.215228,
+                "lng": -122.979047
+            },
+            {
+                "alt": null,
+                "lat": 44.215228,
+                "lng": -122.97939
+            },
+            {
+                "alt": null,
+                "lat": 44.215314,
+                "lng": -122.979927
+            },
+            {
+                "alt": null,
+                "lat": 44.215314,
+                "lng": -122.980313
+            },
+            {
+                "alt": null,
+                "lat": 44.215013,
+                "lng": -122.980828
+            },
+            {
+                "alt": null,
+                "lat": 44.214692,
+                "lng": -122.981193
+            },
+            {
+                "alt": null,
+                "lat": 44.214262,
+                "lng": -122.981772
+            },
+            {
+                "alt": null,
+                "lat": 44.214112,
+                "lng": -122.982244
+            },
+            {
+                "alt": null,
+                "lat": 44.213962,
+                "lng": -122.982501
+            },
+            {
+                "alt": null,
+                "lat": 44.213469,
+                "lng": -122.984797
+            },
+            {
+                "alt": null,
+                "lat": 44.213082,
+                "lng": -122.985119
+            },
+            {
+                "alt": null,
+                "lat": 44.212586,
+                "lng": -122.985099
+            },
+            {
+                "alt": null,
+                "lat": 44.212589,
+                "lng": -122.984969
+            }
+        ]
+    ]
+}

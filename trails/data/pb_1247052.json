@@ -1,0 +1,153 @@
+{
+    "center_geohash": "dnhxkkfkh7nq",
+    "center_lat": 35.051210499999996,
+    "center_lng": -83.4818265,
+    "description": "",
+    "directions": "",
+    "geohash": "dnhxk",
+    "nearest_peak_geohash": "dnhxkk9jgyss",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=1247052",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Thursday, September 19, 2019",
+        "Elevation": "5240 ft / 1597 m",
+        "Location": "USA-North Carolina",
+        "Motorized Transport to Trailhead": "4x4 Vehicle",
+        "Other People": "Solo Ascent",
+        "Peak": "Yellow Bald",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.5 mi / 0.8 km",
+        "Route": "Bushwhack",
+        "Time": "30 Minutes",
+        "Total Elevation Gain": "242 ft / 73 m",
+        "Trailhead": "35.0523, -83.4802\u00a0\u00a04998 ft / 1523 m",
+        "Weather": "Cool, Breezy, Partly Cloudy"
+    },
+    "title": "Bushwhack",
+    "trail_id": "pb_1247052",
+    "waypoints": [
+        [
+            {
+                "alt": 1520.0,
+                "lat": 35.05228,
+                "lng": -83.480156
+            },
+            {
+                "alt": 1516.0,
+                "lat": 35.052304,
+                "lng": -83.480426
+            },
+            {
+                "alt": 1514.0,
+                "lat": 35.052322,
+                "lng": -83.480614
+            },
+            {
+                "alt": 1512.0,
+                "lat": 35.052375,
+                "lng": -83.480781
+            },
+            {
+                "alt": 1512.0,
+                "lat": 35.052325,
+                "lng": -83.481007
+            },
+            {
+                "alt": 1512.0,
+                "lat": 35.052285,
+                "lng": -83.48116
+            },
+            {
+                "alt": 1513.0,
+                "lat": 35.052209,
+                "lng": -83.481405
+            },
+            {
+                "alt": 1515.0,
+                "lat": 35.052152,
+                "lng": -83.481341
+            },
+            {
+                "alt": 1521.0,
+                "lat": 35.052007,
+                "lng": -83.48136
+            },
+            {
+                "alt": 1523.0,
+                "lat": 35.051876,
+                "lng": -83.481415
+            },
+            {
+                "alt": 1527.0,
+                "lat": 35.051691,
+                "lng": -83.481572
+            },
+            {
+                "alt": 1532.0,
+                "lat": 35.051514,
+                "lng": -83.481699
+            },
+            {
+                "alt": 1538.0,
+                "lat": 35.051371,
+                "lng": -83.481874
+            },
+            {
+                "alt": 1544.0,
+                "lat": 35.051241,
+                "lng": -83.4821
+            },
+            {
+                "alt": 1545.0,
+                "lat": 35.051097,
+                "lng": -83.482077
+            },
+            {
+                "alt": 1550.0,
+                "lat": 35.051025,
+                "lng": -83.482232
+            },
+            {
+                "alt": 1556.0,
+                "lat": 35.050887,
+                "lng": -83.482368
+            },
+            {
+                "alt": 1561.0,
+                "lat": 35.050768,
+                "lng": -83.482516
+            },
+            {
+                "alt": 1570.0,
+                "lat": 35.050614,
+                "lng": -83.482728
+            },
+            {
+                "alt": 1579.0,
+                "lat": 35.050509,
+                "lng": -83.482969
+            },
+            {
+                "alt": 1584.0,
+                "lat": 35.050382,
+                "lng": -83.483069
+            },
+            {
+                "alt": 1591.0,
+                "lat": 35.050255,
+                "lng": -83.483247
+            },
+            {
+                "alt": 1597.0,
+                "lat": 35.050148,
+                "lng": -83.483438
+            },
+            {
+                "alt": 1596.0,
+                "lat": 35.050046,
+                "lng": -83.483497
+            }
+        ]
+    ]
+}

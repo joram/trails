@@ -1,0 +1,228 @@
+{
+    "center_geohash": "9q59gu5rgw42",
+    "center_lat": 34.080952499999995,
+    "center_lng": -118.6587135,
+    "description": "",
+    "directions": "",
+    "geohash": "9q59g",
+    "nearest_peak_geohash": "9q59gg71zjx2",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=376264",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Sunday, December 29, 2013",
+        "Elevation": "2806 ft / 855 m",
+        "Location": "USA-California",
+        "Others in Party": "Tanya Roton. Maya----Only Party on Mountain",
+        "Peak": "Saddle Peak West",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "7 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "4.3 mi / 6.9 km",
+        "Route": "Backbone Trail",
+        "Time": "45 Minutes",
+        "Total Elevation Gain": "1001 ft / 305 m",
+        "Trailhead": "1805 ft / 550 m",
+        "Weather": "Pleasant, Calm, Clear"
+    },
+    "title": "Backbone Trail",
+    "trail_id": "pb_376264",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 34.085941,
+                "lng": -118.660332
+            },
+            {
+                "alt": null,
+                "lat": 34.08595,
+                "lng": -118.660336
+            },
+            {
+                "alt": null,
+                "lat": 34.085844,
+                "lng": -118.66102
+            },
+            {
+                "alt": null,
+                "lat": 34.085749,
+                "lng": -118.661959
+            },
+            {
+                "alt": null,
+                "lat": 34.085025,
+                "lng": -118.662263
+            },
+            {
+                "alt": null,
+                "lat": 34.084381,
+                "lng": -118.66197
+            },
+            {
+                "alt": null,
+                "lat": 34.084637,
+                "lng": -118.66128
+            },
+            {
+                "alt": null,
+                "lat": 34.084404,
+                "lng": -118.660689
+            },
+            {
+                "alt": null,
+                "lat": 34.084515,
+                "lng": -118.659742
+            },
+            {
+                "alt": null,
+                "lat": 34.084345,
+                "lng": -118.659202
+            },
+            {
+                "alt": null,
+                "lat": 34.084258,
+                "lng": -118.658254
+            },
+            {
+                "alt": null,
+                "lat": 34.083947,
+                "lng": -118.658223
+            },
+            {
+                "alt": null,
+                "lat": 34.083724,
+                "lng": -118.658361
+            },
+            {
+                "alt": null,
+                "lat": 34.083449,
+                "lng": -118.658289
+            },
+            {
+                "alt": null,
+                "lat": 34.083195,
+                "lng": -118.658182
+            },
+            {
+                "alt": null,
+                "lat": 34.082694,
+                "lng": -118.658838
+            },
+            {
+                "alt": null,
+                "lat": 34.08267,
+                "lng": -118.658359
+            },
+            {
+                "alt": null,
+                "lat": 34.08205,
+                "lng": -118.65848
+            },
+            {
+                "alt": null,
+                "lat": 34.081257,
+                "lng": -118.658762
+            },
+            {
+                "alt": null,
+                "lat": 34.081016,
+                "lng": -118.658138
+            },
+            {
+                "alt": null,
+                "lat": 34.080619,
+                "lng": -118.65805
+            },
+            {
+                "alt": null,
+                "lat": 34.080354,
+                "lng": -118.657496
+            },
+            {
+                "alt": null,
+                "lat": 34.079828,
+                "lng": -118.657854
+            },
+            {
+                "alt": null,
+                "lat": 34.079646,
+                "lng": -118.65848
+            },
+            {
+                "alt": null,
+                "lat": 34.079085,
+                "lng": -118.658398
+            },
+            {
+                "alt": null,
+                "lat": 34.079232,
+                "lng": -118.657448
+            },
+            {
+                "alt": null,
+                "lat": 34.078889,
+                "lng": -118.656584
+            },
+            {
+                "alt": null,
+                "lat": 34.07813,
+                "lng": -118.656338
+            },
+            {
+                "alt": null,
+                "lat": 34.077607,
+                "lng": -118.655723
+            },
+            {
+                "alt": null,
+                "lat": 34.078041,
+                "lng": -118.655164
+            },
+            {
+                "alt": null,
+                "lat": 34.078284,
+                "lng": -118.655211
+            },
+            {
+                "alt": null,
+                "lat": 34.078559,
+                "lng": -118.656045
+            },
+            {
+                "alt": null,
+                "lat": 34.07838,
+                "lng": -118.65581
+            },
+            {
+                "alt": null,
+                "lat": 34.077756,
+                "lng": -118.655379
+            },
+            {
+                "alt": null,
+                "lat": 34.077152,
+                "lng": -118.655856
+            },
+            {
+                "alt": null,
+                "lat": 34.076437,
+                "lng": -118.656382
+            },
+            {
+                "alt": null,
+                "lat": 34.076208,
+                "lng": -118.65733
+            },
+            {
+                "alt": null,
+                "lat": 34.076217,
+                "lng": -118.658233
+            },
+            {
+                "alt": null,
+                "lat": 34.075955,
+                "lng": -118.658672
+            }
+        ]
+    ]
+}

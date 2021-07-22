@@ -1,0 +1,128 @@
+{
+    "center_geohash": "9rd89uu93efy",
+    "center_lat": 42.301719,
+    "center_lng": -120.1512225,
+    "description": "",
+    "directions": "",
+    "geohash": "9rd89",
+    "nearest_peak_geohash": "9rd89vnk90fn",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=196246",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Tuesday, September 6, 2011",
+        "Elevation": "8325 ft / 2537 m",
+        "Location": "USA-Oregon",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Light Peak",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "2 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "0.8 mi / 1.3 km",
+        "Route": "Light Peak Road",
+        "Total Elevation Gain": "200 ft / 60 m",
+        "Trailhead": "Drake Peak Lookout Road\u00a0\u00a08125 ft / 2476 m",
+        "Weather": "Cool, Windy, Overcast"
+    },
+    "title": "Light Peak Road",
+    "trail_id": "pb_196246",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 42.3035,
+                "lng": -120.148844
+            },
+            {
+                "alt": null,
+                "lat": 42.303396,
+                "lng": -120.14873
+            },
+            {
+                "alt": null,
+                "lat": 42.302963,
+                "lng": -120.149445
+            },
+            {
+                "alt": null,
+                "lat": 42.302792,
+                "lng": -120.149552
+            },
+            {
+                "alt": null,
+                "lat": 42.302556,
+                "lng": -120.149638
+            },
+            {
+                "alt": null,
+                "lat": 42.302298,
+                "lng": -120.149831
+            },
+            {
+                "alt": null,
+                "lat": 42.302191,
+                "lng": -120.150303
+            },
+            {
+                "alt": null,
+                "lat": 42.301805,
+                "lng": -120.151419
+            },
+            {
+                "alt": null,
+                "lat": 42.301719,
+                "lng": -120.151677
+            },
+            {
+                "alt": null,
+                "lat": 42.30144,
+                "lng": -120.152149
+            },
+            {
+                "alt": null,
+                "lat": 42.301311,
+                "lng": -120.152277
+            },
+            {
+                "alt": null,
+                "lat": 42.301118,
+                "lng": -120.152342
+            },
+            {
+                "alt": null,
+                "lat": 42.301011,
+                "lng": -120.152449
+            },
+            {
+                "alt": null,
+                "lat": 42.30056,
+                "lng": -120.153372
+            },
+            {
+                "alt": null,
+                "lat": 42.300496,
+                "lng": -120.153415
+            },
+            {
+                "alt": null,
+                "lat": 42.300217,
+                "lng": -120.153479
+            },
+            {
+                "alt": null,
+                "lat": 42.300045,
+                "lng": -120.153565
+            },
+            {
+                "alt": null,
+                "lat": 42.299938,
+                "lng": -120.153715
+            },
+            {
+                "alt": null,
+                "lat": 42.299938,
+                "lng": -120.153715
+            }
+        ]
+    ]
+}

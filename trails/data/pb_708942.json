@@ -1,0 +1,190 @@
+{
+    "center_geohash": "9wc8vbshq02e",
+    "center_lat": 38.104064,
+    "center_lng": -110.132188,
+    "description": "",
+    "directions": "",
+    "geohash": "9wc8v",
+    "nearest_peak_geohash": "9wc8vbjrq4t2",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=708942",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Friday, September 9, 2016",
+        "Elevation": "7151 ft / 2179 m",
+        "Location": "USA-Utah",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Lands End",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "1 mi / 1.6 km",
+        "Route": "Dean Molen Route",
+        "Total Elevation Gain": "224 ft / 68 m",
+        "Trailhead": "6927 ft / 2111 m"
+    },
+    "title": "Dean Molen Route",
+    "trail_id": "pb_708942",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 38.10617,
+                "lng": -110.134084
+            },
+            {
+                "alt": null,
+                "lat": 38.105851,
+                "lng": -110.133743
+            },
+            {
+                "alt": null,
+                "lat": 38.105647,
+                "lng": -110.133327
+            },
+            {
+                "alt": null,
+                "lat": 38.105384,
+                "lng": -110.13299
+            },
+            {
+                "alt": null,
+                "lat": 38.105045,
+                "lng": -110.132693
+            },
+            {
+                "alt": null,
+                "lat": 38.104774,
+                "lng": -110.132332
+            },
+            {
+                "alt": null,
+                "lat": 38.104392,
+                "lng": -110.132074
+            },
+            {
+                "alt": null,
+                "lat": 38.104097,
+                "lng": -110.131711
+            },
+            {
+                "alt": null,
+                "lat": 38.10406,
+                "lng": -110.131252
+            },
+            {
+                "alt": null,
+                "lat": 38.103717,
+                "lng": -110.13106
+            },
+            {
+                "alt": null,
+                "lat": 38.103355,
+                "lng": -110.130968
+            },
+            {
+                "alt": null,
+                "lat": 38.103044,
+                "lng": -110.130699
+            },
+            {
+                "alt": null,
+                "lat": 38.102823,
+                "lng": -110.130466
+            },
+            {
+                "alt": null,
+                "lat": 38.102396,
+                "lng": -110.130292
+            },
+            {
+                "alt": null,
+                "lat": 38.10201,
+                "lng": -110.130346
+            },
+            {
+                "alt": null,
+                "lat": 38.101958,
+                "lng": -110.130416
+            },
+            {
+                "alt": null,
+                "lat": 38.102379,
+                "lng": -110.130347
+            },
+            {
+                "alt": null,
+                "lat": 38.102607,
+                "lng": -110.13067
+            },
+            {
+                "alt": null,
+                "lat": 38.102806,
+                "lng": -110.1311
+            },
+            {
+                "alt": null,
+                "lat": 38.103194,
+                "lng": -110.131304
+            },
+            {
+                "alt": null,
+                "lat": 38.10335,
+                "lng": -110.131708
+            },
+            {
+                "alt": null,
+                "lat": 38.103255,
+                "lng": -110.132208
+            },
+            {
+                "alt": null,
+                "lat": 38.102925,
+                "lng": -110.132422
+            },
+            {
+                "alt": null,
+                "lat": 38.102895,
+                "lng": -110.132862
+            },
+            {
+                "alt": null,
+                "lat": 38.103008,
+                "lng": -110.13329
+            },
+            {
+                "alt": null,
+                "lat": 38.103415,
+                "lng": -110.133463
+            },
+            {
+                "alt": null,
+                "lat": 38.103861,
+                "lng": -110.13347
+            },
+            {
+                "alt": null,
+                "lat": 38.104284,
+                "lng": -110.133439
+            },
+            {
+                "alt": null,
+                "lat": 38.104713,
+                "lng": -110.133481
+            },
+            {
+                "alt": null,
+                "lat": 38.105122,
+                "lng": -110.133673
+            },
+            {
+                "alt": null,
+                "lat": 38.105519,
+                "lng": -110.13392
+            },
+            {
+                "alt": null,
+                "lat": 38.105953,
+                "lng": -110.134012
+            }
+        ]
+    ]
+}

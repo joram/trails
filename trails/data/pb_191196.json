@@ -1,0 +1,193 @@
+{
+    "center_geohash": "9r8zbv5vmccm",
+    "center_lat": 43.578182,
+    "center_lng": -122.65695500000001,
+    "description": "",
+    "directions": "",
+    "geohash": "9r8zb",
+    "nearest_peak_geohash": "9r8zbus7exx2",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=191196",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Friday, August 12, 2011",
+        "Elevation": "5990 ft / 1825 m",
+        "Location": "USA-Oregon",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo Ascent",
+        "Peak": "Bohemia Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "4 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1.4 mi / 2.3 km",
+        "Route": "Bohemia Mountain Trail",
+        "Total Elevation Gain": "590 ft / 179 m",
+        "Trailhead": "Bohemia Saddle\u00a0\u00a05400 ft / 1645 m",
+        "Weather": "Pleasant, Calm, Partly Cloudy"
+    },
+    "title": "Bohemia Mountain Trail",
+    "trail_id": "pb_191196",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 43.575146,
+                "lng": -122.656345
+            },
+            {
+                "alt": null,
+                "lat": 43.575232,
+                "lng": -122.656376
+            },
+            {
+                "alt": null,
+                "lat": 43.575189,
+                "lng": -122.656602
+            },
+            {
+                "alt": null,
+                "lat": 43.574759,
+                "lng": -122.65731
+            },
+            {
+                "alt": null,
+                "lat": 43.574545,
+                "lng": -122.657525
+            },
+            {
+                "alt": null,
+                "lat": 43.57433,
+                "lng": -122.658019
+            },
+            {
+                "alt": null,
+                "lat": 43.574309,
+                "lng": -122.65819
+            },
+            {
+                "alt": null,
+                "lat": 43.57433,
+                "lng": -122.658383
+            },
+            {
+                "alt": null,
+                "lat": 43.574416,
+                "lng": -122.658534
+            },
+            {
+                "alt": null,
+                "lat": 43.574545,
+                "lng": -122.658598
+            },
+            {
+                "alt": null,
+                "lat": 43.574674,
+                "lng": -122.658619
+            },
+            {
+                "alt": null,
+                "lat": 43.574995,
+                "lng": -122.658319
+            },
+            {
+                "alt": null,
+                "lat": 43.575489,
+                "lng": -122.657976
+            },
+            {
+                "alt": null,
+                "lat": 43.576025,
+                "lng": -122.657825
+            },
+            {
+                "alt": null,
+                "lat": 43.576433,
+                "lng": -122.657825
+            },
+            {
+                "alt": null,
+                "lat": 43.576691,
+                "lng": -122.657847
+            },
+            {
+                "alt": null,
+                "lat": 43.576948,
+                "lng": -122.657954
+            },
+            {
+                "alt": null,
+                "lat": 43.577163,
+                "lng": -122.65819
+            },
+            {
+                "alt": null,
+                "lat": 43.577377,
+                "lng": -122.658383
+            },
+            {
+                "alt": null,
+                "lat": 43.577785,
+                "lng": -122.658469
+            },
+            {
+                "alt": null,
+                "lat": 43.578042,
+                "lng": -122.658448
+            },
+            {
+                "alt": null,
+                "lat": 43.579308,
+                "lng": -122.657761
+            },
+            {
+                "alt": null,
+                "lat": 43.579781,
+                "lng": -122.657353
+            },
+            {
+                "alt": null,
+                "lat": 43.580081,
+                "lng": -122.656967
+            },
+            {
+                "alt": null,
+                "lat": 43.580489,
+                "lng": -122.656517
+            },
+            {
+                "alt": null,
+                "lat": 43.580811,
+                "lng": -122.656409
+            },
+            {
+                "alt": null,
+                "lat": 43.581604,
+                "lng": -122.655701
+            },
+            {
+                "alt": null,
+                "lat": 43.581712,
+                "lng": -122.655615
+            },
+            {
+                "alt": null,
+                "lat": 43.58184,
+                "lng": -122.655744
+            },
+            {
+                "alt": null,
+                "lat": 43.58184,
+                "lng": -122.655615
+            },
+            {
+                "alt": null,
+                "lat": 43.58201,
+                "lng": -122.655291
+            },
+            {
+                "alt": null,
+                "lat": 43.582055,
+                "lng": -122.655336
+            }
+        ]
+    ]
+}
