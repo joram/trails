@@ -1,0 +1,119 @@
+{
+    "center_geohash": "9qh76jv77cyf",
+    "center_lat": 34.3534425,
+    "center_lng": -117.678167,
+    "description": "",
+    "directions": "",
+    "geohash": "9qh76",
+    "nearest_peak_geohash": "9qh76jx99k1g",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=1271075",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Sunday, October 27, 2019",
+        "Elevation": "8480 ft / 2584 m",
+        "Location": "USA-California",
+        "Motorized Transport to Trailhead": "Hi-Clearance Vehicle",
+        "Others in Party": "Mary Maki----Only Party on Mountain",
+        "Peak": "Blue Ridge",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "2 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1 mi / 1.6 km",
+        "Route": "Dirt Rad",
+        "Time": "20 Minutes",
+        "Total Elevation Gain": "345 ft / 105 m",
+        "Trailhead": "Reservoir Gate\u00a0\u00a08135 ft / 2479 m",
+        "Weather": "Pleasant, Breezy, Clear"
+    },
+    "title": "Dirt Rad",
+    "trail_id": "pb_1271075",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 34.355199,
+                "lng": -117.681298
+            },
+            {
+                "alt": null,
+                "lat": 34.355336,
+                "lng": -117.681334
+            },
+            {
+                "alt": null,
+                "lat": 34.35544,
+                "lng": -117.68114
+            },
+            {
+                "alt": null,
+                "lat": 34.35544,
+                "lng": -117.68114
+            },
+            {
+                "alt": null,
+                "lat": 34.35569,
+                "lng": -117.68088
+            },
+            {
+                "alt": null,
+                "lat": 34.35569,
+                "lng": -117.68088
+            },
+            {
+                "alt": null,
+                "lat": 34.35549,
+                "lng": -117.68075
+            },
+            {
+                "alt": null,
+                "lat": 34.35475,
+                "lng": -117.67938
+            },
+            {
+                "alt": null,
+                "lat": 34.35432,
+                "lng": -117.67881
+            },
+            {
+                "alt": null,
+                "lat": 34.35309,
+                "lng": -117.67701
+            },
+            {
+                "alt": null,
+                "lat": 34.35266,
+                "lng": -117.67698
+            },
+            {
+                "alt": null,
+                "lat": 34.35209,
+                "lng": -117.67648
+            },
+            {
+                "alt": null,
+                "lat": 34.35186,
+                "lng": -117.67614
+            },
+            {
+                "alt": null,
+                "lat": 34.35198,
+                "lng": -117.6759
+            },
+            {
+                "alt": null,
+                "lat": 34.35185,
+                "lng": -117.67548
+            },
+            {
+                "alt": null,
+                "lat": 34.35155,
+                "lng": -117.675
+            },
+            {
+                "alt": null,
+                "lat": 34.351195,
+                "lng": -117.675054
+            }
+        ]
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "center_geohash": "dnzrpn1uhvzu",
+    "center_lat": 39.232896,
+    "center_lng": -79.4944525,
+    "description": "",
+    "directions": "",
+    "geohash": "dnzr",
+    "nearest_peak_geohash": "dnzrpqbqkvns",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=1163241",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Sunday, May 26, 2019",
+        "Distance": "1.1 mi / 1.8 km",
+        "Elevation": "3360 ft / 1024 m",
+        "Gain on way in": "676 ft / 206 m",
+        "Grade/Class": "Class 1",
+        "Location": "USA-Maryland",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Backbone Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "2 (on a subjective 1-10 scale)",
+        "Route": "High Point Trail",
+        "Start Trailhead": "Maryland High Point Trailhead\u00a0\u00a02684 ft / 818 m",
+        "Time": "27 Minutes",
+        "Total Elevation Gain": "676 ft / 206 m",
+        "Weather": "Hot, Calm, Partly CloudyHumid, but not too hot."
+    },
+    "title": "High Point Trail",
+    "trail_id": "pb_1163241",
+    "waypoints": [
+        [
+            {
+                "alt": 830.0,
+                "lat": 39.244741,
+                "lng": -79.49192
+            },
+            {
+                "alt": 909.0,
+                "lat": 39.241233,
+                "lng": -79.48705
+            },
+            {
+                "alt": 909.0,
+                "lat": 39.241233,
+                "lng": -79.48705
+            },
+            {
+                "alt": 1027.0,
+                "lat": 39.236093,
+                "lng": -79.487156
+            },
+            {
+                "alt": 1027.0,
+                "lat": 39.237541,
+                "lng": -79.485355
+            },
+            {
+                "alt": 1025.0,
+                "lat": 39.236973,
+                "lng": -79.485783
+            },
+            {
+                "alt": 1039.0,
+                "lat": 39.23486,
+                "lng": -79.48898
+            },
+            {
+                "alt": 1018.0,
+                "lat": 39.230483,
+                "lng": -79.493401
+            },
+            {
+                "alt": 1034.0,
+                "lat": 39.229226,
+                "lng": -79.495031
+            },
+            {
+                "alt": 1000.0,
+                "lat": 39.225611,
+                "lng": -79.500375
+            },
+            {
+                "alt": 1039.0,
+                "lat": 39.221051,
+                "lng": -79.50355
+            },
+            {
+                "alt": 1036.0,
+                "lat": 39.221191,
+                "lng": -79.50222
+            },
+            {
+                "alt": 1039.0,
+                "lat": 39.222521,
+                "lng": -79.50119
+            },
+            {
+                "alt": 1007.0,
+                "lat": 39.226223,
+                "lng": -79.497865
+            },
+            {
+                "alt": 1014.0,
+                "lat": 39.230311,
+                "lng": -79.493808
+            },
+            {
+                "alt": 1007.0,
+                "lat": 39.235331,
+                "lng": -79.488508
+            },
+            {
+                "alt": 943.0,
+                "lat": 39.240996,
+                "lng": -79.4872
+            }
+        ]
+    ]
+}

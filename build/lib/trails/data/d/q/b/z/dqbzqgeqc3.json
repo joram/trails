@@ -1,0 +1,177 @@
+{
+    "center_geohash": "dqbzqgeqc3bh",
+    "center_lat": 39.263559,
+    "center_lng": -77.3941645,
+    "description": "",
+    "directions": "",
+    "geohash": "dqbzq",
+    "nearest_peak_geohash": "dqbzqgebq74t",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=461636",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Thursday, September 25, 2014",
+        "Distance": "0.7 mi / 1.1 km",
+        "Elevation": "1282 ft / 390 m",
+        "End Trailhead": "West Parking Lot\u00a0\u00a0956 ft / 291 m",
+        "Gain on way in": "326 ft / 99 m",
+        "Grade/Class": "Class 2",
+        "Location": "USA-Maryland",
+        "Loss on way out": "326 ft / 99 m",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo Ascent",
+        "Peak": "Sugarloaf Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "2 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1 mi / 1.6 km",
+        "Route": "Red Tr > Blue Tr",
+        "Start Trailhead": "West Parking Lot\u00a0\u00a0956 ft / 291 m",
+        "Time": "17 Minutes",
+        "Total Elevation Gain": "326 ft / 99 m",
+        "Total Elevation Loss": "326 ft / 99 m",
+        "Weather": "Pleasant, Calm, Overcast"
+    },
+    "title": "Red Tr > Blue Tr",
+    "trail_id": "pb_461636",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 39.261333,
+                "lng": -77.396986
+            },
+            {
+                "alt": null,
+                "lat": 39.261366,
+                "lng": -77.396299
+            },
+            {
+                "alt": null,
+                "lat": 39.261283,
+                "lng": -77.395162
+            },
+            {
+                "alt": null,
+                "lat": 39.261433,
+                "lng": -77.394497
+            },
+            {
+                "alt": null,
+                "lat": 39.261815,
+                "lng": -77.394046
+            },
+            {
+                "alt": null,
+                "lat": 39.262031,
+                "lng": -77.393767
+            },
+            {
+                "alt": null,
+                "lat": 39.262048,
+                "lng": -77.393081
+            },
+            {
+                "alt": null,
+                "lat": 39.26243,
+                "lng": -77.393338
+            },
+            {
+                "alt": null,
+                "lat": 39.262646,
+                "lng": -77.393338
+            },
+            {
+                "alt": null,
+                "lat": 39.262828,
+                "lng": -77.393145
+            },
+            {
+                "alt": null,
+                "lat": 39.263061,
+                "lng": -77.392737
+            },
+            {
+                "alt": null,
+                "lat": 39.26346,
+                "lng": -77.392201
+            },
+            {
+                "alt": null,
+                "lat": 39.263875,
+                "lng": -77.392051
+            },
+            {
+                "alt": null,
+                "lat": 39.264456,
+                "lng": -77.391364
+            },
+            {
+                "alt": null,
+                "lat": 39.264855,
+                "lng": -77.3913
+            },
+            {
+                "alt": null,
+                "lat": 39.265337,
+                "lng": -77.391493
+            },
+            {
+                "alt": null,
+                "lat": 39.265835,
+                "lng": -77.392051
+            },
+            {
+                "alt": null,
+                "lat": 39.26552,
+                "lng": -77.392759
+            },
+            {
+                "alt": null,
+                "lat": 39.264922,
+                "lng": -77.394089
+            },
+            {
+                "alt": null,
+                "lat": 39.264241,
+                "lng": -77.395055
+            },
+            {
+                "alt": null,
+                "lat": 39.263941,
+                "lng": -77.39542
+            },
+            {
+                "alt": null,
+                "lat": 39.263227,
+                "lng": -77.395699
+            },
+            {
+                "alt": null,
+                "lat": 39.262563,
+                "lng": -77.395849
+            },
+            {
+                "alt": null,
+                "lat": 39.262064,
+                "lng": -77.396342
+            },
+            {
+                "alt": null,
+                "lat": 39.2614,
+                "lng": -77.396492
+            },
+            {
+                "alt": null,
+                "lat": 39.261383,
+                "lng": -77.397029
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 39.262369,
+                "lng": -77.393286
+            }
+        ]
+    ]
+}

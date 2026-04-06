@@ -1,4 +1,5 @@
 import setuptools
+from pathlib import Path
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
@@ -22,11 +23,17 @@ setuptools.setup(
         "trails": "trails",
     },
     package_data={
-        'trails': ['data/*'],
+        "trails": [
+            str(p.relative_to("trails")).replace("\\", "/")
+            for base in (Path("trails/data"), Path("trails/static"), Path("trails/to_sort"))
+            for p in base.rglob("*")
+            if p.is_file()
+        ],
     },
-    python_requires=">=3.6",
+    python_requires=">=3.8",
     install_requires=[
         "gpxpy",
         "geojson",
+        "pydantic>=2",
     ],
 )

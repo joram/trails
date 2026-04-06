@@ -10,6 +10,7 @@ import pygeohash
 from scripts.base_spider import Spider
 from scripts.crawl_trailpeak import get_geohash
 from trails import Trail
+from trails.trail import trail_data_paths
 
 logger = logging.getLogger(__name__)
 
@@ -61,12 +62,14 @@ def make_trail(ascent_response, peak_response, gpx_response):
 
     geohash, center_geohash, avg_lat, avg_lng = get_geohash(gpx_response.content)
 
-    if not os.path.exists(f"{trail_id}.gpx"):
-        with open(f"{data_dir}/{trail_id}.gpx", "wb") as f:
+    json_path, gpx_path = trail_data_paths(data_dir, center_geohash, trail_id)
+    os.makedirs(os.path.dirname(json_path), exist_ok=True)
+    if not os.path.exists(gpx_path):
+        with open(gpx_path, "wb") as f:
             f.write(gpx_response.content)
 
     return Trail(
-        filepath=f"{data_dir}/{trail_id}.json",
+        filepath=json_path,
         trail_id=trail_id,
         title=ascent_key_vals.get("Route"),
         description="",
@@ -75,10 +78,11 @@ def make_trail(ascent_response, peak_response, gpx_response):
         source_url=ascent_response.url,
         stats=ascent_key_vals,
         geohash=geohash,
-        gpx_filepath=f"{data_dir}/{trail_id}.gpx",
+        gpx_filepath=gpx_path,
         center_lat=avg_lat,
         center_lng=avg_lng,
         nearest_peak_geohash=pygeohash.encode(peak_lat, peak_lng),
+        center_geohash_from_file=center_geohash,
     )
 
 

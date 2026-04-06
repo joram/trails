@@ -1,0 +1,135 @@
+{
+    "center_geohash": "9r2w9d207fwj",
+    "center_lat": 41.936245,
+    "center_lng": -122.98078799999999,
+    "description": "",
+    "directions": "",
+    "geohash": "9r2w9",
+    "nearest_peak_geohash": "9r2w9d92bqh0",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=189049",
+    "stats": {
+        "": "",
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Thursday, August 4, 2011",
+        "Elevation": "7087 ft / 2160 m",
+        "Location": "USA-California",
+        "Peak": "Condrey Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.6 mi / 1 km",
+        "Route": "Southwest slope",
+        "Total Elevation Gain": "221 ft / 67 m",
+        "Trailhead": "6866 ft / 2092 m"
+    },
+    "title": "Southwest slope",
+    "trail_id": "pb_189049",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 41.934781,
+                "lng": -122.982313
+            },
+            {
+                "alt": null,
+                "lat": 41.934781,
+                "lng": -122.982313
+            },
+            {
+                "alt": null,
+                "lat": 41.934781,
+                "lng": -122.982313
+            },
+            {
+                "alt": null,
+                "lat": 41.935239,
+                "lng": -122.981772
+            },
+            {
+                "alt": null,
+                "lat": 41.935239,
+                "lng": -122.981772
+            },
+            {
+                "alt": null,
+                "lat": 41.936333,
+                "lng": -122.980598
+            },
+            {
+                "alt": null,
+                "lat": 41.936686,
+                "lng": -122.980298
+            },
+            {
+                "alt": null,
+                "lat": 41.937023,
+                "lng": -122.979891
+            },
+            {
+                "alt": null,
+                "lat": 41.937237,
+                "lng": -122.979471
+            },
+            {
+                "alt": null,
+                "lat": 41.937607,
+                "lng": -122.97917
+            },
+            {
+                "alt": null,
+                "lat": 41.937709,
+                "lng": -122.979199
+            },
+            {
+                "alt": null,
+                "lat": 41.937468,
+                "lng": -122.979231
+            },
+            {
+                "alt": null,
+                "lat": 41.9372,
+                "lng": -122.979638
+            },
+            {
+                "alt": null,
+                "lat": 41.93688,
+                "lng": -122.980041
+            },
+            {
+                "alt": null,
+                "lat": 41.936538,
+                "lng": -122.980409
+            },
+            {
+                "alt": null,
+                "lat": 41.936267,
+                "lng": -122.980782
+            },
+            {
+                "alt": null,
+                "lat": 41.936079,
+                "lng": -122.981294
+            },
+            {
+                "alt": null,
+                "lat": 41.935748,
+                "lng": -122.981539
+            },
+            {
+                "alt": null,
+                "lat": 41.935376,
+                "lng": -122.981602
+            },
+            {
+                "alt": null,
+                "lat": 41.935076,
+                "lng": -122.982012
+            },
+            {
+                "alt": null,
+                "lat": 41.934782,
+                "lng": -122.982406
+            }
+        ]
+    ]
+}

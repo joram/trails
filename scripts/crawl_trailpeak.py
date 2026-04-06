@@ -16,6 +16,7 @@ from requests_toolbelt import MultipartEncoder
 
 from .base_spider import Spider
 from trails.peak import Peak
+from trails.trail import find_trail_data_paths_by_trail_id, trail_data_paths
 
 logger = logging.getLogger(__name__)
 
@@ -161,9 +162,16 @@ def get_gpx(spider, response, soup):
     show_gps = soup.find("show-gps")
     if show_gps is None:
         trail_id = response.request.url.split("-")[-1]
-        filepath = f"{dir_path}/../trails/data/{trail_id}.gpx"
-        if os.path.exists(filepath):
-            with open(filepath, "rb") as f:
+        data_dir = f"{dir_path}/../trails/data"
+        found = find_trail_data_paths_by_trail_id(data_dir, trail_id)
+        if found:
+            filepath = found[1]
+            if os.path.exists(filepath):
+                with open(filepath, "rb") as f:
+                    return f.read()
+        legacy = f"{data_dir}/{trail_id}.gpx"
+        if os.path.exists(legacy):
+            with open(legacy, "rb") as f:
                 return f.read()
         return None
 
@@ -202,6 +210,7 @@ def get_gpx(spider, response, soup):
 
 if __name__ == "__main__":
     i = 0
+    data_dir = f"{dir_path}/../trails/data"
     for trail in trailpeak_trails():
         i += 1
         if trail["trail_id"] is None:
@@ -211,10 +220,13 @@ if __name__ == "__main__":
         if gpx is not None:
             del trail["gpx_data"]
 
-
-            with open(f"{dir_path}/../trails/data/{trail['trail_id']}.json", "w") as f:
+            json_path, gpx_path = trail_data_paths(
+                data_dir, trail.get("center_geohash"), trail["trail_id"]
+            )
+            os.makedirs(os.path.dirname(json_path), exist_ok=True)
+            with open(json_path, "w", encoding="utf-8") as f:
                 f.write(json.dumps(trail, indent=4, sort_keys=True))
 
-            with open(f"{dir_path}/../trails/data/{trail['trail_id']}.gpx", "wb") as f:
+            with open(gpx_path, "wb") as f:
                 f.write(gpx)
 

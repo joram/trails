@@ -1,0 +1,218 @@
+{
+    "center_geohash": "9myvu1xpnbtc",
+    "center_lat": 33.3639365,
+    "center_lng": -114.0721205,
+    "description": "",
+    "directions": "",
+    "geohash": "9myv",
+    "nearest_peak_geohash": "9myvgbz7szpe",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=382728",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Saturday, January 18, 2014",
+        "Distance": "3.5 mi / 5.6 km",
+        "Elevation": "4877 ft / 1486 m",
+        "Gain on way in": "2100 ft / 640 m",
+        "Location": "USA-Arizona",
+        "Others in Party": "Sridhar GullapalliTohru OhnukiTed LubeshkoffJim Fleming",
+        "Peak": "Signal Peak",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "7 (on a subjective 1-10 scale)",
+        "Route": "DPS Route C",
+        "Start Trailhead": "2777 ft / 846 m",
+        "Total Elevation Gain": "2100 ft / 640 m",
+        "Weather": "Pleasant, Calm, Clear"
+    },
+    "title": "DPS Route C",
+    "trail_id": "pb_382728",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 33.36842,
+                "lng": -114.061551
+            },
+            {
+                "alt": null,
+                "lat": 33.368434,
+                "lng": -114.061626
+            },
+            {
+                "alt": null,
+                "lat": 33.368538,
+                "lng": -114.061724
+            },
+            {
+                "alt": null,
+                "lat": 33.368127,
+                "lng": -114.062353
+            },
+            {
+                "alt": null,
+                "lat": 33.367519,
+                "lng": -114.062816
+            },
+            {
+                "alt": null,
+                "lat": 33.366902,
+                "lng": -114.063262
+            },
+            {
+                "alt": null,
+                "lat": 33.366294,
+                "lng": -114.063899
+            },
+            {
+                "alt": null,
+                "lat": 33.366009,
+                "lng": -114.064758
+            },
+            {
+                "alt": null,
+                "lat": 33.365699,
+                "lng": -114.065496
+            },
+            {
+                "alt": null,
+                "lat": 33.365091,
+                "lng": -114.066073
+            },
+            {
+                "alt": null,
+                "lat": 33.364403,
+                "lng": -114.066477
+            },
+            {
+                "alt": null,
+                "lat": 33.363902,
+                "lng": -114.06701
+            },
+            {
+                "alt": null,
+                "lat": 33.363469,
+                "lng": -114.067572
+            },
+            {
+                "alt": null,
+                "lat": 33.362986,
+                "lng": -114.068043
+            },
+            {
+                "alt": null,
+                "lat": 33.362836,
+                "lng": -114.06868
+            },
+            {
+                "alt": null,
+                "lat": 33.362249,
+                "lng": -114.069051
+            },
+            {
+                "alt": null,
+                "lat": 33.361728,
+                "lng": -114.069491
+            },
+            {
+                "alt": null,
+                "lat": 33.361598,
+                "lng": -114.069998
+            },
+            {
+                "alt": null,
+                "lat": 33.361365,
+                "lng": -114.070516
+            },
+            {
+                "alt": null,
+                "lat": 33.361485,
+                "lng": -114.071063
+            },
+            {
+                "alt": null,
+                "lat": 33.361563,
+                "lng": -114.071508
+            },
+            {
+                "alt": null,
+                "lat": 33.360925,
+                "lng": -114.071757
+            },
+            {
+                "alt": null,
+                "lat": 33.36073,
+                "lng": -114.072623
+            },
+            {
+                "alt": null,
+                "lat": 33.360561,
+                "lng": -114.073418
+            },
+            {
+                "alt": null,
+                "lat": 33.360407,
+                "lng": -114.074127
+            },
+            {
+                "alt": null,
+                "lat": 33.360195,
+                "lng": -114.074989
+            },
+            {
+                "alt": null,
+                "lat": 33.359992,
+                "lng": -114.075762
+            },
+            {
+                "alt": null,
+                "lat": 33.359905,
+                "lng": -114.076549
+            },
+            {
+                "alt": null,
+                "lat": 33.360157,
+                "lng": -114.077168
+            },
+            {
+                "alt": null,
+                "lat": 33.360441,
+                "lng": -114.077762
+            },
+            {
+                "alt": null,
+                "lat": 33.360897,
+                "lng": -114.078302
+            },
+            {
+                "alt": null,
+                "lat": 33.361124,
+                "lng": -114.078969
+            },
+            {
+                "alt": null,
+                "lat": 33.360847,
+                "lng": -114.079814
+            },
+            {
+                "alt": null,
+                "lat": 33.360506,
+                "lng": -114.080614
+            },
+            {
+                "alt": null,
+                "lat": 33.360002,
+                "lng": -114.081144
+            },
+            {
+                "alt": null,
+                "lat": 33.359792,
+                "lng": -114.082048
+            },
+            {
+                "alt": null,
+                "lat": 33.359335,
+                "lng": -114.08269
+            }
+        ]
+    ]
+}

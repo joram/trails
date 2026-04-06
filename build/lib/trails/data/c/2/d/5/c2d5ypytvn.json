@@ -1,0 +1,146 @@
+{
+    "center_geohash": "c2d5ypytvnf7",
+    "center_lat": 48.5152755,
+    "center_lng": -120.664684,
+    "description": "",
+    "directions": "",
+    "geohash": "c2d",
+    "nearest_peak_geohash": "c2d5yrm7yk4h",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=538727",
+    "stats": {
+        "": "",
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Friday, June 5, 2015",
+        "Elevation": "7807 ft / 2379 m",
+        "Location": "USA-Washington",
+        "Peak": "South Early Winter Spire",
+        "Peakbagger.com": "\n\n\n",
+        "Route": "South Arete"
+    },
+    "title": "South Arete",
+    "trail_id": "pb_538727",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 48.519783,
+                "lng": -120.67234
+            },
+            {
+                "alt": null,
+                "lat": 48.518417,
+                "lng": -120.670967
+            },
+            {
+                "alt": null,
+                "lat": 48.515293,
+                "lng": -120.670379
+            },
+            {
+                "alt": null,
+                "lat": 48.514099,
+                "lng": -120.666671
+            },
+            {
+                "alt": null,
+                "lat": 48.512058,
+                "lng": -120.665176
+            },
+            {
+                "alt": null,
+                "lat": 48.511692,
+                "lng": -120.663475
+            },
+            {
+                "alt": null,
+                "lat": 48.511383,
+                "lng": -120.66127
+            },
+            {
+                "alt": null,
+                "lat": 48.511028,
+                "lng": -120.658782
+            },
+            {
+                "alt": null,
+                "lat": 48.510768,
+                "lng": -120.657028
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 48.511383,
+                "lng": -120.659309
+            },
+            {
+                "alt": null,
+                "lat": 48.511493,
+                "lng": -120.661705
+            },
+            {
+                "alt": null,
+                "lat": 48.511631,
+                "lng": -120.662742
+            },
+            {
+                "alt": null,
+                "lat": 48.512222,
+                "lng": -120.665466
+            },
+            {
+                "alt": null,
+                "lat": 48.518115,
+                "lng": -120.668823
+            },
+            {
+                "alt": null,
+                "lat": 48.518882,
+                "lng": -120.670288
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 48.519105,
+                "lng": -120.67312
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 48.516831,
+                "lng": -120.666038
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 48.512993,
+                "lng": -120.667347
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 48.510321,
+                "lng": -120.660352
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 48.510705,
+                "lng": -120.656125
+            }
+        ],
+        [
+            {
+                "alt": null,
+                "lat": 48.512208,
+                "lng": -120.655261
+            }
+        ]
+    ]
+}

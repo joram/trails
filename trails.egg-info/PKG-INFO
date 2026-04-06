@@ -1,0 +1,32 @@
+Metadata-Version: 2.4
+Name: trails
+Version: 0.0.4
+Summary: A small package of hiking and mountaineering trails
+Home-page: https://github.com/joram/trails
+Author: John Oram
+Author-email: john@oram.ca
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: gpxpy
+Requires-Dist: geojson
+Requires-Dist: pydantic>=2
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# trails
+
+## Building Peaks Metadata
+- Download a large (19Gb) copy of wikipeida pages-articles [here](https://meta.wikimedia.org/wiki/Data_dump_torrents#English_Wikipedia)
+- Download much smaller from canada gov: [here](https://www.nrcan.gc.ca/earth-sciences/geography/download-geographical-names-data/9245)
+- Parse all the peaks from the data 
+

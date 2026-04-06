@@ -1,0 +1,144 @@
+{
+    "center_geohash": "9rbpecuvt07e",
+    "center_lat": 44.9226685,
+    "center_lng": -123.5784625,
+    "description": "",
+    "directions": "",
+    "geohash": "9rbp",
+    "nearest_peak_geohash": "9rbps409w534",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=283918",
+    "stats": {
+        "": "",
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Wednesday, November 21, 2012",
+        "Elevation": "3589 ft / 1093 m",
+        "Location": "USA-Oregon",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Laurel Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "4 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1.4 mi / 2.3 km",
+        "Route": "Laurel Mountain Road",
+        "Total Elevation Gain": "349 ft / 106 m",
+        "Trailhead": "Gate\u00a0\u00a03240 ft / 987 m",
+        "Weather": "Snowing, Cold, Windy, Low Clouds"
+    },
+    "title": "Laurel Mountain Road",
+    "trail_id": "pb_283918",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 44.923812,
+                "lng": -123.584316
+            },
+            {
+                "alt": null,
+                "lat": 44.923873,
+                "lng": -123.584312
+            },
+            {
+                "alt": null,
+                "lat": 44.923782,
+                "lng": -123.581492
+            },
+            {
+                "alt": null,
+                "lat": 44.923653,
+                "lng": -123.580441
+            },
+            {
+                "alt": null,
+                "lat": 44.923546,
+                "lng": -123.580141
+            },
+            {
+                "alt": null,
+                "lat": 44.923374,
+                "lng": -123.579905
+            },
+            {
+                "alt": null,
+                "lat": 44.922173,
+                "lng": -123.578982
+            },
+            {
+                "alt": null,
+                "lat": 44.921979,
+                "lng": -123.578767
+            },
+            {
+                "alt": null,
+                "lat": 44.921722,
+                "lng": -123.578209
+            },
+            {
+                "alt": null,
+                "lat": 44.921658,
+                "lng": -123.578016
+            },
+            {
+                "alt": null,
+                "lat": 44.921464,
+                "lng": -123.5763
+            },
+            {
+                "alt": null,
+                "lat": 44.921464,
+                "lng": -123.575699
+            },
+            {
+                "alt": null,
+                "lat": 44.921593,
+                "lng": -123.574991
+            },
+            {
+                "alt": null,
+                "lat": 44.921915,
+                "lng": -123.574025
+            },
+            {
+                "alt": null,
+                "lat": 44.922237,
+                "lng": -123.573338
+            },
+            {
+                "alt": null,
+                "lat": 44.922409,
+                "lng": -123.573102
+            },
+            {
+                "alt": null,
+                "lat": 44.922816,
+                "lng": -123.572673
+            },
+            {
+                "alt": null,
+                "lat": 44.922945,
+                "lng": -123.572609
+            },
+            {
+                "alt": null,
+                "lat": 44.923074,
+                "lng": -123.572695
+            },
+            {
+                "alt": null,
+                "lat": 44.923138,
+                "lng": -123.572824
+            },
+            {
+                "alt": null,
+                "lat": 44.923147,
+                "lng": -123.57311
+            },
+            {
+                "alt": null,
+                "lat": 44.923267,
+                "lng": -123.573102
+            }
+        ]
+    ]
+}

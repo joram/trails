@@ -1,0 +1,153 @@
+{
+    "center_geohash": "dnm1k7xej2bm",
+    "center_lat": 35.3957225,
+    "center_lng": -82.771457,
+    "description": "",
+    "directions": "",
+    "geohash": "dnm1k",
+    "nearest_peak_geohash": "dnm1k7jrmj7z",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=453923",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Tuesday, September 2, 2014",
+        "Elevation": "5320 ft / 1621 m",
+        "Location": "USA-North Carolina",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Fryingpan Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "3 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1.5 mi / 2.4 km",
+        "Route": "NFS 450",
+        "Total Elevation Gain": "460 ft / 140 m",
+        "Trailhead": "Blue Ridge Pky\u00a0\u00a04860 ft / 1481 m",
+        "Weather": "Pleasant, Breezy, Clear"
+    },
+    "title": "NFS 450",
+    "trail_id": "pb_453923",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 35.395189,
+                "lng": -82.768442
+            },
+            {
+                "alt": null,
+                "lat": 35.395399,
+                "lng": -82.768785
+            },
+            {
+                "alt": null,
+                "lat": 35.395014,
+                "lng": -82.769472
+            },
+            {
+                "alt": null,
+                "lat": 35.394997,
+                "lng": -82.769751
+            },
+            {
+                "alt": null,
+                "lat": 35.395189,
+                "lng": -82.770202
+            },
+            {
+                "alt": null,
+                "lat": 35.395609,
+                "lng": -82.770996
+            },
+            {
+                "alt": null,
+                "lat": 35.396239,
+                "lng": -82.77194
+            },
+            {
+                "alt": null,
+                "lat": 35.396344,
+                "lng": -82.772154
+            },
+            {
+                "alt": null,
+                "lat": 35.396938,
+                "lng": -82.772326
+            },
+            {
+                "alt": null,
+                "lat": 35.397323,
+                "lng": -82.773034
+            },
+            {
+                "alt": null,
+                "lat": 35.397883,
+                "lng": -82.773463
+            },
+            {
+                "alt": null,
+                "lat": 35.398075,
+                "lng": -82.773785
+            },
+            {
+                "alt": null,
+                "lat": 35.398058,
+                "lng": -82.774064
+            },
+            {
+                "alt": null,
+                "lat": 35.397918,
+                "lng": -82.774236
+            },
+            {
+                "alt": null,
+                "lat": 35.397568,
+                "lng": -82.774257
+            },
+            {
+                "alt": null,
+                "lat": 35.397148,
+                "lng": -82.774214
+            },
+            {
+                "alt": null,
+                "lat": 35.396869,
+                "lng": -82.773978
+            },
+            {
+                "alt": null,
+                "lat": 35.396554,
+                "lng": -82.773721
+            },
+            {
+                "alt": null,
+                "lat": 35.396029,
+                "lng": -82.773764
+            },
+            {
+                "alt": null,
+                "lat": 35.395189,
+                "lng": -82.774064
+            },
+            {
+                "alt": null,
+                "lat": 35.394245,
+                "lng": -82.774279
+            },
+            {
+                "alt": null,
+                "lat": 35.39393,
+                "lng": -82.774064
+            },
+            {
+                "alt": null,
+                "lat": 35.393668,
+                "lng": -82.774214
+            },
+            {
+                "alt": null,
+                "lat": 35.39337,
+                "lng": -82.774472
+            }
+        ]
+    ]
+}

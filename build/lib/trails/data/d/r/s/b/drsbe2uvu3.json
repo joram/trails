@@ -1,0 +1,173 @@
+{
+    "center_geohash": "drsbe2uvu30g",
+    "center_lat": 42.2805035,
+    "center_lng": -71.9207835,
+    "description": "",
+    "directions": "",
+    "geohash": "drsbe",
+    "nearest_peak_geohash": "drsbe3hbq595",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=273357",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Tuesday, September 25, 2012",
+        "Elevation": "1181 ft / 359 m",
+        "Location": "USA-Massachusetts",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Elliott Hill",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.1 mi / 0.2 km",
+        "Route": "Bushwhack",
+        "Time": "3 Minutes",
+        "Total Elevation Gain": "11 ft / 3 m",
+        "Trailhead": "Road\u00a0\u00a01170 ft / 356 m",
+        "Weather": "Pleasant, Calm, Clear"
+    },
+    "title": "Bushwhack",
+    "trail_id": "pb_273357",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 42.280181,
+                "lng": -71.920516
+            },
+            {
+                "alt": null,
+                "lat": 42.280197,
+                "lng": -71.920578
+            },
+            {
+                "alt": null,
+                "lat": 42.28022,
+                "lng": -71.920562
+            },
+            {
+                "alt": null,
+                "lat": 42.28022,
+                "lng": -71.920562
+            },
+            {
+                "alt": null,
+                "lat": 42.280269,
+                "lng": -71.920585
+            },
+            {
+                "alt": null,
+                "lat": 42.280334,
+                "lng": -71.920623
+            },
+            {
+                "alt": null,
+                "lat": 42.280433,
+                "lng": -71.920631
+            },
+            {
+                "alt": null,
+                "lat": 42.280502,
+                "lng": -71.920692
+            },
+            {
+                "alt": null,
+                "lat": 42.280578,
+                "lng": -71.920776
+            },
+            {
+                "alt": null,
+                "lat": 42.280696,
+                "lng": -71.920806
+            },
+            {
+                "alt": null,
+                "lat": 42.280746,
+                "lng": -71.92073
+            },
+            {
+                "alt": null,
+                "lat": 42.280811,
+                "lng": -71.920639
+            },
+            {
+                "alt": null,
+                "lat": 42.280883,
+                "lng": -71.9206
+            },
+            {
+                "alt": null,
+                "lat": 42.280906,
+                "lng": -71.920578
+            },
+            {
+                "alt": null,
+                "lat": 42.280925,
+                "lng": -71.920639
+            },
+            {
+                "alt": null,
+                "lat": 42.280902,
+                "lng": -71.9207
+            },
+            {
+                "alt": null,
+                "lat": 42.28086,
+                "lng": -71.920783
+            },
+            {
+                "alt": null,
+                "lat": 42.280796,
+                "lng": -71.920852
+            },
+            {
+                "alt": null,
+                "lat": 42.280712,
+                "lng": -71.920883
+            },
+            {
+                "alt": null,
+                "lat": 42.28067,
+                "lng": -71.920936
+            },
+            {
+                "alt": null,
+                "lat": 42.280616,
+                "lng": -71.920959
+            },
+            {
+                "alt": null,
+                "lat": 42.280536,
+                "lng": -71.920989
+            },
+            {
+                "alt": null,
+                "lat": 42.280418,
+                "lng": -71.920936
+            },
+            {
+                "alt": null,
+                "lat": 42.280376,
+                "lng": -71.920967
+            },
+            {
+                "alt": null,
+                "lat": 42.280258,
+                "lng": -71.921051
+            },
+            {
+                "alt": null,
+                "lat": 42.280193,
+                "lng": -71.921051
+            },
+            {
+                "alt": null,
+                "lat": 42.280117,
+                "lng": -71.920875
+            },
+            {
+                "alt": null,
+                "lat": 42.280082,
+                "lng": -71.920677
+            }
+        ]
+    ]
+}

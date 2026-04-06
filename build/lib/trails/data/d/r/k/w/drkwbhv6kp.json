@@ -1,0 +1,133 @@
+{
+    "center_geohash": "drkwbhv6kpfx",
+    "center_lat": 41.994295,
+    "center_lng": -72.41449,
+    "description": "",
+    "directions": "",
+    "geohash": "drkwb",
+    "nearest_peak_geohash": "drkwbk253755",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=1084600",
+    "stats": {
+        "": "",
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Sunday, December 23, 2018",
+        "Distance": "0.6 mi / 1 km",
+        "Elevation": "1121 ft / 341 m",
+        "End Trailhead": "Gate at the end of Sculley Rd.\u00a0\u00a0635 ft / 193 m",
+        "Gain on way in": "486 ft / 148 m",
+        "Location": "USA-Connecticut",
+        "Loss on way out": "486 ft / 148 m",
+        "Other People": "Solo Ascent",
+        "Peak": "Bald Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "1.3 mi / 2 km",
+        "Route": "Unmaintained trail, bushwhack.",
+        "Start Trailhead": "Gate at the end of Sculley Rd.\u00a0\u00a0635 ft / 193 m",
+        "Time": "30 Minutes",
+        "Total Elevation Gain": "486 ft / 148 m",
+        "Total Elevation Loss": "486 ft / 148 m",
+        "Weather": "Cold, Calm, Clear"
+    },
+    "title": "Unmaintained trail, bushwhack.",
+    "trail_id": "pb_1084600",
+    "waypoints": [
+        [
+            {
+                "alt": 192.0,
+                "lat": 41.996072,
+                "lng": -72.418572
+            },
+            {
+                "alt": 190.0,
+                "lat": 41.996903,
+                "lng": -72.41732
+            },
+            {
+                "alt": 210.0,
+                "lat": 41.996305,
+                "lng": -72.417542
+            },
+            {
+                "alt": 232.0,
+                "lat": 41.995421,
+                "lng": -72.416307
+            },
+            {
+                "alt": 259.0,
+                "lat": 41.99445,
+                "lng": -72.41505
+            },
+            {
+                "alt": 283.0,
+                "lat": 41.993566,
+                "lng": -72.414115
+            },
+            {
+                "alt": 309.0,
+                "lat": 41.992875,
+                "lng": -72.412996
+            },
+            {
+                "alt": 338.0,
+                "lat": 41.992475,
+                "lng": -72.411326
+            },
+            {
+                "alt": 345.0,
+                "lat": 41.991687,
+                "lng": -72.410858
+            },
+            {
+                "alt": 344.0,
+                "lat": 41.992528,
+                "lng": -72.410408
+            },
+            {
+                "alt": 341.0,
+                "lat": 41.992203,
+                "lng": -72.410493
+            },
+            {
+                "alt": 328.0,
+                "lat": 41.992486,
+                "lng": -72.41165
+            },
+            {
+                "alt": 308.0,
+                "lat": 41.9928,
+                "lng": -72.413055
+            },
+            {
+                "alt": 283.0,
+                "lat": 41.993498,
+                "lng": -72.41394
+            },
+            {
+                "alt": 263.0,
+                "lat": 41.994559,
+                "lng": -72.414574
+            },
+            {
+                "alt": 239.0,
+                "lat": 41.995447,
+                "lng": -72.415368
+            },
+            {
+                "alt": 222.0,
+                "lat": 41.99619,
+                "lng": -72.416401
+            },
+            {
+                "alt": 203.0,
+                "lat": 41.996501,
+                "lng": -72.41746
+            },
+            {
+                "alt": 204.0,
+                "lat": 41.996094,
+                "lng": -72.418568
+            }
+        ]
+    ]
+}

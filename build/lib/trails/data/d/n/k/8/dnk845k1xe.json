@@ -1,0 +1,124 @@
+{
+    "center_geohash": "dnk845k1xefb",
+    "center_lat": 35.1743805,
+    "center_lng": -83.5781655,
+    "description": "",
+    "directions": "",
+    "geohash": "dnk845",
+    "nearest_peak_geohash": "dnk84546b5uc",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=1201675",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Friday, November 30, 2018",
+        "Elevation": "5440 ft / 1658 m",
+        "Location": "USA-North Carolina",
+        "Motorized Transport to Trailhead": "4x4 Vehicle",
+        "Others in Party": "Scott Carter",
+        "Peak": "Wine Spring Bald",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "3 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1.4 mi / 2.3 km",
+        "Route": "Forest Road",
+        "Time": "20 Minutes",
+        "Total Elevation Gain": "184 ft / 56 m",
+        "Trailhead": "35.55675, -83.49615\u00a0\u00a05256 ft / 1602 m",
+        "Weather": "Raining, Cool, Windy, OvercastRain"
+    },
+    "title": "Forest Road",
+    "trail_id": "pb_1201675",
+    "waypoints": [
+        [
+            {
+                "alt": 1602.0,
+                "lat": 35.172929,
+                "lng": -83.57479
+            },
+            {
+                "alt": 1603.0,
+                "lat": 35.173428,
+                "lng": -83.575718
+            },
+            {
+                "alt": 1606.0,
+                "lat": 35.17361,
+                "lng": -83.576389
+            },
+            {
+                "alt": 1609.0,
+                "lat": 35.174007,
+                "lng": -83.576916
+            },
+            {
+                "alt": 1612.0,
+                "lat": 35.174194,
+                "lng": -83.577437
+            },
+            {
+                "alt": 1615.0,
+                "lat": 35.174153,
+                "lng": -83.577914
+            },
+            {
+                "alt": 1623.0,
+                "lat": 35.173917,
+                "lng": -83.578914
+            },
+            {
+                "alt": 1628.0,
+                "lat": 35.173937,
+                "lng": -83.579536
+            },
+            {
+                "alt": 1631.0,
+                "lat": 35.174113,
+                "lng": -83.580113
+            },
+            {
+                "alt": 1638.0,
+                "lat": 35.174679,
+                "lng": -83.580816
+            },
+            {
+                "alt": 1642.0,
+                "lat": 35.175119,
+                "lng": -83.581082
+            },
+            {
+                "alt": 1647.0,
+                "lat": 35.175832,
+                "lng": -83.581335
+            },
+            {
+                "alt": 1648.0,
+                "lat": 35.175755,
+                "lng": -83.581513
+            },
+            {
+                "alt": 1648.0,
+                "lat": 35.175561,
+                "lng": -83.581541
+            },
+            {
+                "alt": 1656.0,
+                "lat": 35.174144,
+                "lng": -83.581027
+            },
+            {
+                "alt": 1660.0,
+                "lat": 35.173753,
+                "lng": -83.58119
+            },
+            {
+                "alt": 1664.0,
+                "lat": 35.173405,
+                "lng": -83.581214
+            },
+            {
+                "alt": 1669.0,
+                "lat": 35.173024,
+                "lng": -83.58088
+            }
+        ]
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "center_geohash": "drmqcnng2xpn",
+    "center_lat": 42.001329,
+    "center_lng": -71.3139415,
+    "description": "",
+    "directions": "",
+    "geohash": "drmqcn",
+    "nearest_peak_geohash": "drmqcnnvfg9u",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=260468",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Thursday, August 16, 2012",
+        "Elevation": "394 ft / 120 m",
+        "Location": "USA-Massachusetts",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Sunrise Hill",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.2 mi / 0.4 km",
+        "Route": "Bushwhack",
+        "Time": "2 Minutes",
+        "Total Elevation Gain": "6 ft / 1 m",
+        "Trailhead": "Parking lot\u00a0\u00a0400 ft / 121 m",
+        "Weather": "Pleasant, Calm, Clear"
+    },
+    "title": "Bushwhack",
+    "trail_id": "pb_260468",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 42.000888,
+                "lng": -71.313522
+            },
+            {
+                "alt": null,
+                "lat": 42.000885,
+                "lng": -71.313583
+            },
+            {
+                "alt": null,
+                "lat": 42.000919,
+                "lng": -71.313758
+            },
+            {
+                "alt": null,
+                "lat": 42.001026,
+                "lng": -71.31385
+            },
+            {
+                "alt": null,
+                "lat": 42.001091,
+                "lng": -71.313964
+            },
+            {
+                "alt": null,
+                "lat": 42.001121,
+                "lng": -71.31385
+            },
+            {
+                "alt": null,
+                "lat": 42.001194,
+                "lng": -71.313766
+            },
+            {
+                "alt": null,
+                "lat": 42.001277,
+                "lng": -71.313674
+            },
+            {
+                "alt": null,
+                "lat": 42.001369,
+                "lng": -71.31369
+            },
+            {
+                "alt": null,
+                "lat": 42.00148,
+                "lng": -71.31369
+            },
+            {
+                "alt": null,
+                "lat": 42.001548,
+                "lng": -71.313735
+            },
+            {
+                "alt": null,
+                "lat": 42.001651,
+                "lng": -71.313743
+            },
+            {
+                "alt": null,
+                "lat": 42.001743,
+                "lng": -71.313751
+            },
+            {
+                "alt": null,
+                "lat": 42.001785,
+                "lng": -71.313804
+            },
+            {
+                "alt": null,
+                "lat": 42.001781,
+                "lng": -71.313827
+            },
+            {
+                "alt": null,
+                "lat": 42.001785,
+                "lng": -71.313827
+            },
+            {
+                "alt": null,
+                "lat": 42.001785,
+                "lng": -71.313835
+            },
+            {
+                "alt": null,
+                "lat": 42.001735,
+                "lng": -71.313819
+            },
+            {
+                "alt": null,
+                "lat": 42.001644,
+                "lng": -71.313735
+            },
+            {
+                "alt": null,
+                "lat": 42.001583,
+                "lng": -71.313758
+            },
+            {
+                "alt": null,
+                "lat": 42.001533,
+                "lng": -71.313896
+            },
+            {
+                "alt": null,
+                "lat": 42.001514,
+                "lng": -71.313896
+            },
+            {
+                "alt": null,
+                "lat": 42.001426,
+                "lng": -71.31388
+            },
+            {
+                "alt": null,
+                "lat": 42.001281,
+                "lng": -71.31385
+            },
+            {
+                "alt": null,
+                "lat": 42.001255,
+                "lng": -71.313926
+            },
+            {
+                "alt": null,
+                "lat": 42.001266,
+                "lng": -71.313941
+            },
+            {
+                "alt": null,
+                "lat": 42.001293,
+                "lng": -71.314292
+            },
+            {
+                "alt": null,
+                "lat": 42.001213,
+                "lng": -71.3143
+            },
+            {
+                "alt": null,
+                "lat": 42.001224,
+                "lng": -71.314285
+            },
+            {
+                "alt": null,
+                "lat": 42.001129,
+                "lng": -71.314361
+            },
+            {
+                "alt": null,
+                "lat": 42.001007,
+                "lng": -71.314262
+            },
+            {
+                "alt": null,
+                "lat": 42.00101,
+                "lng": -71.314247
+            },
+            {
+                "alt": null,
+                "lat": 42.000919,
+                "lng": -71.314102
+            },
+            {
+                "alt": null,
+                "lat": 42.000873,
+                "lng": -71.313888
+            },
+            {
+                "alt": null,
+                "lat": 42.000877,
+                "lng": -71.313751
+            }
+        ]
+    ]
+}

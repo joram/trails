@@ -1,0 +1,173 @@
+{
+    "center_geohash": "9r86gudu6rbk",
+    "center_lat": 42.696389499999995,
+    "center_lng": -123.229769,
+    "description": "",
+    "directions": "",
+    "geohash": "9r86g",
+    "nearest_peak_geohash": "9r86ggf1wfpt",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=184777",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Friday, July 8, 2011",
+        "Elevation": "5264 ft / 1604 m",
+        "Location": "USA-Oregon",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo Ascent",
+        "Peak": "King Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "1 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1.4 mi / 2.3 km",
+        "Route": "King Mountain Spur Road",
+        "Total Elevation Gain": "144 ft / 43 m",
+        "Trailhead": "King Mountain Spur Road\u00a0\u00a05120 ft / 1560 m",
+        "Weather": "Pleasant, Breezy, Partly Cloudy"
+    },
+    "title": "King Mountain Spur Road",
+    "trail_id": "pb_184777",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 42.70111,
+                "lng": -123.230531
+            },
+            {
+                "alt": null,
+                "lat": 42.70111,
+                "lng": -123.230531
+            },
+            {
+                "alt": null,
+                "lat": 42.701067,
+                "lng": -123.230166
+            },
+            {
+                "alt": null,
+                "lat": 42.70096,
+                "lng": -123.230016
+            },
+            {
+                "alt": null,
+                "lat": 42.700831,
+                "lng": -123.229887
+            },
+            {
+                "alt": null,
+                "lat": 42.700273,
+                "lng": -123.229587
+            },
+            {
+                "alt": null,
+                "lat": 42.699909,
+                "lng": -123.229372
+            },
+            {
+                "alt": null,
+                "lat": 42.699201,
+                "lng": -123.229072
+            },
+            {
+                "alt": null,
+                "lat": 42.698943,
+                "lng": -123.229007
+            },
+            {
+                "alt": null,
+                "lat": 42.698686,
+                "lng": -123.229007
+            },
+            {
+                "alt": null,
+                "lat": 42.697741,
+                "lng": -123.229115
+            },
+            {
+                "alt": null,
+                "lat": 42.696497,
+                "lng": -123.229393
+            },
+            {
+                "alt": null,
+                "lat": 42.696089,
+                "lng": -123.229608
+            },
+            {
+                "alt": null,
+                "lat": 42.69581,
+                "lng": -123.229887
+            },
+            {
+                "alt": null,
+                "lat": 42.695338,
+                "lng": -123.230166
+            },
+            {
+                "alt": null,
+                "lat": 42.695038,
+                "lng": -123.230252
+            },
+            {
+                "alt": null,
+                "lat": 42.694888,
+                "lng": -123.230252
+            },
+            {
+                "alt": null,
+                "lat": 42.694373,
+                "lng": -123.230166
+            },
+            {
+                "alt": null,
+                "lat": 42.693879,
+                "lng": -123.230144
+            },
+            {
+                "alt": null,
+                "lat": 42.693214,
+                "lng": -123.229887
+            },
+            {
+                "alt": null,
+                "lat": 42.692956,
+                "lng": -123.229866
+            },
+            {
+                "alt": null,
+                "lat": 42.692763,
+                "lng": -123.229908
+            },
+            {
+                "alt": null,
+                "lat": 42.692592,
+                "lng": -123.229994
+            },
+            {
+                "alt": null,
+                "lat": 42.69227,
+                "lng": -123.230316
+            },
+            {
+                "alt": null,
+                "lat": 42.692034,
+                "lng": -123.230402
+            },
+            {
+                "alt": null,
+                "lat": 42.691862,
+                "lng": -123.230423
+            },
+            {
+                "alt": null,
+                "lat": 42.691712,
+                "lng": -123.230359
+            },
+            {
+                "alt": null,
+                "lat": 42.691669,
+                "lng": -123.230531
+            }
+        ]
+    ]
+}

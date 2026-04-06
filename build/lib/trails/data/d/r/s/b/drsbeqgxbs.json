@@ -1,0 +1,138 @@
+{
+    "center_geohash": "drsbeqgxbsxm",
+    "center_lat": 42.313824999999994,
+    "center_lng": -71.9226525,
+    "description": "",
+    "directions": "",
+    "geohash": "drsbe",
+    "nearest_peak_geohash": "drsber55r0j1",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=273354",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Tuesday, September 25, 2012",
+        "Elevation": "1220 ft / 371 m",
+        "Location": "USA-Massachusetts",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Crocker Hill",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.2 mi / 0.3 km",
+        "Route": "Open field",
+        "Time": "2 Minutes",
+        "Total Elevation Gain": "10 ft / 3 m",
+        "Trailhead": "Road\u00a0\u00a01210 ft / 368 m",
+        "Weather": "Pleasant, Calm, Clear"
+    },
+    "title": "Open field",
+    "trail_id": "pb_273354",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 42.313938,
+                "lng": -71.923286
+            },
+            {
+                "alt": null,
+                "lat": 42.313949,
+                "lng": -71.923286
+            },
+            {
+                "alt": null,
+                "lat": 42.313949,
+                "lng": -71.923278
+            },
+            {
+                "alt": null,
+                "lat": 42.313953,
+                "lng": -71.923271
+            },
+            {
+                "alt": null,
+                "lat": 42.314178,
+                "lng": -71.922599
+            },
+            {
+                "alt": null,
+                "lat": 42.314067,
+                "lng": -71.92247
+            },
+            {
+                "alt": null,
+                "lat": 42.313827,
+                "lng": -71.922355
+            },
+            {
+                "alt": null,
+                "lat": 42.313602,
+                "lng": -71.922286
+            },
+            {
+                "alt": null,
+                "lat": 42.313476,
+                "lng": -71.922286
+            },
+            {
+                "alt": null,
+                "lat": 42.313472,
+                "lng": -71.922172
+            },
+            {
+                "alt": null,
+                "lat": 42.313503,
+                "lng": -71.92208
+            },
+            {
+                "alt": null,
+                "lat": 42.313552,
+                "lng": -71.922019
+            },
+            {
+                "alt": null,
+                "lat": 42.313674,
+                "lng": -71.922058
+            },
+            {
+                "alt": null,
+                "lat": 42.313701,
+                "lng": -71.92221
+            },
+            {
+                "alt": null,
+                "lat": 42.313697,
+                "lng": -71.922363
+            },
+            {
+                "alt": null,
+                "lat": 42.313812,
+                "lng": -71.922424
+            },
+            {
+                "alt": null,
+                "lat": 42.314025,
+                "lng": -71.922485
+            },
+            {
+                "alt": null,
+                "lat": 42.314102,
+                "lng": -71.922645
+            },
+            {
+                "alt": null,
+                "lat": 42.314048,
+                "lng": -71.922943
+            },
+            {
+                "alt": null,
+                "lat": 42.313968,
+                "lng": -71.923194
+            },
+            {
+                "alt": null,
+                "lat": 42.313976,
+                "lng": -71.923202
+            }
+        ]
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "center_geohash": "9yxt8pvv09sh",
+    "center_lat": 37.572736,
+    "center_lng": -90.6952015,
+    "description": "",
+    "directions": "",
+    "geohash": "9yxt8pv",
+    "nearest_peak_geohash": "9yxt8pvwxn0q",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=315518",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Wednesday, May 8, 2013",
+        "Elevation": "1726 ft / 526 m",
+        "Location": "USA-Missouri",
+        "Motorized Transport to Trailhead": "Car",
+        "Other People": "Solo AscentOnly Party on Mountain",
+        "Peak": "Russell Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "0.1 mi / 0.2 km",
+        "Route": "Walked open area",
+        "Time": "1 Minutes",
+        "Total Elevation Gain": "10 ft / 3 m",
+        "Trailhead": "Road\u00a0\u00a01716 ft / 523 m",
+        "Weather": "Pleasant, Calm, ClearNice"
+    },
+    "title": "Walked open area",
+    "trail_id": "pb_315518",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 37.572452,
+                "lng": -90.695327
+            },
+            {
+                "alt": null,
+                "lat": 37.572505,
+                "lng": -90.695297
+            },
+            {
+                "alt": null,
+                "lat": 37.572578,
+                "lng": -90.695236
+            },
+            {
+                "alt": null,
+                "lat": 37.572643,
+                "lng": -90.695182
+            },
+            {
+                "alt": null,
+                "lat": 37.572711,
+                "lng": -90.695137
+            },
+            {
+                "alt": null,
+                "lat": 37.572731,
+                "lng": -90.695114
+            },
+            {
+                "alt": null,
+                "lat": 37.572879,
+                "lng": -90.695075
+            },
+            {
+                "alt": null,
+                "lat": 37.572948,
+                "lng": -90.695106
+            },
+            {
+                "alt": null,
+                "lat": 37.572967,
+                "lng": -90.695205
+            },
+            {
+                "alt": null,
+                "lat": 37.57299,
+                "lng": -90.695213
+            },
+            {
+                "alt": null,
+                "lat": 37.57302,
+                "lng": -90.695236
+            },
+            {
+                "alt": null,
+                "lat": 37.572971,
+                "lng": -90.695198
+            },
+            {
+                "alt": null,
+                "lat": 37.572883,
+                "lng": -90.695152
+            },
+            {
+                "alt": null,
+                "lat": 37.572834,
+                "lng": -90.695045
+            },
+            {
+                "alt": null,
+                "lat": 37.572746,
+                "lng": -90.69506
+            },
+            {
+                "alt": null,
+                "lat": 37.572685,
+                "lng": -90.695114
+            },
+            {
+                "alt": null,
+                "lat": 37.572624,
+                "lng": -90.695213
+            },
+            {
+                "alt": null,
+                "lat": 37.572521,
+                "lng": -90.695343
+            },
+            {
+                "alt": null,
+                "lat": 37.572483,
+                "lng": -90.695358
+            },
+            {
+                "alt": null,
+                "lat": 37.572479,
+                "lng": -90.69535
+            }
+        ]
+    ]
+}

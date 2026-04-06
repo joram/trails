@@ -1,0 +1,183 @@
+{
+    "center_geohash": "c29h9vxqecfh",
+    "center_lat": 48.634854000000004,
+    "center_lng": -122.2567255,
+    "description": "",
+    "directions": "",
+    "geohash": "c29h",
+    "nearest_peak_geohash": "c29h9yz0jhks",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=49994",
+    "stats": {
+        "": "",
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Saturday, November 22, 2008",
+        "Elevation": "3364 ft / 1025 m",
+        "Location": "USA-Washington",
+        "Motorized Transport to Trailhead": "Car",
+        "Others in Party": "Edward Earl",
+        "Peak": "Anderson Mountain",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "3 (on a subjective 1-10 scale)",
+        "Route": "A1000 Road",
+        "Total Elevation Gain": "1164 ft / 354 m",
+        "Trailhead": "A1000 Road\u00a0\u00a02200 ft / 670 m",
+        "Weather": "Snowing, Cool, Breezy, Low Clouds"
+    },
+    "title": "A1000 Road",
+    "trail_id": "pb_49994",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 48.628551,
+                "lng": -122.256615
+            },
+            {
+                "alt": null,
+                "lat": 48.629099,
+                "lng": -122.256461
+            },
+            {
+                "alt": null,
+                "lat": 48.629423,
+                "lng": -122.256456
+            },
+            {
+                "alt": null,
+                "lat": 48.629875,
+                "lng": -122.256352
+            },
+            {
+                "alt": null,
+                "lat": 48.630326,
+                "lng": -122.256053
+            },
+            {
+                "alt": null,
+                "lat": 48.630551,
+                "lng": -122.255854
+            },
+            {
+                "alt": null,
+                "lat": 48.631229,
+                "lng": -122.255795
+            },
+            {
+                "alt": null,
+                "lat": 48.631617,
+                "lng": -122.255741
+            },
+            {
+                "alt": null,
+                "lat": 48.632297,
+                "lng": -122.255877
+            },
+            {
+                "alt": null,
+                "lat": 48.632784,
+                "lng": -122.256114
+            },
+            {
+                "alt": null,
+                "lat": 48.633335,
+                "lng": -122.25635
+            },
+            {
+                "alt": null,
+                "lat": 48.634114,
+                "lng": -122.256826
+            },
+            {
+                "alt": null,
+                "lat": 48.634471,
+                "lng": -122.257016
+            },
+            {
+                "alt": null,
+                "lat": 48.635313,
+                "lng": -122.257102
+            },
+            {
+                "alt": null,
+                "lat": 48.63596,
+                "lng": -122.257141
+            },
+            {
+                "alt": null,
+                "lat": 48.636447,
+                "lng": -122.257524
+            },
+            {
+                "alt": null,
+                "lat": 48.637063,
+                "lng": -122.25771
+            },
+            {
+                "alt": null,
+                "lat": 48.637548,
+                "lng": -122.257703
+            },
+            {
+                "alt": null,
+                "lat": 48.637904,
+                "lng": -122.257698
+            },
+            {
+                "alt": null,
+                "lat": 48.638453,
+                "lng": -122.257592
+            },
+            {
+                "alt": null,
+                "lat": 48.638776,
+                "lng": -122.25749
+            },
+            {
+                "alt": null,
+                "lat": 48.639066,
+                "lng": -122.257388
+            },
+            {
+                "alt": null,
+                "lat": 48.639356,
+                "lng": -122.257189
+            },
+            {
+                "alt": null,
+                "lat": 48.639774,
+                "lng": -122.25689
+            },
+            {
+                "alt": null,
+                "lat": 48.639871,
+                "lng": -122.256791
+            },
+            {
+                "alt": null,
+                "lat": 48.640097,
+                "lng": -122.256739
+            },
+            {
+                "alt": null,
+                "lat": 48.640259,
+                "lng": -122.256736
+            },
+            {
+                "alt": null,
+                "lat": 48.640617,
+                "lng": -122.25717
+            },
+            {
+                "alt": null,
+                "lat": 48.640843,
+                "lng": -122.257069
+            },
+            {
+                "alt": null,
+                "lat": 48.641157,
+                "lng": -122.256807
+            }
+        ]
+    ]
+}

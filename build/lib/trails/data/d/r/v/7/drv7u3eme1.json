@@ -1,0 +1,216 @@
+{
+    "center_geohash": "drv7u3eme1wm",
+    "center_lat": 44.262122500000004,
+    "center_lng": -71.17581949999999,
+    "description": "",
+    "directions": "",
+    "geohash": "drv7u",
+    "nearest_peak_geohash": "drv7u68uh892",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=1498898",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Sunday, September 20, 2020",
+        "Elevation": "4832 ft / 1472 m",
+        "Location": "USA-New Hampshire",
+        "Peak": "Carter Dome",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "6 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "1.8 mi / 2.9 km",
+        "Route": "Rainbow Trail",
+        "Total Elevation Gain": "642 ft / 195 m",
+        "Trailhead": "4190 ft / 1277 m",
+        "Weather": "Cool, Windy"
+    },
+    "title": "Rainbow Trail",
+    "trail_id": "pb_1498898",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 44.256769,
+                "lng": -71.172399
+            },
+            {
+                "alt": null,
+                "lat": 44.25677,
+                "lng": -71.1724
+            },
+            {
+                "alt": null,
+                "lat": 44.25685,
+                "lng": -71.17265
+            },
+            {
+                "alt": null,
+                "lat": 44.25703,
+                "lng": -71.17272
+            },
+            {
+                "alt": null,
+                "lat": 44.25726,
+                "lng": -71.17286
+            },
+            {
+                "alt": null,
+                "lat": 44.25745,
+                "lng": -71.17306
+            },
+            {
+                "alt": null,
+                "lat": 44.25767,
+                "lng": -71.1731
+            },
+            {
+                "alt": null,
+                "lat": 44.25792,
+                "lng": -71.17308
+            },
+            {
+                "alt": null,
+                "lat": 44.25801,
+                "lng": -71.17315
+            },
+            {
+                "alt": null,
+                "lat": 44.25808,
+                "lng": -71.17326
+            },
+            {
+                "alt": null,
+                "lat": 44.25868,
+                "lng": -71.17362
+            },
+            {
+                "alt": null,
+                "lat": 44.25942,
+                "lng": -71.17415
+            },
+            {
+                "alt": null,
+                "lat": 44.25991,
+                "lng": -71.17458
+            },
+            {
+                "alt": null,
+                "lat": 44.26016,
+                "lng": -71.17506
+            },
+            {
+                "alt": null,
+                "lat": 44.26043,
+                "lng": -71.17531
+            },
+            {
+                "alt": null,
+                "lat": 44.2607,
+                "lng": -71.17552
+            },
+            {
+                "alt": null,
+                "lat": 44.26094,
+                "lng": -71.17583
+            },
+            {
+                "alt": null,
+                "lat": 44.26094,
+                "lng": -71.17583
+            },
+            {
+                "alt": null,
+                "lat": 44.26137,
+                "lng": -71.17613
+            },
+            {
+                "alt": null,
+                "lat": 44.26228,
+                "lng": -71.17653
+            },
+            {
+                "alt": null,
+                "lat": 44.26302,
+                "lng": -71.17673
+            },
+            {
+                "alt": null,
+                "lat": 44.26391,
+                "lng": -71.17671
+            },
+            {
+                "alt": null,
+                "lat": 44.26408,
+                "lng": -71.17667
+            },
+            {
+                "alt": null,
+                "lat": 44.26443,
+                "lng": -71.17668
+            },
+            {
+                "alt": null,
+                "lat": 44.26544,
+                "lng": -71.17693
+            },
+            {
+                "alt": null,
+                "lat": 44.26595,
+                "lng": -71.17715
+            },
+            {
+                "alt": null,
+                "lat": 44.26682,
+                "lng": -71.17746
+            },
+            {
+                "alt": null,
+                "lat": 44.26701,
+                "lng": -71.17758
+            },
+            {
+                "alt": null,
+                "lat": 44.26715,
+                "lng": -71.17775
+            },
+            {
+                "alt": null,
+                "lat": 44.2672,
+                "lng": -71.17795
+            },
+            {
+                "alt": null,
+                "lat": 44.26719,
+                "lng": -71.17819
+            },
+            {
+                "alt": null,
+                "lat": 44.26712,
+                "lng": -71.17852
+            },
+            {
+                "alt": null,
+                "lat": 44.26712,
+                "lng": -71.17891
+            },
+            {
+                "alt": null,
+                "lat": 44.26727,
+                "lng": -71.1791
+            },
+            {
+                "alt": null,
+                "lat": 44.26746,
+                "lng": -71.17924
+            },
+            {
+                "alt": null,
+                "lat": 44.26746,
+                "lng": -71.17924
+            },
+            {
+                "alt": null,
+                "lat": 44.267476,
+                "lng": -71.179202
+            }
+        ]
+    ]
+}

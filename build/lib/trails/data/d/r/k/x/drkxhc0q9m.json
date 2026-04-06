@@ -1,0 +1,126 @@
+{
+    "center_geohash": "drkxhc0q9ms9",
+    "center_lat": 42.0183575,
+    "center_lng": -72.21273149999999,
+    "description": "",
+    "directions": "",
+    "geohash": "drkxh",
+    "nearest_peak_geohash": "drkxhbgjtd8s",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=1094398",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Sunday, January 6, 2019",
+        "Distance": "0.6 mi / 1 km",
+        "Elevation": "1321 ft / 402 m",
+        "End Trailhead": "New City Road\u00a0\u00a01095 ft / 333 m",
+        "Gain on way in": "226 ft / 68 m",
+        "Location": "USA-Connecticut",
+        "Loss on way out": "226 ft / 68 m",
+        "Other People": "Solo Ascent",
+        "Peak": "Burley Hill",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "1.3 mi / 2 km",
+        "Route": "Bushwhack, 4WD trail",
+        "Start Trailhead": "New City Road\u00a0\u00a01095 ft / 333 m",
+        "Total Elevation Gain": "226 ft / 68 m",
+        "Total Elevation Loss": "226 ft / 68 m",
+        "Weather": "Snowing, Cold, BreezyMostly cloudy, chilly, windy, snow flurries"
+    },
+    "title": "Bushwhack, 4WD trail",
+    "trail_id": "pb_1094398",
+    "waypoints": [
+        [
+            {
+                "alt": 352.0,
+                "lat": 42.019434,
+                "lng": -72.216134
+            },
+            {
+                "alt": 344.0,
+                "lat": 42.019746,
+                "lng": -72.214835
+            },
+            {
+                "alt": 353.0,
+                "lat": 42.020027,
+                "lng": -72.213338
+            },
+            {
+                "alt": 368.0,
+                "lat": 42.01997,
+                "lng": -72.212094
+            },
+            {
+                "alt": 377.0,
+                "lat": 42.019082,
+                "lng": -72.211695
+            },
+            {
+                "alt": 389.0,
+                "lat": 42.018364,
+                "lng": -72.210933
+            },
+            {
+                "alt": 403.0,
+                "lat": 42.018019,
+                "lng": -72.209874
+            },
+            {
+                "alt": 406.0,
+                "lat": 42.017307,
+                "lng": -72.209429
+            },
+            {
+                "alt": 405.0,
+                "lat": 42.016688,
+                "lng": -72.208908
+            },
+            {
+                "alt": 405.0,
+                "lat": 42.016841,
+                "lng": -72.209229
+            },
+            {
+                "alt": 404.0,
+                "lat": 42.017118,
+                "lng": -72.209752
+            },
+            {
+                "alt": 398.0,
+                "lat": 42.01779,
+                "lng": -72.210486
+            },
+            {
+                "alt": 382.0,
+                "lat": 42.018021,
+                "lng": -72.211897
+            },
+            {
+                "alt": 368.0,
+                "lat": 42.018033,
+                "lng": -72.213125
+            },
+            {
+                "alt": 349.0,
+                "lat": 42.018202,
+                "lng": -72.214516
+            },
+            {
+                "alt": 347.0,
+                "lat": 42.018685,
+                "lng": -72.215529
+            },
+            {
+                "alt": 346.0,
+                "lat": 42.019167,
+                "lng": -72.216555
+            },
+            {
+                "alt": 352.0,
+                "lat": 42.019864,
+                "lng": -72.216411
+            }
+        ]
+    ]
+}

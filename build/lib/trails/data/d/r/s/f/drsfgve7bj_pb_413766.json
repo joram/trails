@@ -1,0 +1,208 @@
+{
+    "center_geohash": "drsfgve7bjb7",
+    "center_lat": 42.701786,
+    "center_lng": -71.901054,
+    "description": "",
+    "directions": "",
+    "geohash": "drsfg",
+    "nearest_peak_geohash": "drsfgyhx20vn",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=413766",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Wednesday, May 14, 2014",
+        "Distance": "0.9 mi / 1.5 km",
+        "Elevation": "1624 ft / 494 m",
+        "End Trailhead": "Watatic Mtn parking lot\u00a0\u00a01261 ft / 384 m",
+        "Gain on way in": "44 ft / 13 m",
+        "Gain on way out": "40 ft / 12 m",
+        "Location": "USA-Massachusetts",
+        "Loss Breakdown": "Net: 363 ft / 110 m; Extra: 40 ft / 12m",
+        "Loss on way out": "403 ft / 122 m",
+        "Other People": "Solo Ascent",
+        "Peak": "Nutting Hill",
+        "Peakbagger.com": "\n\n\n",
+        "Round-Trip Distance": "1.1 mi / 1.8 km",
+        "Route": "Wapack and Mid-State Trails",
+        "Start Trailhead": "Dip from East Slope bushwhack\u00a0\u00a01580 ft / 481 m",
+        "Total Elevation Gain": "84 ft / 25 m",
+        "Total Elevation Loss": "403 ft / 122 m",
+        "Weather": "Pleasant, Calm, Clear"
+    },
+    "title": "Wapack and Mid-State Trails",
+    "trail_id": "pb_413766",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 42.696661,
+                "lng": -71.904423
+            },
+            {
+                "alt": null,
+                "lat": 42.697687,
+                "lng": -71.904616
+            },
+            {
+                "alt": null,
+                "lat": 42.69838,
+                "lng": -71.904852
+            },
+            {
+                "alt": null,
+                "lat": 42.699122,
+                "lng": -71.904895
+            },
+            {
+                "alt": null,
+                "lat": 42.700289,
+                "lng": -71.904766
+            },
+            {
+                "alt": null,
+                "lat": 42.701329,
+                "lng": -71.904745
+            },
+            {
+                "alt": null,
+                "lat": 42.702528,
+                "lng": -71.904423
+            },
+            {
+                "alt": null,
+                "lat": 42.703379,
+                "lng": -71.904187
+            },
+            {
+                "alt": null,
+                "lat": 42.704262,
+                "lng": -71.903929
+            },
+            {
+                "alt": null,
+                "lat": 42.705177,
+                "lng": -71.903414
+            },
+            {
+                "alt": null,
+                "lat": 42.705934,
+                "lng": -71.902599
+            },
+            {
+                "alt": null,
+                "lat": 42.706091,
+                "lng": -71.901698
+            },
+            {
+                "alt": null,
+                "lat": 42.705965,
+                "lng": -71.900882
+            },
+            {
+                "alt": null,
+                "lat": 42.705587,
+                "lng": -71.900324
+            },
+            {
+                "alt": null,
+                "lat": 42.705271,
+                "lng": -71.899766
+            },
+            {
+                "alt": null,
+                "lat": 42.706154,
+                "lng": -71.897149
+            },
+            {
+                "alt": null,
+                "lat": 42.706911,
+                "lng": -71.897706
+            },
+            {
+                "alt": null,
+                "lat": 42.705997,
+                "lng": -71.897535
+            },
+            {
+                "alt": null,
+                "lat": 42.705303,
+                "lng": -71.899294
+            },
+            {
+                "alt": null,
+                "lat": 42.704767,
+                "lng": -71.899423
+            },
+            {
+                "alt": null,
+                "lat": 42.704452,
+                "lng": -71.898865
+            },
+            {
+                "alt": null,
+                "lat": 42.705429,
+                "lng": -71.900024
+            },
+            {
+                "alt": null,
+                "lat": 42.705808,
+                "lng": -71.900582
+            },
+            {
+                "alt": null,
+                "lat": 42.705997,
+                "lng": -71.90217
+            },
+            {
+                "alt": null,
+                "lat": 42.705492,
+                "lng": -71.902942
+            },
+            {
+                "alt": null,
+                "lat": 42.704609,
+                "lng": -71.903672
+            },
+            {
+                "alt": null,
+                "lat": 42.703852,
+                "lng": -71.904015
+            },
+            {
+                "alt": null,
+                "lat": 42.702843,
+                "lng": -71.90423
+            },
+            {
+                "alt": null,
+                "lat": 42.701739,
+                "lng": -71.904702
+            },
+            {
+                "alt": null,
+                "lat": 42.700635,
+                "lng": -71.904487
+            },
+            {
+                "alt": null,
+                "lat": 42.699469,
+                "lng": -71.904616
+            },
+            {
+                "alt": null,
+                "lat": 42.69868,
+                "lng": -71.904745
+            },
+            {
+                "alt": null,
+                "lat": 42.697892,
+                "lng": -71.904959
+            },
+            {
+                "alt": null,
+                "lat": 42.697071,
+                "lng": -71.904702
+            }
+        ]
+    ]
+}

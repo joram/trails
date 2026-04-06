@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trails — geohash viewport</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  <style>
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; padding: 0; }
+    #map { width: 100%; height: 100%; background: #1a1a1e; }
+    #debug {
+      position: fixed;
+      top: 12px;
+      left: 12px;
+      z-index: 10000;
+      max-width: min(440px, calc(100vw - 24px));
+      max-height: calc(100vh - 24px);
+      overflow: auto;
+      margin: 0;
+      padding: 12px 14px;
+      font: 12px/1.45 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      color: #b8f5c8;
+      background: rgba(12, 18, 14, 0.88);
+      border: 1px solid rgba(80, 200, 120, 0.35);
+      border-radius: 6px;
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.45);
+      pointer-events: none;
+    }
+    #debug .label { color: #6ecf8e; font-weight: 600; }
+    #debug .dim { color: #6a8a72; }
+    #debug .prefix { color: #f0e68c; word-break: break-all; }
+    .leaflet-control-attribution { font-size: 10px; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <pre id="debug"></pre>
+
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+  <script>
+(function () {
+  const GEOHASH_BASE32 = '0123456789bcdefghjkmnpqrstuvwxyz';
+
+  /** Encode WGS84 point to geohash (standard binary bisection). */
+  function encodeGeohash(lat, lon, precision) {
+    let idx = 0;
+    let bit = 0;
+    let evenBit = true;
+    let geohash = '';
+    let latMin = -90;
+    let latMax = 90;
+    let lonMin = -180;
+    let lonMax = 180;
+    while (geohash.length < precision) {
+      if (evenBit) {
+        const lonMid = (lonMin + lonMax) / 2;
+        if (lon >= lonMid) {
+          idx = idx * 2 + 1;
+          lonMin = lonMid;
+        } else {
+          idx = idx * 2;
+          lonMax = lonMid;
+        }
+      } else {
+        const latMid = (latMin + latMax) / 2;
+        if (lat >= latMid) {
+          idx = idx * 2 + 1;
+          latMin = latMid;
+        } else {
+          idx = idx * 2;
+          latMax = latMid;
+        }
+      }
+      evenBit = !evenBit;
+      if (++bit === 5) {
+        geohash += GEOHASH_BASE32.charAt(idx);
+        bit = 0;
+        idx = 0;
+      }
+    }
+    return geohash;
+  }
+
+  function longestCommonPrefix(strs) {
+    if (!strs.length) return '';
+    const a = strs[0];
+    for (let i = 0; i < a.length; i++) {
+      const c = a[i];
+      for (let j = 1; j < strs.length; j++) {
+        if (i >= strs[j].length || strs[j][i] !== c) return a.slice(0, i);
+      }
+    }
+    return a;
+  }
+
+  function debounce(fn, ms) {
+    let t;
+    return function () {
+      clearTimeout(t);
+      const args = arguments;
+      t = setTimeout(() => fn.apply(null, args), ms);
+    };
+  }
+
+  const PRECISION = 12;
+  const map = L.map('map', { zoomControl: true }).setView([49.35, -123.15], 11);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; OpenStreetMap',
+  }).addTo(map);
+
+  const trailsLayer = L.layerGroup().addTo(map);
+  let lastPrefix = null;
+  let loadToken = 0;
+  let lastTrailFeatureCount = 0;
+
+  const debugEl = document.getElementById('debug');
+
+  function setDebug(html) {
+    debugEl.innerHTML = html;
+  }
+
+  /** @returns {Promise<number>} feature count */
+  async function loadTrailsForPrefix(prefix) {
+    if (prefix === lastPrefix) return -1;
+    lastPrefix = prefix;
+    const token = ++loadToken;
+    try {
+      const r = await fetch('/api/trails?prefix=' + encodeURIComponent(prefix));
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      const gj = await r.json();
+      if (token !== loadToken) return -1;
+      trailsLayer.clearLayers();
+      L.geoJSON(gj, {
+        style: {
+          color: '#e67e22',
+          weight: 3,
+          opacity: 0.9,
+        },
+        pointToLayer(feature, latlng) {
+          return L.circleMarker(latlng, {
+            radius: 6,
+            fillColor: '#e67e22',
+            color: '#2c1810',
+            weight: 1,
+            fillOpacity: 0.85,
+          });
+        },
+        onEachFeature(feature, layer) {
+          const p = feature.properties || {};
+          const t = p.title || '(no title)';
+          const id = p.trail_id != null ? p.trail_id : '';
+          const gh = p.center_geohash || '';
+          const url = p.source_url || '';
+          let h = '<strong>' + escapeHtml(t) + '</strong><br/>id: ' + escapeHtml(String(id));
+          if (gh) h += '<br/>center_geohash: <code>' + escapeHtml(gh) + '</code>';
+          if (url) h += '<br/><a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">source</a>';
+          layer.bindPopup(h);
+        },
+      }).addTo(trailsLayer);
+      lastTrailFeatureCount = gj.features ? gj.features.length : 0;
+      return lastTrailFeatureCount;
+    } catch (e) {
+      if (token === loadToken) {
+        trailsLayer.clearLayers();
+        lastTrailFeatureCount = 0;
+        console.error('trails fetch', e);
+      }
+      return 0;
+    }
+  }
+
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  async function updateDebugAndTrails() {
+    const b = map.getBounds();
+    const corners = [
+      { name: 'NW', ll: b.getNorthWest() },
+      { name: 'NE', ll: b.getNorthEast() },
+      { name: 'SW', ll: b.getSouthWest() },
+      { name: 'SE', ll: b.getSouthEast() },
+    ];
+    const hashes = corners.map(({ ll }) =>
+      encodeGeohash(ll.lat, ll.lng, PRECISION)
+    );
+    const shared = longestCommonPrefix(hashes);
+
+    let html = '<span class="label">Viewport</span> zoom ' + map.getZoom().toFixed(2) + '\n\n';
+    corners.forEach((c, i) => {
+      const ll = c.ll;
+      html +=
+        '<span class="label">' +
+        c.name +
+        '</span>  <span class="dim">lat</span> ' +
+        ll.lat.toFixed(6) +
+        '  <span class="dim">lng</span> ' +
+        ll.lng.toFixed(6) +
+        '\n' +
+        '       <span class="dim">geohash</span> <span class="prefix">' +
+        escapeHtml(hashes[i]) +
+        '</span>\n\n';
+    });
+    html += '<span class="label">Shared prefix</span> (length ' + shared.length + ')\n';
+    html += '<span class="prefix">' + (shared ? escapeHtml(shared) : '<span class="dim">(none)</span>') + '</span>\n\n';
+
+    if (shared.length >= 5) {
+      html +=
+        '<span class="label">Query</span> <span class="dim">GET /api/trails?prefix=</span><span class="prefix">' +
+        escapeHtml(shared) +
+        '</span>\n';
+    } else {
+      html +=
+        '<span class="dim">Zoom in until the four corner geohashes share a prefix of length ≥ 5 to load trails.</span>\n';
+    }
+
+    if (shared.length >= 5) {
+      const n = await loadTrailsForPrefix(shared);
+      const visible = n >= 0 ? n : lastTrailFeatureCount;
+      html += '\n<span class="label">Rendered</span> ' + visible + ' feature(s)\n';
+    } else {
+      lastPrefix = null;
+      lastTrailFeatureCount = 0;
+      trailsLayer.clearLayers();
+    }
+
+    setDebug(html);
+  }
+
+  const debounced = debounce(() => {
+    updateDebugAndTrails();
+  }, 280);
+  map.on('moveend zoomend', debounced);
+  updateDebugAndTrails();
+})();
+  </script>
+</body>
+</html>

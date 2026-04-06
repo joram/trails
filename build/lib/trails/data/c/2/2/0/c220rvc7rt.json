@@ -1,0 +1,167 @@
+{
+    "center_geohash": "c220rvc7rt2t",
+    "center_lat": 46.482368,
+    "center_lng": -123.4073845,
+    "description": "",
+    "directions": "",
+    "geohash": "c220r",
+    "nearest_peak_geohash": "c220rveww8ud",
+    "photos": [],
+    "source_url": "https://www.peakbagger.com/climber/ascent.aspx?aid=8305",
+    "stats": {
+        "Ascent Type": "Successful Summit Attained",
+        "Date": "Saturday, May 5, 2007",
+        "Elevation": "3000 ft / 914 m",
+        "Location": "USA-Washington",
+        "Others in Party": "David Olson",
+        "Peak": "Pacific County High Point",
+        "Peakbagger.com": "\n\n\n",
+        "Quality": "2 (on a subjective 1-10 scale)",
+        "Round-Trip Distance": "0.6 mi / 0.9 km",
+        "Route": "Old logging road",
+        "Total Elevation Gain": "200 ft / 60 m",
+        "Trailhead": "2800 ft / 853 m",
+        "Weather": "Pleasant, Calm, Overcast"
+    },
+    "title": "Old logging road",
+    "trail_id": "pb_8305",
+    "waypoints": [
+        [
+            {
+                "alt": null,
+                "lat": 46.48335,
+                "lng": -123.41071
+            },
+            {
+                "alt": null,
+                "lat": 46.483244,
+                "lng": -123.410509
+            },
+            {
+                "alt": null,
+                "lat": 46.48318,
+                "lng": -123.41015
+            },
+            {
+                "alt": null,
+                "lat": 46.483027,
+                "lng": -123.409978
+            },
+            {
+                "alt": null,
+                "lat": 46.482913,
+                "lng": -123.409729
+            },
+            {
+                "alt": null,
+                "lat": 46.482799,
+                "lng": -123.40943
+            },
+            {
+                "alt": null,
+                "lat": 46.482753,
+                "lng": -123.40928
+            },
+            {
+                "alt": null,
+                "lat": 46.482593,
+                "lng": -123.408865
+            },
+            {
+                "alt": null,
+                "lat": 46.48245,
+                "lng": -123.40839
+            },
+            {
+                "alt": null,
+                "lat": 46.482412,
+                "lng": -123.408036
+            },
+            {
+                "alt": null,
+                "lat": 46.482264,
+                "lng": -123.407572
+            },
+            {
+                "alt": null,
+                "lat": 46.48213,
+                "lng": -123.40713
+            },
+            {
+                "alt": null,
+                "lat": 46.481967,
+                "lng": -123.406891
+            },
+            {
+                "alt": null,
+                "lat": 46.48189,
+                "lng": -123.40659
+            },
+            {
+                "alt": null,
+                "lat": 46.481778,
+                "lng": -123.406303
+            },
+            {
+                "alt": null,
+                "lat": 46.481705,
+                "lng": -123.406011
+            },
+            {
+                "alt": null,
+                "lat": 46.481648,
+                "lng": -123.405779
+            },
+            {
+                "alt": null,
+                "lat": 46.481602,
+                "lng": -123.405646
+            },
+            {
+                "alt": null,
+                "lat": 46.48148,
+                "lng": -123.40528
+            },
+            {
+                "alt": null,
+                "lat": 46.481674,
+                "lng": -123.405068
+            },
+            {
+                "alt": null,
+                "lat": 46.481825,
+                "lng": -123.404721
+            },
+            {
+                "alt": null,
+                "lat": 46.48193,
+                "lng": -123.40438
+            },
+            {
+                "alt": null,
+                "lat": 46.481988,
+                "lng": -123.404093
+            },
+            {
+                "alt": null,
+                "lat": 46.481804,
+                "lng": -123.404059
+            },
+            {
+                "alt": null,
+                "lat": 46.481611,
+                "lng": -123.404269
+            },
+            {
+                "alt": null,
+                "lat": 46.48147,
+                "lng": -123.40441
+            },
+            {
+                "alt": null,
+                "lat": 46.481386,
+                "lng": -123.40445
+            }
+        ]
+    ]
+}
