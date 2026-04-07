@@ -62,7 +62,7 @@ def _points_from_gpx(path: Path) -> List[List[Point]]:
     try:
         raw = path.read_text(encoding="utf-8", errors="replace")
         gpx = gpxpy.parse(raw)
-    except (OSError, UnicodeError, ValueError):
+    except Exception:
         return []
     legs: List[List[Point]] = []
     for track in gpx.tracks:

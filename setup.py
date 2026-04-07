@@ -24,10 +24,12 @@ setuptools.setup(
     },
     package_data={
         "trails": [
-            str(p.relative_to("trails")).replace("\\", "/")
-            for base in (Path("trails/data"), Path("trails/static"), Path("trails/to_sort"))
-            for p in base.rglob("*")
-            if p.is_file()
+            "trails.parquet",
+            *(
+                str(p.relative_to("trails")).replace("\\", "/")
+                for p in Path("trails/static").rglob("*")
+                if p.is_file()
+            ),
         ],
     },
     python_requires=">=3.8",
@@ -35,5 +37,7 @@ setuptools.setup(
         "gpxpy",
         "geojson",
         "pydantic>=2",
+        "pandas",
+        "pyarrow",
     ],
 )
