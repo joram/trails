@@ -27,7 +27,7 @@ from trails.region_query import list_vancouver_island_trails
 
 def _dirs() -> tuple[Path, Path]:
     pkg = Path(__file__).resolve().parent
-    return pkg / "static", pkg / "data"
+    return pkg / "static", pkg / "data"  # data_dir kept for API compat; not required on disk
 
 
 class MapRequestHandler(BaseHTTPRequestHandler):
@@ -95,9 +95,6 @@ def main() -> None:
     args = parser.parse_args()
 
     static_dir, data_dir = _dirs()
-    if not data_dir.is_dir():
-        raise SystemExit(f"Trail data directory not found: {data_dir}")
-
     MapRequestHandler.static_dir = static_dir
     MapRequestHandler.data_dir = data_dir
 
