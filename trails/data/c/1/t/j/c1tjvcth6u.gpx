@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Howson Range</name>
+    <trkseg>
+      <trkpt lat="54.4594495" lon="-127.6991987">
+      </trkpt>
+      <trkpt lat="54.4588633" lon="-127.7010441">
+      </trkpt>
+      <trkpt lat="54.4586013" lon="-127.7029753">
+      </trkpt>
+      <trkpt lat="54.4581024" lon="-127.7048636">
+      </trkpt>
+      <trkpt lat="54.4573914" lon="-127.7064514">
+      </trkpt>
+      <trkpt lat="54.4569673" lon="-127.7086616">
+      </trkpt>
+      <trkpt lat="54.4565432" lon="-127.7100778">
+      </trkpt>
+      <trkpt lat="54.4562064" lon="-127.7113223">
+      </trkpt>
+      <trkpt lat="54.455932" lon="-127.7122021">
+      </trkpt>
+      <trkpt lat="54.4565806" lon="-127.7123738">
+      </trkpt>
+      <trkpt lat="54.4562688" lon="-127.7140904">
+      </trkpt>
+      <trkpt lat="54.4569549" lon="-127.7137041">
+      </trkpt>
+      <trkpt lat="54.4568426" lon="-127.7146697">
+      </trkpt>
+      <trkpt lat="54.4565806" lon="-127.7154207">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

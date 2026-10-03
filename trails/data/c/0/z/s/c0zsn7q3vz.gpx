@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Gamma Trail</name>
+    <trkseg>
+      <trkpt lat="49.94027" lon="-124.1683173">
+      </trkpt>
+      <trkpt lat="49.9404771" lon="-124.1687036">
+      </trkpt>
+      <trkpt lat="49.9409743" lon="-124.1694117">
+      </trkpt>
+      <trkpt lat="49.94143" lon="-124.1702056">
+      </trkpt>
+      <trkpt lat="49.9409466" lon="-124.1703129">
+      </trkpt>
+      <trkpt lat="49.9409466" lon="-124.1707206">
+      </trkpt>
+      <trkpt lat="49.94056" lon="-124.1706777">
+      </trkpt>
+      <trkpt lat="49.9402838" lon="-124.1709137">
+      </trkpt>
+      <trkpt lat="49.9401319" lon="-124.1718149">
+      </trkpt>
+      <trkpt lat="49.939759" lon="-124.172566">
+      </trkpt>
+      <trkpt lat="49.939179" lon="-124.1728235">
+      </trkpt>
+      <trkpt lat="49.9386266" lon="-124.1733599">
+      </trkpt>
+      <trkpt lat="49.9382191" lon="-124.1739607">
+      </trkpt>
+      <trkpt lat="49.9375769" lon="-124.1749853">
+      </trkpt>
+      <trkpt lat="49.9363409" lon="-124.176085">
+      </trkpt>
+      <trkpt lat="49.9359203" lon="-124.1768084">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.9407821" lon="-124.1647086">
+      </trkpt>
+      <trkpt lat="49.9413126" lon="-124.164294">
+      </trkpt>
+      <trkpt lat="49.9414438" lon="-124.164412">
+      </trkpt>
+      <trkpt lat="49.9414576" lon="-124.1647768">
+      </trkpt>
+      <trkpt lat="49.9412919" lon="-124.1650987">
+      </trkpt>
+      <trkpt lat="49.9410019" lon="-124.1654849">
+      </trkpt>
+      <trkpt lat="49.9410433" lon="-124.1662789">
+      </trkpt>
+      <trkpt lat="49.9408914" lon="-124.1671801">
+      </trkpt>
+      <trkpt lat="49.9406014" lon="-124.1681671">
+      </trkpt>
+      <trkpt lat="49.94027" lon="-124.1683173">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

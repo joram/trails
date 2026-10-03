@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Old Kuldo</name>
+    <trkseg>
+      <trkpt lat="55.94298298" lon="-127.8917593">
+      </trkpt>
+      <trkpt lat="55.94310459" lon="-127.89361548">
+      </trkpt>
+      <trkpt lat="55.94356261" lon="-127.89534768">
+      </trkpt>
+      <trkpt lat="55.94387386" lon="-127.89715016">
+      </trkpt>
+      <trkpt lat="55.94422045" lon="-127.89817188">
+      </trkpt>
+      <trkpt lat="55.94460461" lon="-127.89968312">
+      </trkpt>
+      <trkpt lat="55.94474906" lon="-127.90053998">
+      </trkpt>
+      <trkpt lat="55.94488685" lon="-127.9012099">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="55.94485501" lon="-127.88973203">
+      </trkpt>
+      <trkpt lat="55.9454424" lon="-127.8900239">
+      </trkpt>
+      <trkpt lat="55.94607471" lon="-127.88979104">
+      </trkpt>
+      <trkpt lat="55.94647203" lon="-127.8892785">
+      </trkpt>
+      <trkpt lat="55.94657318" lon="-127.88817078">
+      </trkpt>
+      <trkpt lat="55.94645842" lon="-127.88779259">
+      </trkpt>
+      <trkpt lat="55.94632869" lon="-127.88736514">
+      </trkpt>
+      <trkpt lat="55.94614967" lon="-127.88617919">
+      </trkpt>
+      <trkpt lat="55.94567688" lon="-127.88548124">
+      </trkpt>
+      <trkpt lat="55.94523282" lon="-127.88542007">
+      </trkpt>
+      <trkpt lat="55.94498372" lon="-127.88564409">
+      </trkpt>
+      <trkpt lat="55.94472032" lon="-127.88636325">
+      </trkpt>
+      <trkpt lat="55.94465853" lon="-127.88716691">
+      </trkpt>
+      <trkpt lat="55.94472775" lon="-127.88783391">
+      </trkpt>
+      <trkpt lat="55.94481829" lon="-127.8886519">
+      </trkpt>
+      <trkpt lat="55.94485501" lon="-127.88973203">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Brandywine Ramp</name>
+    <trkseg>
+      <trkpt lat="50.0468391" lon="-123.1987602">
+      </trkpt>
+      <trkpt lat="50.0477281" lon="-123.1990652">
+      </trkpt>
+      <trkpt lat="50.0477557" lon="-123.1995587">
+      </trkpt>
+      <trkpt lat="50.0476592" lon="-123.2008462">
+      </trkpt>
+      <trkpt lat="50.0474285" lon="-123.2021111">
+      </trkpt>
+      <trkpt lat="50.0464717" lon="-123.2029776">
+      </trkpt>
+      <trkpt lat="50.046317" lon="-123.2030878">
+      </trkpt>
+      <trkpt lat="50.0453589" lon="-123.2037701">
+      </trkpt>
+      <trkpt lat="50.0440018" lon="-123.2036116">
+      </trkpt>
+      <trkpt lat="50.0431943" lon="-123.2026817">
+      </trkpt>
+      <trkpt lat="50.0424749" lon="-123.200822">
+      </trkpt>
+      <trkpt lat="50.0423133" lon="-123.2003778">
+      </trkpt>
+      <trkpt lat="50.0418099" lon="-123.198994">
+      </trkpt>
+      <trkpt lat="50.040827" lon="-123.1959462">
+      </trkpt>
+      <trkpt lat="50.0400126" lon="-123.1935453">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

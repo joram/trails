@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Nak Bowl</name>
+    <trkseg>
+      <trkpt lat="49.6098275" lon="-121.0879383">
+      </trkpt>
+      <trkpt lat="49.6082845" lon="-121.0873067">
+      </trkpt>
+      <trkpt lat="49.6065455" lon="-121.0858346">
+      </trkpt>
+      <trkpt lat="49.6054987" lon="-121.0851051">
+      </trkpt>
+      <trkpt lat="49.6048065" lon="-121.0848446">
+      </trkpt>
+      <trkpt lat="49.6035134" lon="-121.0836152">
+      </trkpt>
+      <trkpt lat="49.6031525" lon="-121.0829238">
+      </trkpt>
+      <trkpt lat="49.6027666" lon="-121.0821796">
+      </trkpt>
+      <trkpt lat="49.6027168" lon="-121.0813922">
+      </trkpt>
+      <trkpt lat="49.6026546" lon="-121.079947">
+      </trkpt>
+      <trkpt lat="49.6028133" lon="-121.0794285">
+      </trkpt>
+      <trkpt lat="49.6024119" lon="-121.0776568">
+      </trkpt>
+      <trkpt lat="49.602393" lon="-121.0773304">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

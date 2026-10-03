@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Blanket Mountain</name>
+    <trkseg>
+      <trkpt lat="50.7853459" lon="-118.2259476">
+      </trkpt>
+      <trkpt lat="50.7848846" lon="-118.2247997">
+      </trkpt>
+      <trkpt lat="50.7845726" lon="-118.2234478">
+      </trkpt>
+      <trkpt lat="50.7850746" lon="-118.2220102">
+      </trkpt>
+      <trkpt lat="50.7859428" lon="-118.2201863">
+      </trkpt>
+      <trkpt lat="50.786906" lon="-118.218298">
+      </trkpt>
+      <trkpt lat="50.7885745" lon="-118.2167101">
+      </trkpt>
+      <trkpt lat="50.7894698" lon="-118.2156372">
+      </trkpt>
+      <trkpt lat="50.7907992" lon="-118.2132769">
+      </trkpt>
+      <trkpt lat="50.7921556" lon="-118.2121182">
+      </trkpt>
+      <trkpt lat="50.7936748" lon="-118.2110024">
+      </trkpt>
+      <trkpt lat="50.7944072" lon="-118.2101441">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

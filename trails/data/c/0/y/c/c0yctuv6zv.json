@@ -1,0 +1,22 @@
+{
+    "center_geohash": "c0yctuv6zv8p",
+    "center_lat": 49.5090172,
+    "center_lng": -125.2475844,
+    "description": "From Anderson Hill, Oak Bay to Cape Scott.",
+    "directions": "",
+    "geohash": "c0yc",
+    "nearest_peak_geohash": "c0ycy8wj0vjn",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/12038457",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "rwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "747.4 km",
+        "Website": "https://vancouverislandtrail.ca/",
+        "Wikipedia": "en:Vancouver Island Trail"
+    },
+    "title": "Vancouver Island Trail",
+    "trail_id": "osm-r12038457"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Elaho Giant Trail</name>
+    <trkseg>
+      <trkpt lat="50.37089816" lon="-123.55497829">
+      </trkpt>
+      <trkpt lat="50.3709559" lon="-123.55511524">
+      </trkpt>
+      <trkpt lat="50.37096322" lon="-123.55521498">
+      </trkpt>
+      <trkpt lat="50.37096701" lon="-123.55535085">
+      </trkpt>
+      <trkpt lat="50.37096584" lon="-123.55547254">
+      </trkpt>
+      <trkpt lat="50.37096702" lon="-123.55568008">
+      </trkpt>
+      <trkpt lat="50.37097658" lon="-123.5558585">
+      </trkpt>
+      <trkpt lat="50.37101081" lon="-123.55609975">
+      </trkpt>
+      <trkpt lat="50.37102154" lon="-123.55632102">
+      </trkpt>
+      <trkpt lat="50.37105811" lon="-123.55664797">
+      </trkpt>
+      <trkpt lat="50.37106425" lon="-123.55686939">
+      </trkpt>
+      <trkpt lat="50.37109565" lon="-123.55717529">
+      </trkpt>
+      <trkpt lat="50.37110024" lon="-123.55733969">
+      </trkpt>
+      <trkpt lat="50.37111019" lon="-123.55753229">
+      </trkpt>
+      <trkpt lat="50.37113165" lon="-123.55764545">
+      </trkpt>
+      <trkpt lat="50.37117095" lon="-123.55778742">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

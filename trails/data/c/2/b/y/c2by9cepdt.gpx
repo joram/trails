@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Saxifrage Peak</name>
+    <trkseg>
+      <trkpt lat="50.3675081" lon="-122.5999394">
+      </trkpt>
+      <trkpt lat="50.367864" lon="-122.6016131">
+      </trkpt>
+      <trkpt lat="50.3698348" lon="-122.6075783">
+      </trkpt>
+      <trkpt lat="50.3690958" lon="-122.6130286">
+      </trkpt>
+      <trkpt lat="50.3699033" lon="-122.6153246">
+      </trkpt>
+      <trkpt lat="50.3727089" lon="-122.6166979">
+      </trkpt>
+      <trkpt lat="50.3725446" lon="-122.6182857">
+      </trkpt>
+      <trkpt lat="50.3731468" lon="-122.621719">
+      </trkpt>
+      <trkpt lat="50.3729963" lon="-122.6231566">
+      </trkpt>
+      <trkpt lat="50.3732289" lon="-122.6244226">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

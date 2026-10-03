@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near The Knuckles</name>
+    <trkseg>
+      <trkpt lat="49.9313324" lon="-124.1671988">
+      </trkpt>
+      <trkpt lat="49.9357401" lon="-124.1638863">
+      </trkpt>
+      <trkpt lat="49.936113" lon="-124.1636074">
+      </trkpt>
+      <trkpt lat="49.9365066" lon="-124.1633606">
+      </trkpt>
+      <trkpt lat="49.9368726" lon="-124.1632319">
+      </trkpt>
+      <trkpt lat="49.9370452" lon="-124.1630387">
+      </trkpt>
+      <trkpt lat="49.9373145" lon="-124.1626096">
+      </trkpt>
+      <trkpt lat="49.9376046" lon="-124.1624272">
+      </trkpt>
+      <trkpt lat="49.937867" lon="-124.1624057">
+      </trkpt>
+      <trkpt lat="49.9382813" lon="-124.1626096">
+      </trkpt>
+      <trkpt lat="49.9386196" lon="-124.1629529">
+      </trkpt>
+      <trkpt lat="49.9388475" lon="-124.163661">
+      </trkpt>
+      <trkpt lat="49.9391375" lon="-124.1642833">
+      </trkpt>
+      <trkpt lat="49.9393447" lon="-124.1643369">
+      </trkpt>
+      <trkpt lat="49.940263" lon="-124.1641545">
+      </trkpt>
+      <trkpt lat="49.9404791" lon="-124.164046">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

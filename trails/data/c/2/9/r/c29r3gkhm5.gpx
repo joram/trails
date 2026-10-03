@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Viewpoint Trail</name>
+    <trkseg>
+      <trkpt lat="49.1051865" lon="-121.909755">
+      </trkpt>
+      <trkpt lat="49.1053536" lon="-121.9097407">
+      </trkpt>
+      <trkpt lat="49.105474" lon="-121.9096562">
+      </trkpt>
+      <trkpt lat="49.1055103" lon="-121.9096269">
+      </trkpt>
+      <trkpt lat="49.1056019" lon="-121.9095531">
+      </trkpt>
+      <trkpt lat="49.1057048" lon="-121.9094048">
+      </trkpt>
+      <trkpt lat="49.1057606" lon="-121.9092686">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

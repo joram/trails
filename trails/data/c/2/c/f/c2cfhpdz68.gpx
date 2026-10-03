@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Zopkios Bowl</name>
+    <trkseg>
+      <trkpt lat="49.6097847" lon="-121.1193461">
+      </trkpt>
+      <trkpt lat="49.6094371" lon="-121.1186809">
+      </trkpt>
+      <trkpt lat="49.6101045" lon="-121.1176724">
+      </trkpt>
+      <trkpt lat="49.6117591" lon="-121.1155696">
+      </trkpt>
+      <trkpt lat="49.612357" lon="-121.1137457">
+      </trkpt>
+      <trkpt lat="49.612204" lon="-121.1114497">
+      </trkpt>
+      <trkpt lat="49.6129131" lon="-121.1061926">
+      </trkpt>
+      <trkpt lat="49.615652" lon="-121.0998196">
+      </trkpt>
+      <trkpt lat="49.6165418" lon="-121.0973949">
+      </trkpt>
+      <trkpt lat="49.6168164" lon="-121.0940665">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

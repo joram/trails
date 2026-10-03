@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ross Peak</name>
+    <trkseg>
+      <trkpt lat="51.2577675" lon="-117.5393555">
+      </trkpt>
+      <trkpt lat="51.2574438" lon="-117.5401382">
+      </trkpt>
+      <trkpt lat="51.2561748" lon="-117.5428312">
+      </trkpt>
+      <trkpt lat="51.2548822" lon="-117.5460069">
+      </trkpt>
+      <trkpt lat="51.2543316" lon="-117.547981">
+      </trkpt>
+      <trkpt lat="51.2533647" lon="-117.5500409">
+      </trkpt>
+      <trkpt lat="51.2531095" lon="-117.5510226">
+      </trkpt>
+      <trkpt lat="51.2526126" lon="-117.5517683">
+      </trkpt>
+      <trkpt lat="51.2513233" lon="-117.5530665">
+      </trkpt>
+      <trkpt lat="51.2500474" lon="-117.5542252">
+      </trkpt>
+      <trkpt lat="51.2493892" lon="-117.5551264">
+      </trkpt>
+      <trkpt lat="51.2488117" lon="-117.5561886">
+      </trkpt>
+      <trkpt lat="51.248167" lon="-117.5571434">
+      </trkpt>
+      <trkpt lat="51.2476835" lon="-117.557594">
+      </trkpt>
+      <trkpt lat="51.2473813" lon="-117.5577228">
+      </trkpt>
+      <trkpt lat="51.2470152" lon="-117.5577657">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

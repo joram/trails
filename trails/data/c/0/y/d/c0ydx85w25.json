@@ -1,0 +1,22 @@
+{
+    "center_geohash": "c0ydx85w25bf",
+    "center_lat": 49.6592966,
+    "center_lng": -125.5249776,
+    "description": "",
+    "directions": "",
+    "geohash": "c0yd",
+    "nearest_peak_geohash": "c0yf2x7wuwtq",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/5476038",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Operator": "BCParks",
+        "Source": "OpenStreetMap",
+        "Total Distance": "1.3 km",
+        "Website": "https://www.env.gov.bc.ca/bcparks"
+    },
+    "title": "Karst Creek Trail",
+    "trail_id": "osm-r5476038"
+}

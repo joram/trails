@@ -1,0 +1,20 @@
+{
+    "center_geohash": "c2djkssrqpvd",
+    "center_lat": 48.7613573,
+    "center_lng": -120.7336445,
+    "description": "From Hwy 20 to Hwy 3.",
+    "directions": "",
+    "geohash": "c2dj",
+    "nearest_peak_geohash": null,
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/1322978",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "nwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "111.0 km"
+    },
+    "title": "PCT - Washington Section L",
+    "trail_id": "osm-r1322978"
+}

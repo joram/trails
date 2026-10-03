@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Hillton Trail</name>
+    <trkseg>
+      <trkpt lat="49.9138598" lon="-124.1723336">
+      </trkpt>
+      <trkpt lat="49.9139111" lon="-124.1722576">
+      </trkpt>
+      <trkpt lat="49.9139041" lon="-124.1721247">
+      </trkpt>
+      <trkpt lat="49.9137607" lon="-124.1718346">
+      </trkpt>
+      <trkpt lat="49.913592" lon="-124.1708871">
+      </trkpt>
+      <trkpt lat="49.9135941" lon="-124.1707243">
+      </trkpt>
+      <trkpt lat="49.9136702" lon="-124.1704179">
+      </trkpt>
+      <trkpt lat="49.9137789" lon="-124.170347">
+      </trkpt>
+      <trkpt lat="49.9140763" lon="-124.1704165">
+      </trkpt>
+      <trkpt lat="49.9142312" lon="-124.170536">
+      </trkpt>
+      <trkpt lat="49.914476" lon="-124.1706076">
+      </trkpt>
+      <trkpt lat="49.9149645" lon="-124.1709653">
+      </trkpt>
+      <trkpt lat="49.9151271" lon="-124.1709736">
+      </trkpt>
+      <trkpt lat="49.9152342" lon="-124.1708066">
+      </trkpt>
+      <trkpt lat="49.9152749" lon="-124.1704269">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.9152749" lon="-124.1704269">
+      </trkpt>
+      <trkpt lat="49.915184" lon="-124.1703721">
+      </trkpt>
+      <trkpt lat="49.9148578" lon="-124.1700079">
+      </trkpt>
+      <trkpt lat="49.9146631" lon="-124.1695053">
+      </trkpt>
+      <trkpt lat="49.9146132" lon="-124.1685234">
+      </trkpt>
+      <trkpt lat="49.9146684" lon="-124.168107">
+      </trkpt>
+      <trkpt lat="49.9148566" lon="-124.1676482">
+      </trkpt>
+      <trkpt lat="49.9152298" lon="-124.167108">
+      </trkpt>
+      <trkpt lat="49.9153244" lon="-124.1670524">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Fissile Peak NW Face</name>
+    <trkseg>
+      <trkpt lat="50.0197502" lon="-122.8499302">
+      </trkpt>
+      <trkpt lat="50.0222339" lon="-122.8512872">
+      </trkpt>
+      <trkpt lat="50.0242716" lon="-122.8503925">
+      </trkpt>
+      <trkpt lat="50.0245022" lon="-122.8499166">
+      </trkpt>
+      <trkpt lat="50.0246702" lon="-122.8485291">
+      </trkpt>
+      <trkpt lat="50.0261722" lon="-122.8483574">
+      </trkpt>
+      <trkpt lat="50.0281127" lon="-122.8490265">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

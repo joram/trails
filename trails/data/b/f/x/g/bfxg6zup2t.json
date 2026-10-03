@@ -1,0 +1,23 @@
+{
+    "center_geohash": "bfxg6zup2tnc",
+    "center_lat": 59.6776327,
+    "center_lng": -135.2251891,
+    "description": "",
+    "directions": "",
+    "geohash": "bfxg",
+    "nearest_peak_geohash": null,
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/1225005",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "iwn",
+        "Operator": "US National Park Service, Parks Canada",
+        "Source": "OpenStreetMap",
+        "Total Distance": "50.1 km",
+        "Website": "https://www.nps.gov/klgo/planyourvisit/chilkoottrail.htm",
+        "Wikipedia": "en:Chilkoot Trail"
+    },
+    "title": "Chilkoot Trail",
+    "trail_id": "osm-r1225005"
+}

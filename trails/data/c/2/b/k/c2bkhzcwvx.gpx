@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>C200/C240</name>
+    <trkseg>
+      <trkpt lat="49.9645254" lon="-123.1871715">
+      </trkpt>
+      <trkpt lat="49.9647627" lon="-123.1871114">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.9647627" lon="-123.1871114">
+      </trkpt>
+      <trkpt lat="49.9650042" lon="-123.1871758">
+      </trkpt>
+      <trkpt lat="49.9654321" lon="-123.1872187">
+      </trkpt>
+      <trkpt lat="49.9657634" lon="-123.1874226">
+      </trkpt>
+      <trkpt lat="49.966212" lon="-123.1876908">
+      </trkpt>
+      <trkpt lat="49.9665018" lon="-123.1878088">
+      </trkpt>
+      <trkpt lat="49.9669711" lon="-123.1877873">
+      </trkpt>
+      <trkpt lat="49.9672333" lon="-123.1877122">
+      </trkpt>
+      <trkpt lat="49.9674956" lon="-123.1876264">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.9642175" lon="-123.1871973">
+      </trkpt>
+      <trkpt lat="49.9645254" lon="-123.1871715">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

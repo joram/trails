@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Outhouse Trail</name>
+    <trkseg>
+      <trkpt lat="49.8972707" lon="-124.1777375">
+      </trkpt>
+      <trkpt lat="49.8972568" lon="-124.1775886">
+      </trkpt>
+      <trkpt lat="49.897226" lon="-124.1774567">
+      </trkpt>
+      <trkpt lat="49.8972204" lon="-124.1771243">
+      </trkpt>
+      <trkpt lat="49.8972771" lon="-124.1766564">
+      </trkpt>
+      <trkpt lat="49.8972765" lon="-124.1757583">
+      </trkpt>
+      <trkpt lat="49.897315" lon="-124.1754907">
+      </trkpt>
+      <trkpt lat="49.8976963" lon="-124.1751539">
+      </trkpt>
+      <trkpt lat="49.8980948" lon="-124.1745615">
+      </trkpt>
+      <trkpt lat="49.8985944" lon="-124.1740204">
+      </trkpt>
+      <trkpt lat="49.8986794" lon="-124.1738623">
+      </trkpt>
+      <trkpt lat="49.8987202" lon="-124.1736609">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.896111" lon="-124.1844528">
+      </trkpt>
+      <trkpt lat="49.8961792" lon="-124.1843061">
+      </trkpt>
+      <trkpt lat="49.8962273" lon="-124.1841822">
+      </trkpt>
+      <trkpt lat="49.8962766" lon="-124.1837035">
+      </trkpt>
+      <trkpt lat="49.8964349" lon="-124.1833092">
+      </trkpt>
+      <trkpt lat="49.8964954" lon="-124.1830739">
+      </trkpt>
+      <trkpt lat="49.8966102" lon="-124.1822156">
+      </trkpt>
+      <trkpt lat="49.8966926" lon="-124.1820017">
+      </trkpt>
+      <trkpt lat="49.8967374" lon="-124.1816784">
+      </trkpt>
+      <trkpt lat="49.8967445" lon="-124.1812457">
+      </trkpt>
+      <trkpt lat="49.8966349" lon="-124.1806846">
+      </trkpt>
+      <trkpt lat="49.8966774" lon="-124.1797959">
+      </trkpt>
+      <trkpt lat="49.8968613" lon="-124.1792231">
+      </trkpt>
+      <trkpt lat="49.8968646" lon="-124.1789901">
+      </trkpt>
+      <trkpt lat="49.8970228" lon="-124.1785958">
+      </trkpt>
+      <trkpt lat="49.8970397" lon="-124.1783179">
+      </trkpt>
+      <trkpt lat="49.8972707" lon="-124.1777375">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

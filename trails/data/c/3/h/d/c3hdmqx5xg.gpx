@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Silent Mountain</name>
+    <trkseg>
+      <trkpt lat="51.0622057" lon="-117.1680656">
+      </trkpt>
+      <trkpt lat="51.0622912" lon="-117.1685323">
+      </trkpt>
+      <trkpt lat="51.0623789" lon="-117.1690714">
+      </trkpt>
+      <trkpt lat="51.0624058" lon="-117.1693638">
+      </trkpt>
+      <trkpt lat="51.0623755" lon="-117.1696776">
+      </trkpt>
+      <trkpt lat="51.0622693" lon="-117.1699834">
+      </trkpt>
+      <trkpt lat="51.0617821" lon="-117.171067">
+      </trkpt>
+      <trkpt lat="51.0542227" lon="-117.1859265">
+      </trkpt>
+      <trkpt lat="51.0529549" lon="-117.1888876">
+      </trkpt>
+      <trkpt lat="51.0510799" lon="-117.1932435">
+      </trkpt>
+      <trkpt lat="51.0506213" lon="-117.1946383">
+      </trkpt>
+      <trkpt lat="51.0504594" lon="-117.1954322">
+      </trkpt>
+      <trkpt lat="51.050338" lon="-117.1962691">
+      </trkpt>
+      <trkpt lat="51.0502706" lon="-117.1968055">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

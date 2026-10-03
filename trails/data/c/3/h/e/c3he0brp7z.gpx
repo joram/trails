@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Alternate Descent Option</name>
+    <trkseg>
+      <trkpt lat="51.148125" lon="-117.3713208">
+      </trkpt>
+      <trkpt lat="51.1493903" lon="-117.372222">
+      </trkpt>
+      <trkpt lat="51.1509382" lon="-117.3751831">
+      </trkpt>
+      <trkpt lat="51.1531724" lon="-117.3807836">
+      </trkpt>
+      <trkpt lat="51.1535358" lon="-117.3815131">
+      </trkpt>
+      <trkpt lat="51.1538454" lon="-117.382114">
+      </trkpt>
+      <trkpt lat="51.1540876" lon="-117.38235">
+      </trkpt>
+      <trkpt lat="51.1543299" lon="-117.3823929">
+      </trkpt>
+      <trkpt lat="51.1546664" lon="-117.3822212">
+      </trkpt>
+      <trkpt lat="51.1552451" lon="-117.3815775">
+      </trkpt>
+      <trkpt lat="51.1564025" lon="-117.3804403">
+      </trkpt>
+      <trkpt lat="51.1580713" lon="-117.3793245">
+      </trkpt>
+      <trkpt lat="51.1597938" lon="-117.3786164">
+      </trkpt>
+      <trkpt lat="51.1611934" lon="-117.3784876">
+      </trkpt>
+      <trkpt lat="51.1622295" lon="-117.3785305">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

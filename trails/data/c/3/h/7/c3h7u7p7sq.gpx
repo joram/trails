@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Video Uptrack</name>
+    <trkseg>
+      <trkpt lat="51.2964103" lon="-117.5662691">
+      </trkpt>
+      <trkpt lat="51.296792" lon="-117.5669879">
+      </trkpt>
+      <trkpt lat="51.2973931" lon="-117.5681198">
+      </trkpt>
+      <trkpt lat="51.2986777" lon="-117.5708556">
+      </trkpt>
+      <trkpt lat="51.3008378" lon="-117.5741387">
+      </trkpt>
+      <trkpt lat="51.3030648" lon="-117.57725">
+      </trkpt>
+      <trkpt lat="51.3039502" lon="-117.5792241">
+      </trkpt>
+      <trkpt lat="51.3043258" lon="-117.5806833">
+      </trkpt>
+      <trkpt lat="51.304299" lon="-117.5819493">
+      </trkpt>
+      <trkpt lat="51.3039099" lon="-117.5830436">
+      </trkpt>
+      <trkpt lat="51.3033867" lon="-117.5842452">
+      </trkpt>
+      <trkpt lat="51.3024611" lon="-117.5855112">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

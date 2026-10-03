@@ -1,0 +1,21 @@
+{
+    "center_geohash": "c2b2fuu7y2v3",
+    "center_lat": 49.3773265,
+    "center_lng": -123.2714759,
+    "description": "From Nanaimo to West Vancouver.",
+    "directions": "",
+    "geohash": "c2b2",
+    "nearest_peak_geohash": "c2b2upftzgcj",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/14075986",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "nwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "1.4 km",
+        "Website": "https://www.bcferries.com/routes-fares/schedules/daily/HSB-NAN"
+    },
+    "title": "The Great Trail - West Vancouver to Nanaimo Ferry",
+    "trail_id": "osm-r14075986"
+}

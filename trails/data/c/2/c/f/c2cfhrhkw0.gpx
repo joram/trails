@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Nak North Bowl</name>
+    <trkseg>
+      <trkpt lat="49.606948" lon="-121.095827">
+      </trkpt>
+      <trkpt lat="49.6074017" lon="-121.0958774">
+      </trkpt>
+      <trkpt lat="49.6081345" lon="-121.0959774">
+      </trkpt>
+      <trkpt lat="49.6090977" lon="-121.096997">
+      </trkpt>
+      <trkpt lat="49.6103352" lon="-121.0968682">
+      </trkpt>
+      <trkpt lat="49.6115726" lon="-121.096482">
+      </trkpt>
+      <trkpt lat="49.6132732" lon="-121.0953573">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

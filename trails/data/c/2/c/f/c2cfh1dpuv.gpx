@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Markhor East Bowl</name>
+    <trkseg>
+      <trkpt lat="49.5806447" lon="-121.1138268">
+      </trkpt>
+      <trkpt lat="49.5802057" lon="-121.1126697">
+      </trkpt>
+      <trkpt lat="49.5798508" lon="-121.1104611">
+      </trkpt>
+      <trkpt lat="49.579854" lon="-121.1090735">
+      </trkpt>
+      <trkpt lat="49.5790157" lon="-121.1055848">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

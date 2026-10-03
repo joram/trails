@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Long Lake</name>
+    <trkseg>
+      <trkpt lat="54.94871951" lon="-120.19710235">
+      </trkpt>
+      <trkpt lat="54.94872261" lon="-120.19710345">
+      </trkpt>
+      <trkpt lat="54.94881758" lon="-120.19711384">
+      </trkpt>
+      <trkpt lat="54.94898798" lon="-120.1972094">
+      </trkpt>
+      <trkpt lat="54.94904154" lon="-120.19718172">
+      </trkpt>
+      <trkpt lat="54.94908253" lon="-120.197171">
+      </trkpt>
+      <trkpt lat="54.94922426" lon="-120.19727645">
+      </trkpt>
+      <trkpt lat="54.94929299" lon="-120.19732657">
+      </trkpt>
+      <trkpt lat="54.94942292" lon="-120.19749321">
+      </trkpt>
+      <trkpt lat="54.94952233" lon="-120.19758314">
+      </trkpt>
+      <trkpt lat="54.94962115" lon="-120.19754231">
+      </trkpt>
+      <trkpt lat="54.94978661" lon="-120.19752623">
+      </trkpt>
+      <trkpt lat="54.94990932" lon="-120.19748012">
+      </trkpt>
+      <trkpt lat="54.95004594" lon="-120.19732364">
+      </trkpt>
+      <trkpt lat="54.95020805" lon="-120.19712742">
+      </trkpt>
+      <trkpt lat="54.95030344" lon="-120.19700127">
+      </trkpt>
+      <trkpt lat="54.95044048" lon="-120.19690631">
+      </trkpt>
+      <trkpt lat="54.9505673" lon="-120.19692609">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,21 @@
+{
+    "center_geohash": "c29r3gkhm547",
+    "center_lat": 49.1055131,
+    "center_lng": -121.9095722,
+    "description": "",
+    "directions": "",
+    "geohash": "c29r",
+    "nearest_peak_geohash": "c29r3g4h8b5m",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/7566942",
+    "stats": {
+        "Activities": "hike",
+        "Difficulty": "hiking",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Operator": "City of Chilliwack",
+        "Source": "OpenStreetMap",
+        "Total Distance": "0.1 km"
+    },
+    "title": "Viewpoint Trail",
+    "trail_id": "osm-r7566942"
+}

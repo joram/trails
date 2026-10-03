@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Skin track to Spearhead Glacier</name>
+    <trkseg>
+      <trkpt lat="50.0837431" lon="-122.8694108">
+      </trkpt>
+      <trkpt lat="50.0835049" lon="-122.8690044">
+      </trkpt>
+      <trkpt lat="50.0833376" lon="-122.8683633">
+      </trkpt>
+      <trkpt lat="50.0833273" lon="-122.8678644">
+      </trkpt>
+      <trkpt lat="50.0835401" lon="-122.8672903">
+      </trkpt>
+      <trkpt lat="50.083853" lon="-122.8666874">
+      </trkpt>
+      <trkpt lat="50.0839549" lon="-122.8661227">
+      </trkpt>
+      <trkpt lat="50.0840721" lon="-122.8657702">
+      </trkpt>
+      <trkpt lat="50.0844227" lon="-122.8655061">
+      </trkpt>
+      <trkpt lat="50.0847625" lon="-122.8651116">
+      </trkpt>
+      <trkpt lat="50.0849242" lon="-122.8638571">
+      </trkpt>
+      <trkpt lat="50.0851077" lon="-122.8633224">
+      </trkpt>
+      <trkpt lat="50.0851382" lon="-122.8625487">
+      </trkpt>
+      <trkpt lat="50.0850105" lon="-122.8619152">
+      </trkpt>
+      <trkpt lat="50.0850409" lon="-122.8612472">
+      </trkpt>
+      <trkpt lat="50.0851982" lon="-122.8610747">
+      </trkpt>
+      <trkpt lat="50.0854331" lon="-122.8610041">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

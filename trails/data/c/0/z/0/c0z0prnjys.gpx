@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Somass Estuary Trail</name>
+    <trkseg>
+      <trkpt lat="49.2547703" lon="-124.8283922">
+      </trkpt>
+      <trkpt lat="49.2548208" lon="-124.8284009">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2548208" lon="-124.8284009">
+      </trkpt>
+      <trkpt lat="49.2548385" lon="-124.8283895">
+      </trkpt>
+      <trkpt lat="49.2548385" lon="-124.8283734">
+      </trkpt>
+      <trkpt lat="49.2548381" lon="-124.8283379">
+      </trkpt>
+      <trkpt lat="49.25483" lon="-124.8283047">
+      </trkpt>
+      <trkpt lat="49.2548564" lon="-124.8282872">
+      </trkpt>
+      <trkpt lat="49.2548684" lon="-124.8283278">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2548684" lon="-124.8283278">
+      </trkpt>
+      <trkpt lat="49.2551571" lon="-124.8279772">
+      </trkpt>
+      <trkpt lat="49.2557283" lon="-124.8272712">
+      </trkpt>
+      <trkpt lat="49.2571659" lon="-124.82568">
+      </trkpt>
+      <trkpt lat="49.2584434" lon="-124.8244826">
+      </trkpt>
+      <trkpt lat="49.2586475" lon="-124.8243049">
+      </trkpt>
+      <trkpt lat="49.2590471" lon="-124.8239618">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2590471" lon="-124.8239618">
+      </trkpt>
+      <trkpt lat="49.25914" lon="-124.8242603">
+      </trkpt>
+      <trkpt lat="49.2593136" lon="-124.8252508">
+      </trkpt>
+      <trkpt lat="49.2593032" lon="-124.8258293">
+      </trkpt>
+      <trkpt lat="49.2591851" lon="-124.8264172">
+      </trkpt>
+      <trkpt lat="49.2594256" lon="-124.8273152">
+      </trkpt>
+      <trkpt lat="49.2595281" lon="-124.8280814">
+      </trkpt>
+      <trkpt lat="49.2598294" lon="-124.8296545">
+      </trkpt>
+      <trkpt lat="49.2598114" lon="-124.8300194">
+      </trkpt>
+      <trkpt lat="49.2598729" lon="-124.8303074">
+      </trkpt>
+      <trkpt lat="49.2603348" lon="-124.8312394">
+      </trkpt>
+      <trkpt lat="49.2604914" lon="-124.8316979">
+      </trkpt>
+      <trkpt lat="49.2606361" lon="-124.8324667">
+      </trkpt>
+      <trkpt lat="49.2608462" lon="-124.8332565">
+      </trkpt>
+      <trkpt lat="49.2616221" lon="-124.835813">
+      </trkpt>
+      <trkpt lat="49.2622225" lon="-124.8374302">
+      </trkpt>
+      <trkpt lat="49.2628816" lon="-124.8396034">
+      </trkpt>
+      <trkpt lat="49.2631573" lon="-124.8403001">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

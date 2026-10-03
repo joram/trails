@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Spring Creek Traverse</name>
+    <trkseg>
+      <trkpt lat="49.7585359" lon="-116.232841">
+      </trkpt>
+      <trkpt lat="49.7594231" lon="-116.2333989">
+      </trkpt>
+      <trkpt lat="49.7597558" lon="-116.2336993">
+      </trkpt>
+      <trkpt lat="49.7599914" lon="-116.2340427">
+      </trkpt>
+      <trkpt lat="49.7601993" lon="-116.2341929">
+      </trkpt>
+      <trkpt lat="49.7611419" lon="-116.2342787">
+      </trkpt>
+      <trkpt lat="49.7615161" lon="-116.2340212">
+      </trkpt>
+      <trkpt lat="49.7619735" lon="-116.2339568">
+      </trkpt>
+      <trkpt lat="49.7625973" lon="-116.2337852">
+      </trkpt>
+      <trkpt lat="49.7630824" lon="-116.2335491">
+      </trkpt>
+      <trkpt lat="49.7634982" lon="-116.2331414">
+      </trkpt>
+      <trkpt lat="49.7637754" lon="-116.2323475">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

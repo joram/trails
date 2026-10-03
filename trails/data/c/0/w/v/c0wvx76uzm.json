@@ -1,0 +1,20 @@
+{
+    "center_geohash": "c0wvx76uzmn2",
+    "center_lat": 48.797992,
+    "center_lng": -125.1851128,
+    "description": "From Cape Beale Trailhead to Cape Beale Lighthouse.",
+    "directions": "",
+    "geohash": "c0wv",
+    "nearest_peak_geohash": null,
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/13415622",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "6.9 km"
+    },
+    "title": "Cape Beale Lighthouse Trail",
+    "trail_id": "osm-r13415622"
+}

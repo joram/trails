@@ -1,0 +1,22 @@
+{
+    "center_geohash": "c29r3ejzg2dx",
+    "center_lat": 49.1047278,
+    "center_lng": -121.9182302,
+    "description": "",
+    "directions": "",
+    "geohash": "c29r",
+    "nearest_peak_geohash": "c29r3g4h8b5m",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/7566943",
+    "stats": {
+        "Activities": "hike",
+        "Difficulty": "mountain_hiking",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Operator": "City of Chilliwack",
+        "Source": "OpenStreetMap",
+        "Total Distance": "3.2 km",
+        "Website": "https://www.chilliwack.com/main/page.cfm?id=1754&dowhat=locationView&plID=131"
+    },
+    "title": "Thom Creek Trail",
+    "trail_id": "osm-r7566943"
+}

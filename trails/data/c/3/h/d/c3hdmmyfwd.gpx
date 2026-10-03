@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Silent Pass Trail</name>
+    <trkseg>
+      <trkpt lat="51.04607185" lon="-117.18469662">
+      </trkpt>
+      <trkpt lat="51.04698016" lon="-117.18443844">
+      </trkpt>
+      <trkpt lat="51.04739284" lon="-117.18443997">
+      </trkpt>
+      <trkpt lat="51.04809349" lon="-117.18503195">
+      </trkpt>
+      <trkpt lat="51.04891717" lon="-117.1860828">
+      </trkpt>
+      <trkpt lat="51.04957638" lon="-117.18674021">
+      </trkpt>
+      <trkpt lat="51.05035986" lon="-117.18713624">
+      </trkpt>
+      <trkpt lat="51.05085544" lon="-117.1869418">
+      </trkpt>
+      <trkpt lat="51.05114476" lon="-117.18661562">
+      </trkpt>
+      <trkpt lat="51.05127048" lon="-117.18543759">
+      </trkpt>
+      <trkpt lat="51.05185112" lon="-117.18360659">
+      </trkpt>
+      <trkpt lat="51.05222434" lon="-117.18242947">
+      </trkpt>
+      <trkpt lat="51.05258993" lon="-117.18198068">
+      </trkpt>
+      <trkpt lat="51.0525965" lon="-117.18197259">
+      </trkpt>
+      <trkpt lat="51.05329823" lon="-117.18184434">
+      </trkpt>
+      <trkpt lat="51.05453577" lon="-117.18217664">
+      </trkpt>
+      <trkpt lat="51.05552648" lon="-117.1820496">
+      </trkpt>
+      <trkpt lat="51.05664189" lon="-117.18126822">
+      </trkpt>
+      <trkpt lat="51.05680749" lon="-117.18094142">
+      </trkpt>
+      <trkpt lat="51.05735077" lon="-117.17649069">
+      </trkpt>
+      <trkpt lat="51.05793134" lon="-117.1745938">
+      </trkpt>
+      <trkpt lat="51.06004298" lon="-117.16988673">
+      </trkpt>
+      <trkpt lat="51.06087048" lon="-117.16838359">
+      </trkpt>
+      <trkpt lat="51.06115493" lon="-117.1679717">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.05258993" lon="-117.18198068">
+      </trkpt>
+      <trkpt lat="51.05237986" lon="-117.18197991">
+      </trkpt>
+      <trkpt lat="51.0520497" lon="-117.18197855">
+      </trkpt>
+      <trkpt lat="51.05147155" lon="-117.18223824">
+      </trkpt>
+      <trkpt lat="51.05109997" lon="-117.18236772">
+      </trkpt>
+      <trkpt lat="51.05056353" lon="-117.18230016">
+      </trkpt>
+      <trkpt lat="51.04911912" lon="-117.18235993">
+      </trkpt>
+      <trkpt lat="51.04771496" lon="-117.1830091">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

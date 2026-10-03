@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Island Lake Trail</name>
+    <trkseg>
+      <trkpt lat="54.95017243" lon="-125.05235978">
+      </trkpt>
+      <trkpt lat="54.95028106" lon="-125.05232907">
+      </trkpt>
+      <trkpt lat="54.95035761" lon="-125.05232024">
+      </trkpt>
+      <trkpt lat="54.95044631" lon="-125.05231816">
+      </trkpt>
+      <trkpt lat="54.95055155" lon="-125.05237206">
+      </trkpt>
+      <trkpt lat="54.95060827" lon="-125.05240595">
+      </trkpt>
+      <trkpt lat="54.95068132" lon="-125.05246763">
+      </trkpt>
+      <trkpt lat="54.95068949" lon="-125.05248154">
+      </trkpt>
+      <trkpt lat="54.95080727" lon="-125.05259147">
+      </trkpt>
+      <trkpt lat="54.95096563" lon="-125.05273571">
+      </trkpt>
+      <trkpt lat="54.95106292" lon="-125.05280386">
+      </trkpt>
+      <trkpt lat="54.95114426" lon="-125.05289354">
+      </trkpt>
+      <trkpt lat="54.95122607" lon="-125.05304659">
+      </trkpt>
+      <trkpt lat="54.95130703" lon="-125.05308697">
+      </trkpt>
+      <trkpt lat="54.95134347" lon="-125.05310725">
+      </trkpt>
+      <trkpt lat="54.95144475" lon="-125.05316827">
+      </trkpt>
+      <trkpt lat="54.95152156" lon="-125.05319465">
+      </trkpt>
+      <trkpt lat="54.95156994" lon="-125.05319352">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

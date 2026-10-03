@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Crystal Cave Route</name>
+    <trkseg>
+      <trkpt lat="51.3533169" lon="-116.3300536">
+      </trkpt>
+      <trkpt lat="51.3531519" lon="-116.3298515">
+      </trkpt>
+      <trkpt lat="51.3530327" lon="-116.3296838">
+      </trkpt>
+      <trkpt lat="51.3529352" lon="-116.3295566">
+      </trkpt>
+      <trkpt lat="51.3529099" lon="-116.3293252">
+      </trkpt>
+      <trkpt lat="51.3528882" lon="-116.3290766">
+      </trkpt>
+      <trkpt lat="51.3528016" lon="-116.3288163">
+      </trkpt>
+      <trkpt lat="51.3527077" lon="-116.3286602">
+      </trkpt>
+      <trkpt lat="51.3525668" lon="-116.3285214">
+      </trkpt>
+      <trkpt lat="51.3524693" lon="-116.3284231">
+      </trkpt>
+      <trkpt lat="51.3523609" lon="-116.3282669">
+      </trkpt>
+      <trkpt lat="51.3522201" lon="-116.328238">
+      </trkpt>
+      <trkpt lat="51.3521695" lon="-116.3280356">
+      </trkpt>
+      <trkpt lat="51.3520575" lon="-116.3280067">
+      </trkpt>
+      <trkpt lat="51.3519203" lon="-116.327943">
+      </trkpt>
+      <trkpt lat="51.3517325" lon="-116.3278852">
+      </trkpt>
+      <trkpt lat="51.3515916" lon="-116.3278274">
+      </trkpt>
+      <trkpt lat="51.3514652" lon="-116.3276481">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.3517325" lon="-116.3278852">
+      </trkpt>
+      <trkpt lat="51.3515844" lon="-116.3282091">
+      </trkpt>
+      <trkpt lat="51.3514833" lon="-116.3283826">
+      </trkpt>
+      <trkpt lat="51.3513785" lon="-116.3285156">
+      </trkpt>
+      <trkpt lat="51.3512954" lon="-116.3286717">
+      </trkpt>
+      <trkpt lat="51.3511943" lon="-116.3287122">
+      </trkpt>
+      <trkpt lat="51.3510282" lon="-116.3286312">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

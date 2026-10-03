@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Lizzie Lake Forest Service Road</name>
+    <trkseg>
+      <trkpt lat="50.1953794" lon="-122.4546913">
+      </trkpt>
+      <trkpt lat="50.1952868" lon="-122.4544139">
+      </trkpt>
+      <trkpt lat="50.1948626" lon="-122.4535101">
+      </trkpt>
+      <trkpt lat="50.1939361" lon="-122.4509319">
+      </trkpt>
+      <trkpt lat="50.1937392" lon="-122.4504185">
+      </trkpt>
+      <trkpt lat="50.1935513" lon="-122.4499908">
+      </trkpt>
+      <trkpt lat="50.1933441" lon="-122.4494884">
+      </trkpt>
+      <trkpt lat="50.1930207" lon="-122.4487112">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,20 @@
+{
+    "center_geohash": "c0z21rde6cmn",
+    "center_lat": 49.2605145,
+    "center_lng": -124.7461976,
+    "description": "",
+    "directions": "",
+    "geohash": "c0z2",
+    "nearest_peak_geohash": "c0z26zwn2ypm",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/6622181",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "1.0 km"
+    },
+    "title": "Pipeline Trail",
+    "trail_id": "osm-r6622181"
+}

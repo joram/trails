@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Virus Trail</name>
+    <trkseg>
+      <trkpt lat="49.9296086" lon="-124.1728066">
+      </trkpt>
+      <trkpt lat="49.9295316" lon="-124.1721046">
+      </trkpt>
+      <trkpt lat="49.9297112" lon="-124.1718257">
+      </trkpt>
+      <trkpt lat="49.9301048" lon="-124.1716433">
+      </trkpt>
+      <trkpt lat="49.9305399" lon="-124.1715574">
+      </trkpt>
+      <trkpt lat="49.9307126" lon="-124.1713429">
+      </trkpt>
+      <trkpt lat="49.9308714" lon="-124.1708064">
+      </trkpt>
+      <trkpt lat="49.9308024" lon="-124.170152">
+      </trkpt>
+      <trkpt lat="49.9308093" lon="-124.1696262">
+      </trkpt>
+      <trkpt lat="49.9309336" lon="-124.1684032">
+      </trkpt>
+      <trkpt lat="49.9310855" lon="-124.1675449">
+      </trkpt>
+      <trkpt lat="49.9312375" lon="-124.1672874">
+      </trkpt>
+      <trkpt lat="49.9313324" lon="-124.1671988">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

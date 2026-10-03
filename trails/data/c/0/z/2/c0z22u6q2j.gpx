@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Power Line Trail</name>
+    <trkseg>
+      <trkpt lat="49.2854467" lon="-124.771077">
+      </trkpt>
+      <trkpt lat="49.2854462" lon="-124.7707608">
+      </trkpt>
+      <trkpt lat="49.2855022" lon="-124.7701707">
+      </trkpt>
+      <trkpt lat="49.2857119" lon="-124.7696941">
+      </trkpt>
+      <trkpt lat="49.2860758" lon="-124.7693281">
+      </trkpt>
+      <trkpt lat="49.2862514" lon="-124.7692951">
+      </trkpt>
+      <trkpt lat="49.286607" lon="-124.7689001">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.286607" lon="-124.7689001">
+      </trkpt>
+      <trkpt lat="49.2868463" lon="-124.7687991">
+      </trkpt>
+      <trkpt lat="49.2871743" lon="-124.768604">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2871743" lon="-124.768604">
+      </trkpt>
+      <trkpt lat="49.2873636" lon="-124.7682436">
+      </trkpt>
+      <trkpt lat="49.2874798" lon="-124.7681357">
+      </trkpt>
+      <trkpt lat="49.2877641" lon="-124.7681066">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2877641" lon="-124.7681066">
+      </trkpt>
+      <trkpt lat="49.2879291" lon="-124.7679189">
+      </trkpt>
+      <trkpt lat="49.2882275" lon="-124.7676302">
+      </trkpt>
+      <trkpt lat="49.2883197" lon="-124.7676078">
+      </trkpt>
+      <trkpt lat="49.2885969" lon="-124.7672956">
+      </trkpt>
+      <trkpt lat="49.2887731" lon="-124.7671987">
+      </trkpt>
+      <trkpt lat="49.2889578" lon="-124.7670096">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

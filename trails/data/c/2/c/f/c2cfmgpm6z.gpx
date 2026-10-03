@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Coquihalla Lakes Ridge Ascent</name>
+    <trkseg>
+      <trkpt lat="49.6308562" lon="-121.0211699">
+      </trkpt>
+      <trkpt lat="49.6309779" lon="-121.0217857">
+      </trkpt>
+      <trkpt lat="49.6308667" lon="-121.0228157">
+      </trkpt>
+      <trkpt lat="49.6294629" lon="-121.0273861">
+      </trkpt>
+      <trkpt lat="49.6316033" lon="-121.0252619">
+      </trkpt>
+      <trkpt lat="49.6302413" lon="-121.0295749">
+      </trkpt>
+      <trkpt lat="49.6324372" lon="-121.0276222">
+      </trkpt>
+      <trkpt lat="49.6312837" lon="-121.033051">
+      </trkpt>
+      <trkpt lat="49.63341" lon="-121.0298967">
+      </trkpt>
+      <trkpt lat="49.6325206" lon="-121.0336733">
+      </trkpt>
+      <trkpt lat="49.6325623" lon="-121.0340273">
+      </trkpt>
+      <trkpt lat="49.6326179" lon="-121.0341561">
+      </trkpt>
+      <trkpt lat="49.6329236" lon="-121.0341239">
+      </trkpt>
+      <trkpt lat="49.6333753" lon="-121.0340488">
+      </trkpt>
+      <trkpt lat="49.6338478" lon="-121.0342956">
+      </trkpt>
+      <trkpt lat="49.6341258" lon="-121.0346282">
+      </trkpt>
+      <trkpt lat="49.6342091" lon="-121.0350788">
+      </trkpt>
+      <trkpt lat="49.6340702" lon="-121.0372031">
+      </trkpt>
+      <trkpt lat="49.6340076" lon="-121.0393918">
+      </trkpt>
+      <trkpt lat="49.6340701" lon="-121.0429645">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.6306973" lon="-121.0164756">
+      </trkpt>
+      <trkpt lat="49.6309089" lon="-121.0166647">
+      </trkpt>
+      <trkpt lat="49.6310417" lon="-121.0165622">
+      </trkpt>
+      <trkpt lat="49.6311397" lon="-121.0168551">
+      </trkpt>
+      <trkpt lat="49.631372" lon="-121.0168512">
+      </trkpt>
+      <trkpt lat="49.6314056" lon="-121.0169149">
+      </trkpt>
+      <trkpt lat="49.6314812" lon="-121.0171529">
+      </trkpt>
+      <trkpt lat="49.6315381" lon="-121.0179975">
+      </trkpt>
+      <trkpt lat="49.6317342" lon="-121.0180951">
+      </trkpt>
+      <trkpt lat="49.6317974" lon="-121.0187102">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.6275379" lon="-121.029532">
+      </trkpt>
+      <trkpt lat="49.6285956" lon="-121.0260058">
+      </trkpt>
+      <trkpt lat="49.6293532" lon="-121.0237503">
+      </trkpt>
+      <trkpt lat="49.6296778" lon="-121.0229427">
+      </trkpt>
+      <trkpt lat="49.6308562" lon="-121.0211699">
+      </trkpt>
+      <trkpt lat="49.6317974" lon="-121.0187102">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

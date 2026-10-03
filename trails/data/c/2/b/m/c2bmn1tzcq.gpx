@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Edna Mainline</name>
+    <trkseg>
+      <trkpt lat="50.1075385" lon="-123.1280848">
+      </trkpt>
+      <trkpt lat="50.1076455" lon="-123.1267982">
+      </trkpt>
+      <trkpt lat="50.1076428" lon="-123.1264494">
+      </trkpt>
+      <trkpt lat="50.1075855" lon="-123.1260963">
+      </trkpt>
+      <trkpt lat="50.1072963" lon="-123.1254412">
+      </trkpt>
+      <trkpt lat="50.1071681" lon="-123.1250626">
+      </trkpt>
+      <trkpt lat="50.1070235" lon="-123.1248414">
+      </trkpt>
+      <trkpt lat="50.1067561" lon="-123.1245819">
+      </trkpt>
+      <trkpt lat="50.1065406" lon="-123.124433">
+      </trkpt>
+      <trkpt lat="50.1063223" lon="-123.1242604">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="50.1075385" lon="-123.1280848">
+      </trkpt>
+      <trkpt lat="50.1074705" lon="-123.1282563">
+      </trkpt>
+      <trkpt lat="50.1073934" lon="-123.1286596">
+      </trkpt>
+      <trkpt lat="50.1073698" lon="-123.1289398">
+      </trkpt>
+      <trkpt lat="50.1073974" lon="-123.1292755">
+      </trkpt>
+      <trkpt lat="50.107516" lon="-123.1296196">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Keg Peak</name>
+    <trkseg>
+      <trkpt lat="50.0431943" lon="-123.2026817">
+      </trkpt>
+      <trkpt lat="50.042821" lon="-123.2045731">
+      </trkpt>
+      <trkpt lat="50.0428685" lon="-123.2062637">
+      </trkpt>
+      <trkpt lat="50.043819" lon="-123.2101561">
+      </trkpt>
+      <trkpt lat="50.0439624" lon="-123.2112856">
+      </trkpt>
+      <trkpt lat="50.0442252" lon="-123.2124531">
+      </trkpt>
+      <trkpt lat="50.0444442" lon="-123.2134462">
+      </trkpt>
+      <trkpt lat="50.044735" lon="-123.2141215">
+      </trkpt>
+      <trkpt lat="50.0452322" lon="-123.2147754">
+      </trkpt>
+      <trkpt lat="50.0459658" lon="-123.2156599">
+      </trkpt>
+      <trkpt lat="50.0458911" lon="-123.2137625">
+      </trkpt>
+      <trkpt lat="50.0463032" lon="-123.2145675">
+      </trkpt>
+      <trkpt lat="50.0466036" lon="-123.213632">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

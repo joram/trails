@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Mount Steele</name>
+    <trkseg>
+      <trkpt lat="49.5924767" lon="-123.6407511">
+      </trkpt>
+      <trkpt lat="49.5927794" lon="-123.6380899">
+      </trkpt>
+      <trkpt lat="49.5935902" lon="-123.6328838">
+      </trkpt>
+      <trkpt lat="49.5942497" lon="-123.6290134">
+      </trkpt>
+      <trkpt lat="49.593708" lon="-123.6274367">
+      </trkpt>
+      <trkpt lat="49.5939986" lon="-123.6267175">
+      </trkpt>
+      <trkpt lat="49.5933505" lon="-123.6259459">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

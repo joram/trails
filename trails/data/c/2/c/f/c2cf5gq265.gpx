@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Needle Peak</name>
+    <trkseg>
+      <trkpt lat="49.5855049" lon="-121.114429">
+      </trkpt>
+      <trkpt lat="49.5869619" lon="-121.1146398">
+      </trkpt>
+      <trkpt lat="49.5880924" lon="-121.1146545">
+      </trkpt>
+      <trkpt lat="49.5889537" lon="-121.1151053">
+      </trkpt>
+      <trkpt lat="49.5892293" lon="-121.1154451">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.5855049" lon="-121.114429">
+      </trkpt>
+      <trkpt lat="49.5847533" lon="-121.1129961">
+      </trkpt>
+      <trkpt lat="49.5844915" lon="-121.111016">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.5892293" lon="-121.1154451">
+      </trkpt>
+      <trkpt lat="49.5894561" lon="-121.1158883">
+      </trkpt>
+      <trkpt lat="49.5899791" lon="-121.1174858">
+      </trkpt>
+      <trkpt lat="49.5907662" lon="-121.1188582">
+      </trkpt>
+      <trkpt lat="49.5940446" lon="-121.1223441">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

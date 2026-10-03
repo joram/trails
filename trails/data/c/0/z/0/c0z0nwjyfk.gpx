@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Devil's Den Lake Trail</name>
+    <trkseg>
+      <trkpt lat="49.254265" lon="-124.8640433">
+      </trkpt>
+      <trkpt lat="49.2542427" lon="-124.8640407">
+      </trkpt>
+      <trkpt lat="49.2541404" lon="-124.8640282">
+      </trkpt>
+      <trkpt lat="49.2539207" lon="-124.8633864">
+      </trkpt>
+      <trkpt lat="49.2533793" lon="-124.8635111">
+      </trkpt>
+      <trkpt lat="49.2531402" lon="-124.8636644">
+      </trkpt>
+      <trkpt lat="49.2529816" lon="-124.8638987">
+      </trkpt>
+      <trkpt lat="49.2529626" lon="-124.8638128">
+      </trkpt>
+      <trkpt lat="49.2528843" lon="-124.8634638">
+      </trkpt>
+      <trkpt lat="49.2526711" lon="-124.8631494">
+      </trkpt>
+      <trkpt lat="49.2525288" lon="-124.8628259">
+      </trkpt>
+      <trkpt lat="49.2524435" lon="-124.8624557">
+      </trkpt>
+      <trkpt lat="49.2518196" lon="-124.8621331">
+      </trkpt>
+      <trkpt lat="49.2517209" lon="-124.8618448">
+      </trkpt>
+      <trkpt lat="49.2515212" lon="-124.8616127">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2524435" lon="-124.8624557">
+      </trkpt>
+      <trkpt lat="49.2524303" lon="-124.8622966">
+      </trkpt>
+      <trkpt lat="49.2524875" lon="-124.8620698">
+      </trkpt>
+      <trkpt lat="49.2525724" lon="-124.8609938">
+      </trkpt>
+      <trkpt lat="49.2529305" lon="-124.8605648">
+      </trkpt>
+      <trkpt lat="49.2530154" lon="-124.8605226">
+      </trkpt>
+      <trkpt lat="49.2531607" lon="-124.8606196">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

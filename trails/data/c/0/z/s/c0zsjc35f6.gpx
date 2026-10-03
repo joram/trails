@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Acorn Trail</name>
+    <trkseg>
+      <trkpt lat="49.9310753" lon="-124.2007289">
+      </trkpt>
+      <trkpt lat="49.9304847" lon="-124.2000854">
+      </trkpt>
+      <trkpt lat="49.9300703" lon="-124.1995168">
+      </trkpt>
+      <trkpt lat="49.9299045" lon="-124.1993344">
+      </trkpt>
+      <trkpt lat="49.9295454" lon="-124.1993344">
+      </trkpt>
+      <trkpt lat="49.9294073" lon="-124.1992486">
+      </trkpt>
+      <trkpt lat="49.9291725" lon="-124.1987872">
+      </trkpt>
+      <trkpt lat="49.9287926" lon="-124.1980362">
+      </trkpt>
+      <trkpt lat="49.9282262" lon="-124.197489">
+      </trkpt>
+      <trkpt lat="49.9273275" lon="-124.1971135">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

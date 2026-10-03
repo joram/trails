@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Panorama Ridge</name>
+    <trkseg>
+      <trkpt lat="49.9446832" lon="-123.0548641">
+      </trkpt>
+      <trkpt lat="49.9292168" lon="-122.9943881">
+      </trkpt>
+      <trkpt lat="49.9293549" lon="-122.9935298">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

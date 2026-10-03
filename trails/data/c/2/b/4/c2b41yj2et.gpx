@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Mount Crucil</name>
+    <trkseg>
+      <trkpt lat="49.6032771" lon="-123.6716207">
+      </trkpt>
+      <trkpt lat="49.6034432" lon="-123.6713362">
+      </trkpt>
+      <trkpt lat="49.6035366" lon="-123.6711139">
+      </trkpt>
+      <trkpt lat="49.6036089" lon="-123.6708753">
+      </trkpt>
+      <trkpt lat="49.6038312" lon="-123.6704465">
+      </trkpt>
+      <trkpt lat="49.6038823" lon="-123.6701802">
+      </trkpt>
+      <trkpt lat="49.6038981" lon="-123.6699649">
+      </trkpt>
+      <trkpt lat="49.6038059" lon="-123.6696305">
+      </trkpt>
+      <trkpt lat="49.6037821" lon="-123.6693449">
+      </trkpt>
+      <trkpt lat="49.6038243" lon="-123.6687006">
+      </trkpt>
+      <trkpt lat="49.6033309" lon="-123.6646641">
+      </trkpt>
+      <trkpt lat="49.6044882" lon="-123.6557501">
+      </trkpt>
+      <trkpt lat="49.6035123" lon="-123.6505354">
+      </trkpt>
+      <trkpt lat="49.5991739" lon="-123.6460608">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Tupper Traverse</name>
+    <trkseg>
+      <trkpt lat="51.3435077" lon="-117.4456072">
+      </trkpt>
+      <trkpt lat="51.3432664" lon="-117.4455643">
+      </trkpt>
+      <trkpt lat="51.3422745" lon="-117.4457789">
+      </trkpt>
+      <trkpt lat="51.3402639" lon="-117.4466372">
+      </trkpt>
+      <trkpt lat="51.3381459" lon="-117.448268">
+      </trkpt>
+      <trkpt lat="51.3369981" lon="-117.4491879">
+      </trkpt>
+      <trkpt lat="51.3344728" lon="-117.4506283">
+      </trkpt>
+      <trkpt lat="51.3329177" lon="-117.4512721">
+      </trkpt>
+      <trkpt lat="51.3318183" lon="-117.4514008">
+      </trkpt>
+      <trkpt lat="51.331282" lon="-117.451315">
+      </trkpt>
+      <trkpt lat="51.3308798" lon="-117.4515725">
+      </trkpt>
+      <trkpt lat="51.3303703" lon="-117.4514437">
+      </trkpt>
+      <trkpt lat="51.3300754" lon="-117.4508858">
+      </trkpt>
+      <trkpt lat="51.3299681" lon="-117.4501563">
+      </trkpt>
+      <trkpt lat="51.3297" lon="-117.449255">
+      </trkpt>
+      <trkpt lat="51.3297" lon="-117.4483967">
+      </trkpt>
+      <trkpt lat="51.3300619" lon="-117.4470878">
+      </trkpt>
+      <trkpt lat="51.3306385" lon="-117.4459934">
+      </trkpt>
+      <trkpt lat="51.3320998" lon="-117.4445558">
+      </trkpt>
+      <trkpt lat="51.3347007" lon="-117.4421954">
+      </trkpt>
+      <trkpt lat="51.3347811" lon="-117.4418736">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.3489224" lon="-117.4647475">
+      </trkpt>
+      <trkpt lat="51.3490162" lon="-117.4637175">
+      </trkpt>
+      <trkpt lat="51.3489358" lon="-117.4630738">
+      </trkpt>
+      <trkpt lat="51.3485203" lon="-117.4627733">
+      </trkpt>
+      <trkpt lat="51.3480244" lon="-117.4624515">
+      </trkpt>
+      <trkpt lat="51.3473409" lon="-117.4624944">
+      </trkpt>
+      <trkpt lat="51.3464697" lon="-117.4630523">
+      </trkpt>
+      <trkpt lat="51.3460141" lon="-117.4634814">
+      </trkpt>
+      <trkpt lat="51.3453171" lon="-117.4641252">
+      </trkpt>
+      <trkpt lat="51.3446604" lon="-117.4645114">
+      </trkpt>
+      <trkpt lat="51.3442046" lon="-117.4648547">
+      </trkpt>
+      <trkpt lat="51.3436685" lon="-117.4651766">
+      </trkpt>
+      <trkpt lat="51.3433066" lon="-117.4653053">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

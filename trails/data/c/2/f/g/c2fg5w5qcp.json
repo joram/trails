@@ -1,0 +1,21 @@
+{
+    "center_geohash": "c2fg5w5qcp7y",
+    "center_lat": 49.7802514,
+    "center_lng": -119.7244927,
+    "description": "",
+    "directions": "",
+    "geohash": "c2fg",
+    "nearest_peak_geohash": "c2fg5rbqhszk",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/11287868",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Operator": "Town of Peachland",
+        "Source": "OpenStreetMap",
+        "Total Distance": "4.5 km"
+    },
+    "title": "Bat House Interpretive Trail",
+    "trail_id": "osm-r11287868"
+}

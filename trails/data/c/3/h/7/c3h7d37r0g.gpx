@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>McGill Glade Exit</name>
+    <trkseg>
+      <trkpt lat="51.2508662" lon="-117.6727908">
+      </trkpt>
+      <trkpt lat="51.2500874" lon="-117.6720024">
+      </trkpt>
+      <trkpt lat="51.2494881" lon="-117.6711743">
+      </trkpt>
+      <trkpt lat="51.2487027" lon="-117.670769">
+      </trkpt>
+      <trkpt lat="51.2468348" lon="-117.6687377">
+      </trkpt>
+      <trkpt lat="51.2463287" lon="-117.6679741">
+      </trkpt>
+      <trkpt lat="51.2459397" lon="-117.6669995">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

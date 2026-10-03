@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Fern Trails</name>
+    <trkseg>
+      <trkpt lat="49.9263197" lon="-124.3921029">
+      </trkpt>
+      <trkpt lat="49.9265205" lon="-124.3924057">
+      </trkpt>
+      <trkpt lat="49.9267175" lon="-124.39258">
+      </trkpt>
+      <trkpt lat="49.9268422" lon="-124.3926789">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

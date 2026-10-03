@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Old Klondike Highway</name>
+    <trkseg>
+      <trkpt lat="59.7560352" lon="-134.9671924">
+      </trkpt>
+      <trkpt lat="59.7564816" lon="-134.9668958">
+      </trkpt>
+      <trkpt lat="59.7566658" lon="-134.9667808">
+      </trkpt>
+      <trkpt lat="59.7569894" lon="-134.9664708">
+      </trkpt>
+      <trkpt lat="59.7573551" lon="-134.9660126">
+      </trkpt>
+      <trkpt lat="59.7576227" lon="-134.9655498">
+      </trkpt>
+      <trkpt lat="59.7577924" lon="-134.9651455">
+      </trkpt>
+      <trkpt lat="59.7578776" lon="-134.9649428">
+      </trkpt>
+      <trkpt lat="59.7580712" lon="-134.9643376">
+      </trkpt>
+      <trkpt lat="59.7583395" lon="-134.9631557">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

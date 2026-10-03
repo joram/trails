@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Icefall Traverse</name>
+    <trkseg>
+      <trkpt lat="51.883763" lon="-117.0434582">
+      </trkpt>
+      <trkpt lat="51.8866901" lon="-117.0406366">
+      </trkpt>
+      <trkpt lat="51.887498" lon="-117.0390702">
+      </trkpt>
+      <trkpt lat="51.8891534" lon="-117.0389414">
+      </trkpt>
+      <trkpt lat="51.8897427" lon="-117.0375359">
+      </trkpt>
+      <trkpt lat="51.8909412" lon="-117.0353044">
+      </trkpt>
+      <trkpt lat="51.8917689" lon="-117.0349718">
+      </trkpt>
+      <trkpt lat="51.8928151" lon="-117.0352185">
+      </trkpt>
+      <trkpt lat="51.8942055" lon="-117.0349288">
+      </trkpt>
+      <trkpt lat="51.8949801" lon="-117.0348537">
+      </trkpt>
+      <trkpt lat="51.895576" lon="-117.0348215">
+      </trkpt>
+      <trkpt lat="51.8959865" lon="-117.0342637">
+      </trkpt>
+      <trkpt lat="51.8964234" lon="-117.033298">
+      </trkpt>
+      <trkpt lat="51.8965558" lon="-117.0323217">
+      </trkpt>
+      <trkpt lat="51.8966221" lon="-117.0295859">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

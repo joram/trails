@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Ursus Major Mountain</name>
+    <trkseg>
+      <trkpt lat="51.3120924" lon="-117.5944805">
+      </trkpt>
+      <trkpt lat="51.3118108" lon="-117.5949741">
+      </trkpt>
+      <trkpt lat="51.3115157" lon="-117.5951243">
+      </trkpt>
+      <trkpt lat="51.310845" lon="-117.5949526">
+      </trkpt>
+      <trkpt lat="51.3097317" lon="-117.5946307">
+      </trkpt>
+      <trkpt lat="51.3076526" lon="-117.5938583">
+      </trkpt>
+      <trkpt lat="51.3056539" lon="-117.5933862">
+      </trkpt>
+      <trkpt lat="51.3047417" lon="-117.5930643">
+      </trkpt>
+      <trkpt lat="51.3035746" lon="-117.5923991">
+      </trkpt>
+      <trkpt lat="51.3013073" lon="-117.5904894">
+      </trkpt>
+      <trkpt lat="51.2991742" lon="-117.5887299">
+      </trkpt>
+      <trkpt lat="51.2980941" lon="-117.5877428">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

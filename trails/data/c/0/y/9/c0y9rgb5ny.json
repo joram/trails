@@ -1,0 +1,20 @@
+{
+    "center_geohash": "c0y9rgb5nyu0",
+    "center_lat": 49.4596272,
+    "center_lng": -125.5185035,
+    "description": "From Della Falls Trail to Love Lake.",
+    "directions": "",
+    "geohash": "c0y9",
+    "nearest_peak_geohash": "c0yc2p353jmm",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/13272334",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "3.0 km"
+    },
+    "title": "Love Lake Trail",
+    "trail_id": "osm-r13272334"
+}

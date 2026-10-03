@@ -1,0 +1,22 @@
+{
+    "center_geohash": "c37qkufv86b9",
+    "center_lat": 53.1569345,
+    "center_lng": -118.967159,
+    "description": "",
+    "directions": "",
+    "geohash": "c37q",
+    "nearest_peak_geohash": "c37q6cp9hc35",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/6035652",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Operator": "BCParks",
+        "Source": "OpenStreetMap",
+        "Total Distance": "62.3 km",
+        "Website": "https://www.env.gov.bc.ca/bcparks"
+    },
+    "title": "Moose River Route",
+    "trail_id": "osm-r6035652"
+}

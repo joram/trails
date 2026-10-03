@@ -1,0 +1,20 @@
+{
+    "center_geohash": "c28xj2sp75u2",
+    "center_lat": 49.04698,
+    "center_lng": -122.8105344,
+    "description": "Greenway preserving portions of the historic Semiahmoo Trail, an early route between the Fraser River and Semiahmoo Bay. Used since the 1850s and later a wagon road, it now provides a scenic walking and cycling corridor.",
+    "directions": "",
+    "geohash": "c28x",
+    "nearest_peak_geohash": null,
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/1640174",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "5.4 km"
+    },
+    "title": "Semiahmoo Greenway",
+    "trail_id": "osm-r1640174"
+}

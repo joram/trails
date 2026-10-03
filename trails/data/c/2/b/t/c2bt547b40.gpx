@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Green Line - Upper</name>
+    <trkseg>
+      <trkpt lat="50.1099467" lon="-122.9095777">
+      </trkpt>
+      <trkpt lat="50.1099951" lon="-122.9097033">
+      </trkpt>
+      <trkpt lat="50.110025" lon="-122.9097947">
+      </trkpt>
+      <trkpt lat="50.1100535" lon="-122.9098933">
+      </trkpt>
+      <trkpt lat="50.1100819" lon="-122.9100013">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

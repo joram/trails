@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>The Great Trail - West Vancouver to Nanaimo Ferry</name>
+    <trkseg>
+      <trkpt lat="49.3763816" lon="-123.2720596">
+      </trkpt>
+      <trkpt lat="49.3770463" lon="-123.2720166">
+      </trkpt>
+      <trkpt lat="49.3779452" lon="-123.2719013">
+      </trkpt>
+      <trkpt lat="49.3802387" lon="-123.2712764">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.3760318" lon="-123.2718819">
+      </trkpt>
+      <trkpt lat="49.3763816" lon="-123.2720596">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.376213" lon="-123.2715754">
+      </trkpt>
+      <trkpt lat="49.3772115" lon="-123.2714415">
+      </trkpt>
+      <trkpt lat="49.3802387" lon="-123.2712764">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.376037" lon="-123.2716581">
+      </trkpt>
+      <trkpt lat="49.376213" lon="-123.2715754">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.3763279" lon="-123.2710886">
+      </trkpt>
+      <trkpt lat="49.3765539" lon="-123.2709433">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.3765539" lon="-123.2709433">
+      </trkpt>
+      <trkpt lat="49.3776117" lon="-123.2706409">
+      </trkpt>
+      <trkpt lat="49.3802387" lon="-123.2712764">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Meeting of Waters Trail</name>
+    <trkseg>
+      <trkpt lat="51.2597169" lon="-117.4914827">
+      </trkpt>
+      <trkpt lat="51.2597021" lon="-117.4912682">
+      </trkpt>
+      <trkpt lat="51.2597284" lon="-117.4911139">
+      </trkpt>
+      <trkpt lat="51.2596907" lon="-117.4909146">
+      </trkpt>
+      <trkpt lat="51.2597353" lon="-117.4907628">
+      </trkpt>
+      <trkpt lat="51.2597723" lon="-117.4905752">
+      </trkpt>
+      <trkpt lat="51.2597249" lon="-117.490376">
+      </trkpt>
+      <trkpt lat="51.2596494" lon="-117.4902301">
+      </trkpt>
+      <trkpt lat="51.2596024" lon="-117.4900422">
+      </trkpt>
+      <trkpt lat="51.2596866" lon="-117.4900484">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.2596866" lon="-117.4900484">
+      </trkpt>
+      <trkpt lat="51.2597892" lon="-117.4898286">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.2597892" lon="-117.4898286">
+      </trkpt>
+      <trkpt lat="51.2597942" lon="-117.4897534">
+      </trkpt>
+      <trkpt lat="51.259799" lon="-117.4896818">
+      </trkpt>
+      <trkpt lat="51.2597788" lon="-117.4895759">
+      </trkpt>
+      <trkpt lat="51.2597155" lon="-117.4894817">
+      </trkpt>
+      <trkpt lat="51.2596951" lon="-117.4893744">
+      </trkpt>
+      <trkpt lat="51.2596836" lon="-117.4891076">
+      </trkpt>
+      <trkpt lat="51.2596986" lon="-117.4888946">
+      </trkpt>
+      <trkpt lat="51.2597126" lon="-117.4886814">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

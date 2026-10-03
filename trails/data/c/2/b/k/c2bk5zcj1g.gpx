@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Cloudburst Branch</name>
+    <trkseg>
+      <trkpt lat="49.9646108" lon="-123.2317005">
+      </trkpt>
+      <trkpt lat="49.964811" lon="-123.2319472">
+      </trkpt>
+      <trkpt lat="49.9648248" lon="-123.2322047">
+      </trkpt>
+      <trkpt lat="49.9648524" lon="-123.2325373">
+      </trkpt>
+      <trkpt lat="49.9649194" lon="-123.2327085">
+      </trkpt>
+      <trkpt lat="49.9649822" lon="-123.2327697">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.9649822" lon="-123.2327697">
+      </trkpt>
+      <trkpt lat="49.9651552" lon="-123.2327593">
+      </trkpt>
+      <trkpt lat="49.9652478" lon="-123.2326803">
+      </trkpt>
+      <trkpt lat="49.965437" lon="-123.2324229">
+      </trkpt>
+      <trkpt lat="49.965586" lon="-123.2321636">
+      </trkpt>
+      <trkpt lat="49.965764" lon="-123.231987">
+      </trkpt>
+      <trkpt lat="49.9659384" lon="-123.2318019">
+      </trkpt>
+      <trkpt lat="49.9660006" lon="-123.2316936">
+      </trkpt>
+      <trkpt lat="49.9660338" lon="-123.2315713">
+      </trkpt>
+      <trkpt lat="49.966035" lon="-123.2313371">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

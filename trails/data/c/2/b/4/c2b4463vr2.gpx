@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Mount Crucil</name>
+    <trkseg>
+      <trkpt lat="49.582881" lon="-123.6427252">
+      </trkpt>
+      <trkpt lat="49.5822598" lon="-123.6431364">
+      </trkpt>
+      <trkpt lat="49.5817994" lon="-123.6464081">
+      </trkpt>
+      <trkpt lat="49.5826659" lon="-123.6528302">
+      </trkpt>
+      <trkpt lat="49.5833036" lon="-123.6527146">
+      </trkpt>
+      <trkpt lat="49.5842284" lon="-123.6516191">
+      </trkpt>
+      <trkpt lat="49.5849913" lon="-123.6497135">
+      </trkpt>
+      <trkpt lat="49.5864816" lon="-123.6481168">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

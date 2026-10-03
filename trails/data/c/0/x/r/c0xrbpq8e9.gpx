@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Sezai Road Trail</name>
+    <trkseg>
+      <trkpt lat="49.2145794" lon="-124.7961789">
+      </trkpt>
+      <trkpt lat="49.2144231" lon="-124.7973362">
+      </trkpt>
+      <trkpt lat="49.2143136" lon="-124.7975952">
+      </trkpt>
+      <trkpt lat="49.2143335" lon="-124.7979532">
+      </trkpt>
+      <trkpt lat="49.2142937" lon="-124.7984407">
+      </trkpt>
+      <trkpt lat="49.2135025" lon="-124.8000404">
+      </trkpt>
+      <trkpt lat="49.213413" lon="-124.8003299">
+      </trkpt>
+      <trkpt lat="49.2133546" lon="-124.8006076">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2146033" lon="-124.7960891">
+      </trkpt>
+      <trkpt lat="49.2145794" lon="-124.7961789">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2149633" lon="-124.7955657">
+      </trkpt>
+      <trkpt lat="49.2148561" lon="-124.7958503">
+      </trkpt>
+      <trkpt lat="49.2146033" lon="-124.7960891">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2149633" lon="-124.7955657">
+      </trkpt>
+      <trkpt lat="49.2150075" lon="-124.7953709">
+      </trkpt>
+      <trkpt lat="49.2150372" lon="-124.7951673">
+      </trkpt>
+      <trkpt lat="49.2149933" lon="-124.7949616">
+      </trkpt>
+      <trkpt lat="49.2149395" lon="-124.794811">
+      </trkpt>
+      <trkpt lat="49.2148734" lon="-124.794657">
+      </trkpt>
+      <trkpt lat="49.2147359" lon="-124.7943806">
+      </trkpt>
+      <trkpt lat="49.2146476" lon="-124.7941215">
+      </trkpt>
+      <trkpt lat="49.214778" lon="-124.7939726">
+      </trkpt>
+      <trkpt lat="49.2149146" lon="-124.7938487">
+      </trkpt>
+      <trkpt lat="49.2150527" lon="-124.7937316">
+      </trkpt>
+      <trkpt lat="49.2151461" lon="-124.793644">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2151461" lon="-124.793644">
+      </trkpt>
+      <trkpt lat="49.2151893" lon="-124.7936163">
+      </trkpt>
+      <trkpt lat="49.2152303" lon="-124.7935726">
+      </trkpt>
+      <trkpt lat="49.2152645" lon="-124.7935375">
+      </trkpt>
+      <trkpt lat="49.2153102" lon="-124.7934782">
+      </trkpt>
+      <trkpt lat="49.2153299" lon="-124.793439">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

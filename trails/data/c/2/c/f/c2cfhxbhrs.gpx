@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Thar Peak</name>
+    <trkseg>
+      <trkpt lat="49.6107901" lon="-121.0840476">
+      </trkpt>
+      <trkpt lat="49.6105306" lon="-121.084334">
+      </trkpt>
+      <trkpt lat="49.610271" lon="-121.0846983">
+      </trkpt>
+      <trkpt lat="49.6099624" lon="-121.0869554">
+      </trkpt>
+      <trkpt lat="49.6098275" lon="-121.0879383">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.6098275" lon="-121.0879383">
+      </trkpt>
+      <trkpt lat="49.6099198" lon="-121.0884674">
+      </trkpt>
+      <trkpt lat="49.610015" lon="-121.0890132">
+      </trkpt>
+      <trkpt lat="49.6103442" lon="-121.0919963">
+      </trkpt>
+      <trkpt lat="49.6103864" lon="-121.0944714">
+      </trkpt>
+      <trkpt lat="49.6106734" lon="-121.0951488">
+      </trkpt>
+      <trkpt lat="49.611315" lon="-121.0949274">
+      </trkpt>
+      <trkpt lat="49.6124629" lon="-121.0951879">
+      </trkpt>
+      <trkpt lat="49.6132732" lon="-121.0953573">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.6162048" lon="-121.0953079">
+      </trkpt>
+      <trkpt lat="49.6164661" lon="-121.0948614">
+      </trkpt>
+      <trkpt lat="49.6168164" lon="-121.0940665">
+      </trkpt>
+      <trkpt lat="49.6172417" lon="-121.0925165">
+      </trkpt>
+      <trkpt lat="49.6174979" lon="-121.0911324">
+      </trkpt>
+      <trkpt lat="49.6176157" lon="-121.0904523">
+      </trkpt>
+      <trkpt lat="49.6176106" lon="-121.0895586">
+      </trkpt>
+      <trkpt lat="49.6173493" lon="-121.0883012">
+      </trkpt>
+      <trkpt lat="49.6171199" lon="-121.083714">
+      </trkpt>
+      <trkpt lat="49.6152085" lon="-121.0729484">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.6132732" lon="-121.0953573">
+      </trkpt>
+      <trkpt lat="49.6141257" lon="-121.0951879">
+      </trkpt>
+      <trkpt lat="49.6144212" lon="-121.095227">
+      </trkpt>
+      <trkpt lat="49.6147335" lon="-121.0954745">
+      </trkpt>
+      <trkpt lat="49.6153581" lon="-121.0953312">
+      </trkpt>
+      <trkpt lat="49.6160057" lon="-121.0953511">
+      </trkpt>
+      <trkpt lat="49.6162048" lon="-121.0953079">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Walker Creek Trail</name>
+    <trkseg>
+      <trkpt lat="49.1010382" lon="-121.9192816">
+      </trkpt>
+      <trkpt lat="49.1009666" lon="-121.9193467">
+      </trkpt>
+      <trkpt lat="49.1009205" lon="-121.9194748">
+      </trkpt>
+      <trkpt lat="49.1009143" lon="-121.9196515">
+      </trkpt>
+      <trkpt lat="49.1010091" lon="-121.9197642">
+      </trkpt>
+      <trkpt lat="49.1011286" lon="-121.9198446">
+      </trkpt>
+      <trkpt lat="49.1012199" lon="-121.9202094">
+      </trkpt>
+      <trkpt lat="49.1013252" lon="-121.9203382">
+      </trkpt>
+      <trkpt lat="49.1014341" lon="-121.9203382">
+      </trkpt>
+      <trkpt lat="49.1014763" lon="-121.9204669">
+      </trkpt>
+      <trkpt lat="49.1014376" lon="-121.9206064">
+      </trkpt>
+      <trkpt lat="49.1013323" lon="-121.9207834">
+      </trkpt>
+      <trkpt lat="49.1012796" lon="-121.9209229">
+      </trkpt>
+      <trkpt lat="49.101248" lon="-121.9213681">
+      </trkpt>
+      <trkpt lat="49.1012626" lon="-121.9214257">
+      </trkpt>
+      <trkpt lat="49.1012901" lon="-121.9215344">
+      </trkpt>
+      <trkpt lat="49.101385" lon="-121.9216471">
+      </trkpt>
+      <trkpt lat="49.1015831" lon="-121.9217078">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

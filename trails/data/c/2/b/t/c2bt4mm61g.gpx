@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Upper Panorama Connector</name>
+    <trkseg>
+      <trkpt lat="50.1276667" lon="-122.9401355">
+      </trkpt>
+      <trkpt lat="50.1275563" lon="-122.9402921">
+      </trkpt>
+      <trkpt lat="50.1273801" lon="-122.9403994">
+      </trkpt>
+      <trkpt lat="50.1271915" lon="-122.9404929">
+      </trkpt>
+      <trkpt lat="50.127023" lon="-122.9406725">
+      </trkpt>
+      <trkpt lat="50.1268238" lon="-122.9408205">
+      </trkpt>
+      <trkpt lat="50.1266383" lon="-122.9409063">
+      </trkpt>
+      <trkpt lat="50.1265145" lon="-122.9409275">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="50.1265145" lon="-122.9409275">
+      </trkpt>
+      <trkpt lat="50.1263871" lon="-122.9409787">
+      </trkpt>
+      <trkpt lat="50.1263218" lon="-122.940968">
+      </trkpt>
+      <trkpt lat="50.1262838" lon="-122.9410296">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

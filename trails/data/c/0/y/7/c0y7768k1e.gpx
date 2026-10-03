@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Gold River Trail</name>
+    <trkseg>
+      <trkpt lat="49.80162783" lon="-126.06516345">
+      </trkpt>
+      <trkpt lat="49.80131777" lon="-126.06665752">
+      </trkpt>
+      <trkpt lat="49.80139311" lon="-126.06759558">
+      </trkpt>
+      <trkpt lat="49.80159009" lon="-126.06827588">
+      </trkpt>
+      <trkpt lat="49.80325994" lon="-126.06895841">
+      </trkpt>
+      <trkpt lat="49.80392794" lon="-126.06914702">
+      </trkpt>
+      <trkpt lat="49.80423141" lon="-126.06947578">
+      </trkpt>
+      <trkpt lat="49.8046869" lon="-126.06954681">
+      </trkpt>
+      <trkpt lat="49.80538545" lon="-126.06943063">
+      </trkpt>
+      <trkpt lat="49.805568" lon="-126.06889152">
+      </trkpt>
+      <trkpt lat="49.80576582" lon="-126.0682352">
+      </trkpt>
+      <trkpt lat="49.80605481" lon="-126.06743829">
+      </trkpt>
+      <trkpt lat="49.80645004" lon="-126.06673533">
+      </trkpt>
+      <trkpt lat="49.80673883" lon="-126.06624327">
+      </trkpt>
+      <trkpt lat="49.80683003" lon="-126.06610269">
+      </trkpt>
+      <trkpt lat="49.80681491" lon="-126.06536354">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

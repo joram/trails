@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>China Beach Trail</name>
+    <trkseg>
+      <trkpt lat="48.4376119" lon="-124.089825">
+      </trkpt>
+      <trkpt lat="48.4375541" lon="-124.0894904">
+      </trkpt>
+      <trkpt lat="48.4372398" lon="-124.0893664">
+      </trkpt>
+      <trkpt lat="48.4369963" lon="-124.0892932">
+      </trkpt>
+      <trkpt lat="48.4365474" lon="-124.0891634">
+      </trkpt>
+      <trkpt lat="48.4362592" lon="-124.0890912">
+      </trkpt>
+      <trkpt lat="48.4358351" lon="-124.0891387">
+      </trkpt>
+      <trkpt lat="48.435639" lon="-124.0892782">
+      </trkpt>
+      <trkpt lat="48.4355465" lon="-124.0895481">
+      </trkpt>
+      <trkpt lat="48.4354013" lon="-124.0902547">
+      </trkpt>
+      <trkpt lat="48.4353276" lon="-124.0904152">
+      </trkpt>
+      <trkpt lat="48.4350018" lon="-124.0907756">
+      </trkpt>
+      <trkpt lat="48.4344893" lon="-124.0915266">
+      </trkpt>
+      <trkpt lat="48.4342757" lon="-124.0919987">
+      </trkpt>
+      <trkpt lat="48.4339625" lon="-124.0923635">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="48.4339625" lon="-124.0923635">
+      </trkpt>
+      <trkpt lat="48.4342615" lon="-124.093093">
+      </trkpt>
+      <trkpt lat="48.4339768" lon="-124.0930072">
+      </trkpt>
+      <trkpt lat="48.433773" lon="-124.0931286">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

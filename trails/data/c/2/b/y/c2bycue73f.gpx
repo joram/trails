@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Mount Gardiner</name>
+    <trkseg>
+      <trkpt lat="50.4366987" lon="-122.6136915">
+      </trkpt>
+      <trkpt lat="50.4350519" lon="-122.6084188">
+      </trkpt>
+      <trkpt lat="50.433193" lon="-122.6053289">
+      </trkpt>
+      <trkpt lat="50.4290651" lon="-122.6008871">
+      </trkpt>
+      <trkpt lat="50.4249778" lon="-122.5975826">
+      </trkpt>
+      <trkpt lat="50.4185249" lon="-122.5945357">
+      </trkpt>
+      <trkpt lat="50.413844" lon="-122.5928289">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="50.4366987" lon="-122.6136915">
+      </trkpt>
+      <trkpt lat="50.4349074" lon="-122.6205993">
+      </trkpt>
+      <trkpt lat="50.434306" lon="-122.6245904">
+      </trkpt>
+      <trkpt lat="50.4330486" lon="-122.6273799">
+      </trkpt>
+      <trkpt lat="50.4326795" lon="-122.6279164">
+      </trkpt>
+      <trkpt lat="50.4322968" lon="-122.6280451">
+      </trkpt>
+      <trkpt lat="50.4315724" lon="-122.6272941">
+      </trkpt>
+      <trkpt lat="50.4316134" lon="-122.6252127">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Baldy Rocks</name>
+    <trkseg>
+      <trkpt lat="49.058205" lon="-117.0404">
+      </trkpt>
+      <trkpt lat="49.057446" lon="-117.03765">
+      </trkpt>
+      <trkpt lat="49.057304" lon="-117.036026">
+      </trkpt>
+      <trkpt lat="49.05739" lon="-117.034096">
+      </trkpt>
+      <trkpt lat="49.05722" lon="-117.03289">
+      </trkpt>
+      <trkpt lat="49.057247" lon="-117.03134">
+      </trkpt>
+      <trkpt lat="49.056713" lon="-117.03066">
+      </trkpt>
+      <trkpt lat="49.05607" lon="-117.029755">
+      </trkpt>
+      <trkpt lat="49.05528" lon="-117.02916">
+      </trkpt>
+      <trkpt lat="49.05486" lon="-117.02851">
+      </trkpt>
+      <trkpt lat="49.054462" lon="-117.028">
+      </trkpt>
+      <trkpt lat="49.05348" lon="-117.02542">
+      </trkpt>
+      <trkpt lat="49.05306" lon="-117.022675">
+      </trkpt>
+      <trkpt lat="49.052494" lon="-117.01993">
+      </trkpt>
+      <trkpt lat="49.053085" lon="-117.019325">
+      </trkpt>
+      <trkpt lat="49.054237" lon="-117.018425">
+      </trkpt>
+      <trkpt lat="49.05441" lon="-117.0153">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Mount Brew</name>
+    <trkseg>
+      <trkpt lat="50.0459658" lon="-123.2156599">
+      </trkpt>
+      <trkpt lat="50.0461564" lon="-123.2163028">
+      </trkpt>
+      <trkpt lat="50.0471244" lon="-123.2181321">
+      </trkpt>
+      <trkpt lat="50.0476755" lon="-123.221458">
+      </trkpt>
+      <trkpt lat="50.0480751" lon="-123.2221876">
+      </trkpt>
+      <trkpt lat="50.0498112" lon="-123.2244407">
+      </trkpt>
+      <trkpt lat="50.0517815" lon="-123.2258354">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

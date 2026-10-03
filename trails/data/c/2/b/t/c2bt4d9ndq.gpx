@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Blackcomb Bench Climb</name>
+    <trkseg>
+      <trkpt lat="50.1101694" lon="-122.9443393">
+      </trkpt>
+      <trkpt lat="50.1103663" lon="-122.944118">
+      </trkpt>
+      <trkpt lat="50.1104202" lon="-122.9440473">
+      </trkpt>
+      <trkpt lat="50.1105148" lon="-122.9439615">
+      </trkpt>
+      <trkpt lat="50.1106095" lon="-122.943806">
+      </trkpt>
+      <trkpt lat="50.1107171" lon="-122.9435602">
+      </trkpt>
+      <trkpt lat="50.1107869" lon="-122.9434025">
+      </trkpt>
+      <trkpt lat="50.1108456" lon="-122.9433177">
+      </trkpt>
+      <trkpt lat="50.1109061" lon="-122.9432422">
+      </trkpt>
+      <trkpt lat="50.1110205" lon="-122.9430921">
+      </trkpt>
+      <trkpt lat="50.1111413" lon="-122.9429847">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="50.114276" lon="-122.9329276">
+      </trkpt>
+      <trkpt lat="50.1143728" lon="-122.9322106">
+      </trkpt>
+      <trkpt lat="50.1144898" lon="-122.9315508">
+      </trkpt>
+      <trkpt lat="50.114875" lon="-122.9309124">
+      </trkpt>
+      <trkpt lat="50.1153394" lon="-122.930274">
+      </trkpt>
+      <trkpt lat="50.1161065" lon="-122.9293728">
+      </trkpt>
+      <trkpt lat="50.1160584" lon="-122.9284814">
+      </trkpt>
+      <trkpt lat="50.1155011" lon="-122.9282034">
+      </trkpt>
+      <trkpt lat="50.1147512" lon="-122.9282999">
+      </trkpt>
+      <trkpt lat="50.1121643" lon="-122.9281712">
+      </trkpt>
+      <trkpt lat="50.1121352" lon="-122.9277282">
+      </trkpt>
+      <trkpt lat="50.1120473" lon="-122.9271943">
+      </trkpt>
+      <trkpt lat="50.1119706" lon="-122.9268094">
+      </trkpt>
+      <trkpt lat="50.111883" lon="-122.9262834">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

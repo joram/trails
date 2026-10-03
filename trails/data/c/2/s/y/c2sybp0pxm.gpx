@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Lightning Strike</name>
+    <trkseg>
+      <trkpt lat="49.0379152" lon="-117.0586407">
+      </trkpt>
+      <trkpt lat="49.03722" lon="-117.06031">
+      </trkpt>
+      <trkpt lat="49.03646" lon="-117.06199">
+      </trkpt>
+      <trkpt lat="49.036434" lon="-117.06362">
+      </trkpt>
+      <trkpt lat="49.036854" lon="-117.0649">
+      </trkpt>
+      <trkpt lat="49.03694" lon="-117.066795">
+      </trkpt>
+      <trkpt lat="49.037277" lon="-117.06847">
+      </trkpt>
+      <trkpt lat="49.037617" lon="-117.06937">
+      </trkpt>
+      <trkpt lat="49.03857" lon="-117.07031">
+      </trkpt>
+      <trkpt lat="49.038853" lon="-117.07095">
+      </trkpt>
+      <trkpt lat="49.03916" lon="-117.071945">
+      </trkpt>
+      <trkpt lat="49.03978" lon="-117.073105">
+      </trkpt>
+      <trkpt lat="49.040146" lon="-117.074135">
+      </trkpt>
+      <trkpt lat="49.040455" lon="-117.07525">
+      </trkpt>
+      <trkpt lat="49.040794" lon="-117.076836">
+      </trkpt>
+      <trkpt lat="49.040936" lon="-117.07726">
+      </trkpt>
+      <trkpt lat="49.04133" lon="-117.077866">
+      </trkpt>
+      <trkpt lat="49.041496" lon="-117.078125">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

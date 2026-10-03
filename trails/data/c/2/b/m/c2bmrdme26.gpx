@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Rainbow Lake Trail</name>
+    <trkseg>
+      <trkpt lat="50.1545217" lon="-123.0611141">
+      </trkpt>
+      <trkpt lat="50.1545096" lon="-123.0611711">
+      </trkpt>
+      <trkpt lat="50.1545141" lon="-123.0612411">
+      </trkpt>
+      <trkpt lat="50.1545492" lon="-123.0613886">
+      </trkpt>
+      <trkpt lat="50.1545651" lon="-123.0614553">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

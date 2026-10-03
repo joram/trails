@@ -1,0 +1,20 @@
+{
+    "center_geohash": "c28jg79b7rf5",
+    "center_lat": 48.8425533,
+    "center_lng": -123.604632,
+    "description": "From Maple Mountain Road to Chilco Road.",
+    "directions": "",
+    "geohash": "c28j",
+    "nearest_peak_geohash": "c28jg38ur64s",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/415483",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "5.3 km"
+    },
+    "title": "Blue Trail",
+    "trail_id": "osm-r415483"
+}

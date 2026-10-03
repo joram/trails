@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Abby's Trail</name>
+    <trkseg>
+      <trkpt lat="49.9401733" lon="-124.1818571">
+      </trkpt>
+      <trkpt lat="49.9395518" lon="-124.1827798">
+      </trkpt>
+      <trkpt lat="49.939005" lon="-124.1832047">
+      </trkpt>
+      <trkpt lat="49.9388613" lon="-124.1833163">
+      </trkpt>
+      <trkpt lat="49.9384608" lon="-124.1838956">
+      </trkpt>
+      <trkpt lat="49.9378532" lon="-124.1843462">
+      </trkpt>
+      <trkpt lat="49.9372179" lon="-124.1845179">
+      </trkpt>
+      <trkpt lat="49.9368312" lon="-124.1844964">
+      </trkpt>
+      <trkpt lat="49.9365411" lon="-124.1843248">
+      </trkpt>
+      <trkpt lat="49.9359197" lon="-124.18396">
+      </trkpt>
+      <trkpt lat="49.9351877" lon="-124.1837883">
+      </trkpt>
+      <trkpt lat="49.9344971" lon="-124.1838956">
+      </trkpt>
+      <trkpt lat="49.9332817" lon="-124.1844535">
+      </trkpt>
+      <trkpt lat="49.9325227" lon="-124.1849463">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

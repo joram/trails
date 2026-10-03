@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Hecht Beach</name>
+    <trkseg>
+      <trkpt lat="50.52521445" lon="-128.19049528">
+      </trkpt>
+      <trkpt lat="50.5252665" lon="-128.19025694">
+      </trkpt>
+      <trkpt lat="50.52537115" lon="-128.19003024">
+      </trkpt>
+      <trkpt lat="50.52550121" lon="-128.189685">
+      </trkpt>
+      <trkpt lat="50.52577166" lon="-128.18914392">
+      </trkpt>
+      <trkpt lat="50.5258996" lon="-128.1888201">
+      </trkpt>
+      <trkpt lat="50.52601432" lon="-128.18856429">
+      </trkpt>
+      <trkpt lat="50.52618849" lon="-128.18829636">
+      </trkpt>
+      <trkpt lat="50.52636303" lon="-128.18807827">
+      </trkpt>
+      <trkpt lat="50.52660228" lon="-128.18793697">
+      </trkpt>
+      <trkpt lat="50.5268672" lon="-128.18785561">
+      </trkpt>
+      <trkpt lat="50.52711635" lon="-128.18781026">
+      </trkpt>
+      <trkpt lat="50.52729467" lon="-128.18778092">
+      </trkpt>
+      <trkpt lat="50.52743819" lon="-128.18769185">
+      </trkpt>
+      <trkpt lat="50.52760407" lon="-128.18753455">
+      </trkpt>
+      <trkpt lat="50.52773543" lon="-128.18735672">
+      </trkpt>
+      <trkpt lat="50.52794928" lon="-128.18718753">
+      </trkpt>
+      <trkpt lat="50.52824584" lon="-128.1870555">
+      </trkpt>
+      <trkpt lat="50.5285039" lon="-128.18697785">
+      </trkpt>
+      <trkpt lat="50.52871181" lon="-128.1869264">
+      </trkpt>
+      <trkpt lat="50.52895685" lon="-128.18693815">
+      </trkpt>
+      <trkpt lat="50.52920394" lon="-128.18692134">
+      </trkpt>
+      <trkpt lat="50.52937276" lon="-128.18687071">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

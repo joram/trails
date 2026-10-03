@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Taylor Arm Beach Trail</name>
+    <trkseg>
+      <trkpt lat="49.2747531" lon="-125.0467112">
+      </trkpt>
+      <trkpt lat="49.2747274" lon="-125.046916">
+      </trkpt>
+      <trkpt lat="49.2746971" lon="-125.0473076">
+      </trkpt>
+      <trkpt lat="49.2746913" lon="-125.0477668">
+      </trkpt>
+      <trkpt lat="49.2745956" lon="-125.0479541">
+      </trkpt>
+      <trkpt lat="49.2744164" lon="-125.0479977">
+      </trkpt>
+      <trkpt lat="49.274225" lon="-125.047979">
+      </trkpt>
+      <trkpt lat="49.2740723" lon="-125.0479603">
+      </trkpt>
+      <trkpt lat="49.2737161" lon="-125.0478823">
+      </trkpt>
+      <trkpt lat="49.2735756" lon="-125.0478604">
+      </trkpt>
+      <trkpt lat="49.2732254" lon="-125.0478511">
+      </trkpt>
+      <trkpt lat="49.2730459" lon="-125.0477027">
+      </trkpt>
+      <trkpt lat="49.2729799" lon="-125.0476421">
+      </trkpt>
+      <trkpt lat="49.2729078" lon="-125.0477138">
+      </trkpt>
+      <trkpt lat="49.2728996" lon="-125.0479104">
+      </trkpt>
+      <trkpt lat="49.2729587" lon="-125.0481943">
+      </trkpt>
+      <trkpt lat="49.272977" lon="-125.0483566">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Surrey Parkway Greenway</name>
+    <trkseg>
+      <trkpt lat="49.205024" lon="-122.8549843">
+      </trkpt>
+      <trkpt lat="49.2049513" lon="-122.8549874">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2049513" lon="-122.8549874">
+      </trkpt>
+      <trkpt lat="49.2049023" lon="-122.8549976">
+      </trkpt>
+      <trkpt lat="49.2048562" lon="-122.8550095">
+      </trkpt>
+      <trkpt lat="49.2048165" lon="-122.8550266">
+      </trkpt>
+      <trkpt lat="49.2047717" lon="-122.8550465">
+      </trkpt>
+      <trkpt lat="49.2047514" lon="-122.8550562">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2047514" lon="-122.8550562">
+      </trkpt>
+      <trkpt lat="49.2047274" lon="-122.8550731">
+      </trkpt>
+      <trkpt lat="49.2046983" lon="-122.8551038">
+      </trkpt>
+      <trkpt lat="49.2046307" lon="-122.8551968">
+      </trkpt>
+      <trkpt lat="49.2044606" lon="-122.8554604">
+      </trkpt>
+      <trkpt lat="49.2042482" lon="-122.8557781">
+      </trkpt>
+      <trkpt lat="49.2041954" lon="-122.855859">
+      </trkpt>
+      <trkpt lat="49.2041663" lon="-122.8559124">
+      </trkpt>
+      <trkpt lat="49.2041569" lon="-122.8559458">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2041569" lon="-122.8559458">
+      </trkpt>
+      <trkpt lat="49.2041542" lon="-122.8559552">
+      </trkpt>
+      <trkpt lat="49.2041489" lon="-122.8559916">
+      </trkpt>
+      <trkpt lat="49.2041505" lon="-122.8560498">
+      </trkpt>
+      <trkpt lat="49.2041589" lon="-122.8560975">
+      </trkpt>
+      <trkpt lat="49.2041769" lon="-122.8561379">
+      </trkpt>
+      <trkpt lat="49.2042144" lon="-122.8561816">
+      </trkpt>
+      <trkpt lat="49.2042635" lon="-122.856222">
+      </trkpt>
+      <trkpt lat="49.204319" lon="-122.8562447">
+      </trkpt>
+      <trkpt lat="49.2045654" lon="-122.8562996">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

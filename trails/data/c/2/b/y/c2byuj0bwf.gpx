@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Entrance to Seven Mile Bowl</name>
+    <trkseg>
+      <trkpt lat="50.4333807" lon="-122.5171326">
+      </trkpt>
+      <trkpt lat="50.4323009" lon="-122.5192784">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Frosst Creek Falls Trail</name>
+    <trkseg>
+      <trkpt lat="49.0091907" lon="-122.0393904">
+      </trkpt>
+      <trkpt lat="49.0091572" lon="-122.0392862">
+      </trkpt>
+      <trkpt lat="49.0088661" lon="-122.0388531">
+      </trkpt>
+      <trkpt lat="49.0088429" lon="-122.0385692">
+      </trkpt>
+      <trkpt lat="49.0088116" lon="-122.0381855">
+      </trkpt>
+      <trkpt lat="49.0086577" lon="-122.0376058">
+      </trkpt>
+      <trkpt lat="49.0084" lon="-122.0370086">
+      </trkpt>
+      <trkpt lat="49.008324" lon="-122.0362778">
+      </trkpt>
+      <trkpt lat="49.0083595" lon="-122.0355705">
+      </trkpt>
+      <trkpt lat="49.00826" lon="-122.0348885">
+      </trkpt>
+      <trkpt lat="49.0082648" lon="-122.0341956">
+      </trkpt>
+      <trkpt lat="49.0080162" lon="-122.0335244">
+      </trkpt>
+      <trkpt lat="49.0079791" lon="-122.0331303">
+      </trkpt>
+      <trkpt lat="49.0078482" lon="-122.0327341">
+      </trkpt>
+      <trkpt lat="49.0077296" lon="-122.0320073">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.0114638" lon="-122.0402698">
+      </trkpt>
+      <trkpt lat="49.0112722" lon="-122.0404327">
+      </trkpt>
+      <trkpt lat="49.0110441" lon="-122.0404579">
+      </trkpt>
+      <trkpt lat="49.0107316" lon="-122.0404495">
+      </trkpt>
+      <trkpt lat="49.0103905" lon="-122.0403508">
+      </trkpt>
+      <trkpt lat="49.0101703" lon="-122.040275">
+      </trkpt>
+      <trkpt lat="49.0099242" lon="-122.0401487">
+      </trkpt>
+      <trkpt lat="49.0095383" lon="-122.0398455">
+      </trkpt>
+      <trkpt lat="49.0092614" lon="-122.0395965">
+      </trkpt>
+      <trkpt lat="49.0091907" lon="-122.0393904">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.0118037" lon="-122.0403186">
+      </trkpt>
+      <trkpt lat="49.0114638" lon="-122.0402698">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

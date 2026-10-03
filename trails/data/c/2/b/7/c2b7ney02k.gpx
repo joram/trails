@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Mashiter</name>
+    <trkseg>
+      <trkpt lat="49.7643975" lon="-123.10482705">
+      </trkpt>
+      <trkpt lat="49.76460281" lon="-123.10484793">
+      </trkpt>
+      <trkpt lat="49.76498194" lon="-123.10484874">
+      </trkpt>
+      <trkpt lat="49.76516363" lon="-123.10484915">
+      </trkpt>
+      <trkpt lat="49.76534181" lon="-123.10490288">
+      </trkpt>
+      <trkpt lat="49.76550426" lon="-123.10487274">
+      </trkpt>
+      <trkpt lat="49.76564918" lon="-123.10482225">
+      </trkpt>
+      <trkpt lat="49.76574815" lon="-123.10481384">
+      </trkpt>
+      <trkpt lat="49.76601668" lon="-123.10485098">
+      </trkpt>
+      <trkpt lat="49.76629311" lon="-123.10487594">
+      </trkpt>
+      <trkpt lat="49.76656964" lon="-123.10480343">
+      </trkpt>
+      <trkpt lat="49.76694884" lon="-123.10471892">
+      </trkpt>
+      <trkpt lat="49.76761244" lon="-123.10461065">
+      </trkpt>
+      <trkpt lat="49.76799168" lon="-123.10448957">
+      </trkpt>
+      <trkpt lat="49.76814183" lon="-123.10441676">
+      </trkpt>
+      <trkpt lat="49.76846581" lon="-123.10427118">
+      </trkpt>
+      <trkpt lat="49.76871865" lon="-123.10417422">
+      </trkpt>
+      <trkpt lat="49.76886095" lon="-123.10402825">
+      </trkpt>
+      <trkpt lat="49.76904304" lon="-123.10356544">
+      </trkpt>
+      <trkpt lat="49.76916389" lon="-123.10319376">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Rethel North Couloir</name>
+    <trkseg>
+      <trkpt lat="50.1549041" lon="-122.8243132">
+      </trkpt>
+      <trkpt lat="50.155905" lon="-122.8238326">
+      </trkpt>
+      <trkpt lat="50.1574777" lon="-122.8235064">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

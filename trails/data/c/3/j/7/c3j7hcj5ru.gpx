@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>The Burn</name>
+    <trkseg>
+      <trkpt lat="51.1564279" lon="-116.1503769">
+      </trkpt>
+      <trkpt lat="51.1563018" lon="-116.1501851">
+      </trkpt>
+      <trkpt lat="51.1561504" lon="-116.1499329">
+      </trkpt>
+      <trkpt lat="51.1561134" lon="-116.1497237">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.1590906" lon="-116.1507264">
+      </trkpt>
+      <trkpt lat="51.1590455" lon="-116.1507188">
+      </trkpt>
+      <trkpt lat="51.1587107" lon="-116.1507068">
+      </trkpt>
+      <trkpt lat="51.1581068" lon="-116.1506692">
+      </trkpt>
+      <trkpt lat="51.157656" lon="-116.150637">
+      </trkpt>
+      <trkpt lat="51.1571614" lon="-116.15057">
+      </trkpt>
+      <trkpt lat="51.1570621" lon="-116.1505485">
+      </trkpt>
+      <trkpt lat="51.1565507" lon="-116.150401">
+      </trkpt>
+      <trkpt lat="51.1564279" lon="-116.1503769">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.1592019" lon="-116.1532656">
+      </trkpt>
+      <trkpt lat="51.1593086" lon="-116.15287">
+      </trkpt>
+      <trkpt lat="51.1592616" lon="-116.15257">
+      </trkpt>
+      <trkpt lat="51.1592876" lon="-116.152513">
+      </trkpt>
+      <trkpt lat="51.1593236" lon="-116.152469">
+      </trkpt>
+      <trkpt lat="51.1593496" lon="-116.15244">
+      </trkpt>
+      <trkpt lat="51.1592217" lon="-116.1517672">
+      </trkpt>
+      <trkpt lat="51.1592016" lon="-116.151756">
+      </trkpt>
+      <trkpt lat="51.1592196" lon="-116.151756">
+      </trkpt>
+      <trkpt lat="51.1591736" lon="-116.151642">
+      </trkpt>
+      <trkpt lat="51.1591106" lon="-116.151586">
+      </trkpt>
+      <trkpt lat="51.1590466" lon="-116.151545">
+      </trkpt>
+      <trkpt lat="51.1589836" lon="-116.15146">
+      </trkpt>
+      <trkpt lat="51.1589826" lon="-116.151417">
+      </trkpt>
+      <trkpt lat="51.1589826" lon="-116.151374">
+      </trkpt>
+      <trkpt lat="51.1590086" lon="-116.151288">
+      </trkpt>
+      <trkpt lat="51.1590256" lon="-116.151087">
+      </trkpt>
+      <trkpt lat="51.1590696" lon="-116.151001">
+      </trkpt>
+      <trkpt lat="51.1590876" lon="-116.150915">
+      </trkpt>
+      <trkpt lat="51.1590906" lon="-116.1507264">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

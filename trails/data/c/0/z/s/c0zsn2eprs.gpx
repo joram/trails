@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Pimple Trail</name>
+    <trkseg>
+      <trkpt lat="49.9238603" lon="-124.1809502">
+      </trkpt>
+      <trkpt lat="49.9246139" lon="-124.1793412">
+      </trkpt>
+      <trkpt lat="49.9250076" lon="-124.1779143">
+      </trkpt>
+      <trkpt lat="49.925094" lon="-124.1770989">
+      </trkpt>
+      <trkpt lat="49.9251285" lon="-124.1765732">
+      </trkpt>
+      <trkpt lat="49.9251009" lon="-124.1761279">
+      </trkpt>
+      <trkpt lat="49.9251631" lon="-124.1755486">
+      </trkpt>
+      <trkpt lat="49.9253047" lon="-124.1742933">
+      </trkpt>
+      <trkpt lat="49.9253357" lon="-124.1736227">
+      </trkpt>
+      <trkpt lat="49.9254808" lon="-124.1725016">
+      </trkpt>
+      <trkpt lat="49.9255326" lon="-124.1719008">
+      </trkpt>
+      <trkpt lat="49.925726" lon="-124.1714716">
+      </trkpt>
+      <trkpt lat="49.9262647" lon="-124.1712785">
+      </trkpt>
+      <trkpt lat="49.9269416" lon="-124.1708064">
+      </trkpt>
+      <trkpt lat="49.9279085" lon="-124.1699696">
+      </trkpt>
+      <trkpt lat="49.9284335" lon="-124.169755">
+      </trkpt>
+      <trkpt lat="49.9291932" lon="-124.1691327">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

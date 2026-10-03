@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Mount Green</name>
+    <trkseg>
+      <trkpt lat="51.2398647" lon="-117.5426279">
+      </trkpt>
+      <trkpt lat="51.2392358" lon="-117.5438688">
+      </trkpt>
+      <trkpt lat="51.2386147" lon="-117.5455134">
+      </trkpt>
+      <trkpt lat="51.2386801" lon="-117.5460747">
+      </trkpt>
+      <trkpt lat="51.2384431" lon="-117.5464533">
+      </trkpt>
+      <trkpt lat="51.2380753" lon="-117.5467143">
+      </trkpt>
+      <trkpt lat="51.2379446" lon="-117.5471973">
+      </trkpt>
+      <trkpt lat="51.2375114" lon="-117.5472756">
+      </trkpt>
+      <trkpt lat="51.236637" lon="-117.5472887">
+      </trkpt>
+      <trkpt lat="51.2356481" lon="-117.5473017">
+      </trkpt>
+      <trkpt lat="51.2348183" lon="-117.547355">
+      </trkpt>
+      <trkpt lat="51.2342672" lon="-117.5474985">
+      </trkpt>
+      <trkpt lat="51.2333358" lon="-117.5481932">
+      </trkpt>
+      <trkpt lat="51.2319221" lon="-117.5499883">
+      </trkpt>
+      <trkpt lat="51.2313736" lon="-117.5520138">
+      </trkpt>
+      <trkpt lat="51.2311856" lon="-117.5529014">
+      </trkpt>
+      <trkpt lat="51.2305562" lon="-117.5552379">
+      </trkpt>
+      <trkpt lat="51.2300331" lon="-117.5567521">
+      </trkpt>
+      <trkpt lat="51.2300413" lon="-117.5596107">
+      </trkpt>
+      <trkpt lat="51.2299595" lon="-117.5608768">
+      </trkpt>
+      <trkpt lat="51.2288787" lon="-117.5656405">
+      </trkpt>
+      <trkpt lat="51.2278421" lon="-117.5682861">
+      </trkpt>
+      <trkpt lat="51.2271479" lon="-117.5699562">
+      </trkpt>
+      <trkpt lat="51.2261667" lon="-117.5714638">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.2261667" lon="-117.5714638">
+      </trkpt>
+      <trkpt lat="51.2258382" lon="-117.5722028">
+      </trkpt>
+      <trkpt lat="51.2255096" lon="-117.5729418">
+      </trkpt>
+      <trkpt lat="51.2237655" lon="-117.5794546">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.2237655" lon="-117.5794546">
+      </trkpt>
+      <trkpt lat="51.2232818" lon="-117.5803422">
+      </trkpt>
+      <trkpt lat="51.2229641" lon="-117.580907">
+      </trkpt>
+      <trkpt lat="51.223289" lon="-117.5815526">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="51.223289" lon="-117.5815526">
+      </trkpt>
+      <trkpt lat="51.2241563" lon="-117.5816222">
+      </trkpt>
+      <trkpt lat="51.2256341" lon="-117.5812541">
+      </trkpt>
+      <trkpt lat="51.2265564" lon="-117.5812373">
+      </trkpt>
+      <trkpt lat="51.227615" lon="-117.5807687">
+      </trkpt>
+      <trkpt lat="51.2283405" lon="-117.5798066">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

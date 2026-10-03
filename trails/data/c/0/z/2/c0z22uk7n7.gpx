@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Cold Creek Fall Trail</name>
+    <trkseg>
+      <trkpt lat="49.2859286" lon="-124.7672774">
+      </trkpt>
+      <trkpt lat="49.2859228" lon="-124.767186">
+      </trkpt>
+      <trkpt lat="49.2859541" lon="-124.7669254">
+      </trkpt>
+      <trkpt lat="49.2860506" lon="-124.7665484">
+      </trkpt>
+      <trkpt lat="49.286204" lon="-124.7664013">
+      </trkpt>
+      <trkpt lat="49.2862347" lon="-124.7663718">
+      </trkpt>
+      <trkpt lat="49.2863945" lon="-124.7660462">
+      </trkpt>
+      <trkpt lat="49.2864705" lon="-124.7657169">
+      </trkpt>
+      <trkpt lat="49.2864346" lon="-124.7653504">
+      </trkpt>
+      <trkpt lat="49.2864878" lon="-124.7650439">
+      </trkpt>
+      <trkpt lat="49.2867749" lon="-124.7646386">
+      </trkpt>
+      <trkpt lat="49.2872797" lon="-124.7644961">
+      </trkpt>
+      <trkpt lat="49.2874327" lon="-124.7642337">
+      </trkpt>
+      <trkpt lat="49.287483" lon="-124.7640856">
+      </trkpt>
+      <trkpt lat="49.2875587" lon="-124.7639406">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

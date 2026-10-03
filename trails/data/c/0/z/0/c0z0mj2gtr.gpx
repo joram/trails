@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Bomber Base Trail</name>
+    <trkseg>
+      <trkpt lat="49.2913709" lon="-124.9375025">
+      </trkpt>
+      <trkpt lat="49.2913279" lon="-124.9373524">
+      </trkpt>
+      <trkpt lat="49.2908977" lon="-124.9368671">
+      </trkpt>
+      <trkpt lat="49.2904847" lon="-124.9367062">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2908138" lon="-124.937688">
+      </trkpt>
+      <trkpt lat="49.2908007" lon="-124.9375316">
+      </trkpt>
+      <trkpt lat="49.2908977" lon="-124.9368671">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2913709" lon="-124.9375025">
+      </trkpt>
+      <trkpt lat="49.291439" lon="-124.9375234">
+      </trkpt>
+      <trkpt lat="49.2917565" lon="-124.9378115">
+      </trkpt>
+      <trkpt lat="49.2917872" lon="-124.9378328">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2920068" lon="-124.9359822">
+      </trkpt>
+      <trkpt lat="49.2920355" lon="-124.9363145">
+      </trkpt>
+      <trkpt lat="49.2919797" lon="-124.9366543">
+      </trkpt>
+      <trkpt lat="49.2919575" lon="-124.9366746">
+      </trkpt>
+      <trkpt lat="49.2919358" lon="-124.936782">
+      </trkpt>
+      <trkpt lat="49.2919876" lon="-124.9371319">
+      </trkpt>
+      <trkpt lat="49.2919339" lon="-124.9373201">
+      </trkpt>
+      <trkpt lat="49.2918035" lon="-124.9375112">
+      </trkpt>
+      <trkpt lat="49.2917872" lon="-124.9378328">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2932738" lon="-124.9321649">
+      </trkpt>
+      <trkpt lat="49.2931823" lon="-124.9322892">
+      </trkpt>
+      <trkpt lat="49.2929119" lon="-124.9325832">
+      </trkpt>
+      <trkpt lat="49.2926338" lon="-124.9330625">
+      </trkpt>
+      <trkpt lat="49.2925169" lon="-124.9337005">
+      </trkpt>
+      <trkpt lat="49.2925399" lon="-124.9344385">
+      </trkpt>
+      <trkpt lat="49.2924977" lon="-124.934812">
+      </trkpt>
+      <trkpt lat="49.2922982" lon="-124.9354824">
+      </trkpt>
+      <trkpt lat="49.2920068" lon="-124.9359822">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2934968" lon="-124.9314491">
+      </trkpt>
+      <trkpt lat="49.29352" lon="-124.9315591">
+      </trkpt>
+      <trkpt lat="49.2934826" lon="-124.9316547">
+      </trkpt>
+      <trkpt lat="49.2933894" lon="-124.9319275">
+      </trkpt>
+      <trkpt lat="49.2932738" lon="-124.9321649">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.2934094" lon="-124.9312145">
+      </trkpt>
+      <trkpt lat="49.2934968" lon="-124.9314491">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

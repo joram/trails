@@ -1,0 +1,20 @@
+{
+    "center_geohash": "c0xv7xs7k0kw",
+    "center_lat": 48.7771107,
+    "center_lng": -123.9417394,
+    "description": "",
+    "directions": "",
+    "geohash": "c0xv",
+    "nearest_peak_geohash": null,
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/536046",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Operator": "BC Parks",
+        "Source": "OpenStreetMap",
+        "Total Distance": "3.0 km"
+    },
+    "title": "North Side Trail",
+    "trail_id": "osm-r536046"
+}

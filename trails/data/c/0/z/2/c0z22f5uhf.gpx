@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Equine Trail</name>
+    <trkseg>
+      <trkpt lat="49.2726042" lon="-124.76827988">
+      </trkpt>
+      <trkpt lat="49.27279209" lon="-124.7682445">
+      </trkpt>
+      <trkpt lat="49.27317605" lon="-124.76823962">
+      </trkpt>
+      <trkpt lat="49.27380237" lon="-124.76823154">
+      </trkpt>
+      <trkpt lat="49.27421377" lon="-124.76821918">
+      </trkpt>
+      <trkpt lat="49.2747831" lon="-124.7678416">
+      </trkpt>
+      <trkpt lat="49.27493128" lon="-124.76735087">
+      </trkpt>
+      <trkpt lat="49.27490474" lon="-124.7667017">
+      </trkpt>
+      <trkpt lat="49.27480016" lon="-124.76599764">
+      </trkpt>
+      <trkpt lat="49.27475558" lon="-124.76538368">
+      </trkpt>
+      <trkpt lat="49.27481304" lon="-124.76504057">
+      </trkpt>
+      <trkpt lat="49.27495712" lon="-124.76464774">
+      </trkpt>
+      <trkpt lat="49.27513762" lon="-124.76421237">
+      </trkpt>
+      <trkpt lat="49.2751408" lon="-124.76397493">
+      </trkpt>
+      <trkpt lat="49.27494734" lon="-124.76317372">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,22 @@
+{
+    "center_geohash": "c28yff27yv96",
+    "center_lat": 49.0120567,
+    "center_lng": -122.5738279,
+    "description": "",
+    "directions": "",
+    "geohash": "c28y",
+    "nearest_peak_geohash": null,
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/18361933",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "lwn",
+        "Operator": "Township of Langley",
+        "Source": "OpenStreetMap",
+        "Total Distance": "11.0 km",
+        "Website": "https://www.tol.ca/en/connect/resources/data-maps-locations/maps/PDFs/Document-Feed-Trails/South-Langley-Regional-Trail.pdf"
+    },
+    "title": "South Langley Regional Trail",
+    "trail_id": "osm-r18361933"
+}

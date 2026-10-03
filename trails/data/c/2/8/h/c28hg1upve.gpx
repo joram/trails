@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Legion Trail</name>
+    <trkseg>
+      <trkpt lat="48.65729191" lon="-123.61324335">
+      </trkpt>
+      <trkpt lat="48.65754126" lon="-123.6131363">
+      </trkpt>
+      <trkpt lat="48.65769826" lon="-123.61323331">
+      </trkpt>
+      <trkpt lat="48.65782427" lon="-123.61323483">
+      </trkpt>
+      <trkpt lat="48.65795027" lon="-123.61323636">
+      </trkpt>
+      <trkpt lat="48.65805493" lon="-123.61330103">
+      </trkpt>
+      <trkpt lat="48.65818695" lon="-123.61350288">
+      </trkpt>
+      <trkpt lat="48.65818726" lon="-123.61350313">
+      </trkpt>
+      <trkpt lat="48.6581166" lon="-123.6135554">
+      </trkpt>
+      <trkpt lat="48.65783232" lon="-123.6136946">
+      </trkpt>
+      <trkpt lat="48.65757794" lon="-123.61413533">
+      </trkpt>
+      <trkpt lat="48.6574074" lon="-123.61460879">
+      </trkpt>
+      <trkpt lat="48.65729801" lon="-123.61529079">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="48.65818726" lon="-123.61350313">
+      </trkpt>
+      <trkpt lat="48.6582431" lon="-123.61346182">
+      </trkpt>
+      <trkpt lat="48.65837164" lon="-123.61298785">
+      </trkpt>
+      <trkpt lat="48.65863761" lon="-123.61234119">
+      </trkpt>
+      <trkpt lat="48.65887114" lon="-123.61186849">
+      </trkpt>
+      <trkpt lat="48.65909426" lon="-123.61137979">
+      </trkpt>
+      <trkpt lat="48.65920078" lon="-123.61109576">
+      </trkpt>
+      <trkpt lat="48.65926555" lon="-123.61076367">
+      </trkpt>
+      <trkpt lat="48.65933007" lon="-123.61047912">
+      </trkpt>
+      <trkpt lat="48.65942524" lon="-123.61035346">
+      </trkpt>
+      <trkpt lat="48.65948933" lon="-123.61014816">
+      </trkpt>
+      <trkpt lat="48.6594585" lon="-123.61002098">
+      </trkpt>
+      <trkpt lat="48.65941734" lon="-123.60986198">
+      </trkpt>
+      <trkpt lat="48.65946035" lon="-123.60967228">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

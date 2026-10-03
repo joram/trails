@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Unnamed ski tour</name>
+    <trkseg>
+      <trkpt lat="54.8879428" lon="-127.5915831">
+      </trkpt>
+      <trkpt lat="54.8873951" lon="-127.5913632">
+      </trkpt>
+      <trkpt lat="54.8865188" lon="-127.5908053">
+      </trkpt>
+      <trkpt lat="54.8862535" lon="-127.5905049">
+      </trkpt>
+      <trkpt lat="54.8859202" lon="-127.590301">
+      </trkpt>
+      <trkpt lat="54.8854944" lon="-127.5902796">
+      </trkpt>
+      <trkpt lat="54.8846304" lon="-127.5900543">
+      </trkpt>
+      <trkpt lat="54.8843033" lon="-127.5899255">
+      </trkpt>
+      <trkpt lat="54.8840873" lon="-127.589432">
+      </trkpt>
+      <trkpt lat="54.8838836" lon="-127.5886917">
+      </trkpt>
+      <trkpt lat="54.8837232" lon="-127.5873721">
+      </trkpt>
+      <trkpt lat="54.8837047" lon="-127.5866532">
+      </trkpt>
+      <trkpt lat="54.8836244" lon="-127.5861597">
+      </trkpt>
+      <trkpt lat="54.883285" lon="-127.5856447">
+      </trkpt>
+      <trkpt lat="54.882532" lon="-127.5848508">
+      </trkpt>
+      <trkpt lat="54.8816495" lon="-127.5839818">
+      </trkpt>
+      <trkpt lat="54.8806372" lon="-127.5826299">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="54.8889957" lon="-127.5922543">
+      </trkpt>
+      <trkpt lat="54.8885306" lon="-127.5918889">
+      </trkpt>
+      <trkpt lat="54.8879428" lon="-127.5915831">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ski tour near Rainbow Mountain</name>
+    <trkseg>
+      <trkpt lat="50.1545651" lon="-123.0614553">
+      </trkpt>
+      <trkpt lat="50.1547735" lon="-123.064257">
+      </trkpt>
+      <trkpt lat="50.1551172" lon="-123.0684734">
+      </trkpt>
+      <trkpt lat="50.1558692" lon="-123.0729112">
+      </trkpt>
+      <trkpt lat="50.1544958" lon="-123.075253">
+      </trkpt>
+      <trkpt lat="50.1537238" lon="-123.0764439">
+      </trkpt>
+      <trkpt lat="50.152364" lon="-123.0774889">
+      </trkpt>
+      <trkpt lat="50.1515449" lon="-123.0775999">
+      </trkpt>
+      <trkpt lat="50.1511074" lon="-123.0776836">
+      </trkpt>
+      <trkpt lat="50.1507436" lon="-123.0779833">
+      </trkpt>
+      <trkpt lat="50.1504979" lon="-123.0785161">
+      </trkpt>
+      <trkpt lat="50.1503783" lon="-123.0794528">
+      </trkpt>
+      <trkpt lat="50.1503807" lon="-123.0803288">
+      </trkpt>
+      <trkpt lat="50.1501203" lon="-123.0811256">
+      </trkpt>
+      <trkpt lat="50.1499452" lon="-123.0816612">
+      </trkpt>
+      <trkpt lat="50.149348" lon="-123.083066">
+      </trkpt>
+      <trkpt lat="50.1491059" lon="-123.0848032">
+      </trkpt>
+      <trkpt lat="50.148975" lon="-123.0854237">
+      </trkpt>
+      <trkpt lat="50.1487247" lon="-123.0857433">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

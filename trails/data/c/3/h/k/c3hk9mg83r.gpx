@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Heinous Traverse</name>
+    <trkseg>
+      <trkpt lat="51.4489891" lon="-117.7055079">
+      </trkpt>
+      <trkpt lat="51.4487718" lon="-117.7054918">
+      </trkpt>
+      <trkpt lat="51.4486782" lon="-117.7057707">
+      </trkpt>
+      <trkpt lat="51.4485712" lon="-117.7059746">
+      </trkpt>
+      <trkpt lat="51.4484575" lon="-117.7063286">
+      </trkpt>
+      <trkpt lat="51.4484241" lon="-117.7073479">
+      </trkpt>
+      <trkpt lat="51.4485511" lon="-117.7086568">
+      </trkpt>
+      <trkpt lat="51.4485043" lon="-117.7101481">
+      </trkpt>
+      <trkpt lat="51.4481032" lon="-117.7132917">
+      </trkpt>
+      <trkpt lat="51.4476552" lon="-117.715019">
+      </trkpt>
+      <trkpt lat="51.4473275" lon="-117.7166283">
+      </trkpt>
+      <trkpt lat="51.4469731" lon="-117.7189136">
+      </trkpt>
+      <trkpt lat="51.4468795" lon="-117.7206946">
+      </trkpt>
+      <trkpt lat="51.4466388" lon="-117.7221108">
+      </trkpt>
+      <trkpt lat="51.4462643" lon="-117.7238488">
+      </trkpt>
+      <trkpt lat="51.444178" lon="-117.7325607">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

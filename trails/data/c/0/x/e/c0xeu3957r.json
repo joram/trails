@@ -1,0 +1,22 @@
+{
+    "center_geohash": "c0xeu3957r23",
+    "center_lat": 48.4805164,
+    "center_lng": -124.2648443,
+    "description": "From China Beach to Botanical Beach.",
+    "directions": "",
+    "geohash": "c0xe",
+    "nearest_peak_geohash": null,
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/7518802",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "rwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "41.4 km",
+        "Website": "https://bcparks.ca/juan-de-fuca-park/marine-trail/",
+        "Wikipedia": "en:Juan de Fuca Marine Trail"
+    },
+    "title": "Juan de Fuca Marine Trail",
+    "trail_id": "osm-r7518802"
+}

@@ -1,0 +1,21 @@
+{
+    "center_geohash": "c0xzeqbzgjpc",
+    "center_lat": 49.1692956,
+    "center_lng": -123.9575708,
+    "description": "From Reservoir Park to Harbour.",
+    "directions": "",
+    "geohash": "c0xz",
+    "nearest_peak_geohash": "c0zb40wft7x6",
+    "photos": [],
+    "source_url": "https://www.openstreetmap.org/relation/14075972",
+    "stats": {
+        "Activities": "hike",
+        "License": "ODbL 1.0 - (c) OpenStreetMap contributors",
+        "Network": "nwn",
+        "Source": "OpenStreetMap",
+        "Total Distance": "12.2 km",
+        "Website": "https://www.nanaimo.ca/EN/main/departments/parks-recreation-culture/ParksTrailsFields/Trails.html"
+    },
+    "title": "The Great Trail - City of Nanaimo",
+    "trail_id": "osm-r14075972"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Hike</name>
+    <trkseg>
+      <trkpt lat="49.0777524" lon="-120.9083916">
+      </trkpt>
+      <trkpt lat="49.077333" lon="-120.9076808">
+      </trkpt>
+      <trkpt lat="49.0770933" lon="-120.9072255">
+      </trkpt>
+      <trkpt lat="49.076779" lon="-120.9063961">
+      </trkpt>
+      <trkpt lat="49.0765447" lon="-120.9059164">
+      </trkpt>
+      <trkpt lat="49.0764524" lon="-120.9056883">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

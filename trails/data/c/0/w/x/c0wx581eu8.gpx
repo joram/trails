@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Combers Beach Trail</name>
+    <trkseg>
+      <trkpt lat="49.0442343" lon="-125.7017729">
+      </trkpt>
+      <trkpt lat="49.0439078" lon="-125.7017618">
+      </trkpt>
+      <trkpt lat="49.0438099" lon="-125.7016968">
+      </trkpt>
+      <trkpt lat="49.0436724" lon="-125.7016857">
+      </trkpt>
+      <trkpt lat="49.0435851" lon="-125.7016748">
+      </trkpt>
+      <trkpt lat="49.0435455" lon="-125.70172">
+      </trkpt>
+      <trkpt lat="49.0435549" lon="-125.7018657">
+      </trkpt>
+      <trkpt lat="49.0435522" lon="-125.7019929">
+      </trkpt>
+      <trkpt lat="49.0435398" lon="-125.7022201">
+      </trkpt>
+      <trkpt lat="49.043573" lon="-125.7023802">
+      </trkpt>
+      <trkpt lat="49.0437613" lon="-125.7027505">
+      </trkpt>
+      <trkpt lat="49.0438043" lon="-125.7030314">
+      </trkpt>
+      <trkpt lat="49.0439412" lon="-125.7032848">
+      </trkpt>
+      <trkpt lat="49.0439863" lon="-125.7035515">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.0439863" lon="-125.7035515">
+      </trkpt>
+      <trkpt lat="49.0439896" lon="-125.7036618">
+      </trkpt>
+      <trkpt lat="49.0439687" lon="-125.7037388">
+      </trkpt>
+      <trkpt lat="49.0438952" lon="-125.7037666">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.0438952" lon="-125.7037666">
+      </trkpt>
+      <trkpt lat="49.0438309" lon="-125.703825">
+      </trkpt>
+      <trkpt lat="49.0438049" lon="-125.7039944">
+      </trkpt>
+      <trkpt lat="49.0437789" lon="-125.7040648">
+      </trkpt>
+      <trkpt lat="49.0437219" lon="-125.7041195">
+      </trkpt>
+      <trkpt lat="49.0436627" lon="-125.704131">
+      </trkpt>
+      <trkpt lat="49.0434912" lon="-125.7041284">
+      </trkpt>
+      <trkpt lat="49.0433569" lon="-125.7042967">
+      </trkpt>
+      <trkpt lat="49.0430699" lon="-125.7044837">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.0430699" lon="-125.7044837">
+      </trkpt>
+      <trkpt lat="49.0430199" lon="-125.7045352">
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.0430199" lon="-125.7045352">
+      </trkpt>
+      <trkpt lat="49.0429649" lon="-125.7046362">
+      </trkpt>
+      <trkpt lat="49.0427595" lon="-125.70482">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
